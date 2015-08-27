@@ -26,6 +26,135 @@ my %race_data;
 my $temp_time;
 my %temp_hash;
 
+
+#I discovered that it is pretty miserable to type team names
+#Maybe we should a year -> rider -> hash table?
+my %team_roster_hash = (
+	"2015" => {
+		"Aaron Bovalino" => "LaPrima Espresso",
+		"Adam Cohen" => "East End Cycling Club",
+		"Al Meder" => "East End Cycling Club",
+		"Andrew Reay" => "Team Citius",
+		"Andy Seitz" => "Kelly Benefit Strategies Elite",
+		"AnnaLena Kemper" => "Dynamic Physical Therapy",
+		"Austin Bradley" => "Pitt",
+		"Bill Ehler" => "UPMC Cycling Performance",
+		"Birk McGilvrey" => "LaPrima Espresso",
+		"Brett Rothmeyer" => "GPOA",
+		"Bryan Routledge" => "Sette Nove",
+		"Caleb Smith" => "LaPrima Espresso",
+		"Caleb Wakely" => "Team Citius",
+		"Carl Hubel" => "East End Cycling Club",
+		"Carl Lovejoy" => "East End Cycling Club",
+		"Chas McFarland" => "Dynamic Physical Therapy",
+		"Chris Butor" => "Top Gear Racing",
+		"Chris Helbling" => "East End Cycling Club",
+		"Christian Korey" => "UPMC Cycling Performance",
+		"Chris Yanakos" => "LaPrima Espresso",
+		"Colleen Grygier" => "East End Cycling Club",
+		"Craig Merritts" => "CAT Racing",
+		"Dan Greene" => "East End Cycling Club",
+		"Danny Wilson" => "Freddie Fu Cycling",
+		"Dan Rabe" => "Truefit Racing",
+		"Dave Friedman" => "NovaCare",
+		"Dave Galati" => "LaPrima Espresso",
+		"Dave Roney" => "East End Cycling Club",
+		"Dennis Patton" => "East End Cycling Club",
+		"Devon Corboy" => "Dynamic Physical Therapy",
+		"Don Splitstone" => "Truefit Racing",
+		"Drew Dorko" => "East End Cycling Club",
+		"Drew Smorul" => "East End Cycling Club",
+		"Ed Krall" => "GPOA",
+		"EJ Hubstenberger" => "Dynamic Physical Therapy",
+		"Elise Rowe" => "LaPrima Espresso",
+		"Eric Burnett" => "VOLT Multisport",
+		"Eric Hodos" => "UPMC Cycling Performance",
+		"Eric Lundgren" => "JBV Coaching",
+		"Erin Yanacheck" => "UPMC Cycling Performance",
+		"Florian Lungu" => "NovaCare",
+		"Frankie Ross" => "Sette Nove",
+		"Fred Gohh" => "Team Citius",
+		"George Pompura" => "East End Cycling Club",
+		"Greg Ellis" => "UPMC Cycling Performance",
+		"Gunnar Shogren" => "Dynamic Physical Therapy",
+		"Hasan Baydoun" => "East End Cycling Club",
+		"Hassan Beydoun" => "East End Cycling Club",
+		"Heather Slater" => "East End Cycling Club",
+		"Hy Simhan" => "East End Cycling Club",
+		"Hy Simhan" => "UPMC Cycling Performance",
+		"Ian Baun" => "UPMC Cycling Performance",
+		"Jack Neyer" => "Freddie Fu",
+		"Jacob Yundt" => "CAT Racing",
+		"Jake Lifson" => "GPOA",
+		"Jared Babik" => "GPOA",
+		"Jason Bair" => "Truefit Racing",
+		"Jason Hochreiter" => "Truefit Racing",
+		"Jason Mount" => "Freddie Fu Cycling",
+		"Jason Zimmerman" => "Freddie Fu",
+		"Jeff Gernert" => "Dynamic Physical Therapy",
+		"Jeff Griffin" => "Freddie Fu",
+		"Jeff Grimm" => "LaPrima Espresso",
+		"Jeff Koontz" => "UPMC Cycling Performance",
+		"Jeff Paul" => "Rare Diseases",
+		"Jim Doan" => "Bents Cycling",
+		"Jim Mock" => "Dynamic Physical Therapy",
+		"John Cotter" => "NovaCare",
+		"John Heffner" => "CAT Racing",
+		"John McLaughlin" => "NovaCare",
+		"John Rowley" => "GPOA",
+		"Jon Sheppard" => "East End Cycling Club",
+		"Jon Williams" => "Freddie Fu Cycling",
+		"Jordan Villella" => "NovaCare",
+		"Josh Friedman" => "Greenline Velo d/b/ Zipcar",
+		"Josh Lewis" => "East End Cycling Club",
+		"JR Petsko" => "Dynamic Physical Therapy",
+		"Justin Kanter" => "CAT Racing",
+		"Keith Hower" => "Freddie Fu Cycling",
+		"Ken Mowry" => "East End Cycling Club",
+		"Kyle Mihalik" => "NovaCare",
+		"Maarten deBoer" => "Team Citius",
+		"Mark Bedel" => "Team Citius",
+		"Mark Milojevic" => "NovaCare",
+		"Mark Nicoll" => "GPOA",
+		"Marko Milojevic" => "NovaCare",
+		"Matt Brady" => "NovaCare",
+		"Matt Dolfi" => "NovaCare",
+		"Matt Guillon" => "East End Cycling Club",
+		"Matt Serechin" => "East End Cycling Club",
+		"Megan Sybeldon" => "Rare Diseases",
+		"Melissa Hiller" => "QCW Breakaway Bikes",
+		"Mike Appel" => "CAT Racing",
+		"Mike Janeiro" => "LaPrima Espresso",
+		"Mike Mihalik" => "NovaCare",
+		"Mike Oltman" => "CAT Racing",
+		"Mike Quigley" => "UPMC Cycling Performance",
+		"Morgan Baker" => "NovaCare",
+		"Nathan Clair" => "Dynamic Physical Therapy",
+		"Patrick Beukema" => "East End Cycling Club",
+		"Paul Carberry" => "East End Cycling Club",
+		"Paul Carlson" => "Top Gear Racing",
+		"Rachel Weaver" => "NovaCare",
+		"Rick Holzworth" => "LaPrima Espresso",
+		"Russel Boyd" => "NovaCare",
+		"Shawn Geiger" => "Dynamic Physical Therapy",
+		"Shawn Litster" => "NovaCare",
+		"Shequaya Bailey" => "Rare Diseases",
+		"Skip Rogers" => "UPMC Cycling Performance",
+		"Stephanie Swan" => "Rare Diseases",
+		"Steve Cummings" => "GPOA",
+		"Steve Kurpiewski" => "GPOA",
+		"Teddy Denman-Brice" => "LaPrima Espresso",
+		"Ted McPherson" => "QCW Breakaway Bikes",
+		"Tim Daigle" => "Team Citius",
+		"Tom Borner" => "Truefit Racing",
+		"Willem deBoer" => "UPMC Cycling Performance",
+		"Xavier Szigethy" => "UPMC Cycling Performance"
+	},
+	"2014" => {
+		"Jacob Yundt" => "CAT Racing",
+	}
+);
+	
 #Let's just ask users for data (which sucks)
 print "Date (YYYY-MM-DD): ";
 chomp(my $date = <STDIN>);
@@ -266,8 +395,15 @@ foreach my $category_number (1..$num_categories){
 		chomp (my $name= <STDIN>);
 
 
-		print "Category $category rider \#$rider_number\'s team: ";
+		if (exists $team_roster_hash{$year}{$name}){
+			print "Category $category rider \#$rider_number\'s team [$team_roster_hash{$year}{$name}]: ";
+		}else{
+			print "Category $category rider \#$rider_number\'s team: ";
+		}
 		chomp (my $team = <STDIN>);
+		if ($team eq ""){
+			$team = $team_roster_hash{$year}{$name};
+		}			
 
 		if ($rider_number > 1){
 			print "Category $category rider \#$rider_number\'s time [$temp_hash{riders}[$rider_number-2]{time}]: ";
