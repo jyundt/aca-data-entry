@@ -234,7 +234,7 @@ my %permit_hash = (
 );
 
 
-if (exists $permit_hash{$year}){
+if (exists $permit_hash{$year}{$day}){
 	print "USAC Permit [$permit_hash{$year}{$day}]: ";
 }else{
 	print "USAC Permit: ";
@@ -505,8 +505,15 @@ foreach my $category_number (1..$num_categories){
 		print "Category $category MAR rider \#$mar_place\'s name: ";
 		chomp(my $name = <STDIN>);
 
-		print "Category $category MAR rider \#$mar_place\'s team: ";
+		if (exists $team_roster_hash{$year}{$name}){
+			print "Category $category MAR rider \#$mar_place\'s team [$team_roster_hash{$year}{$name}]: ";
+		}else{
+			print "Category $category MAR rider \#$mar_place\'s team: ";
+		}
 		chomp (my $team = <STDIN>);
+		if ($team eq ""){
+			$team = $team_roster_hash{$year}{$name};
+		}			
 
 		#Build a quick hash of places -> points to save time
 		my %place_hash = (
