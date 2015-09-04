@@ -81,7 +81,6 @@ my %team_roster_hash = (
 		"Hassan Beydoun" => "East End Cycling Club",
 		"Heather Slater" => "East End Cycling Club",
 		"Hy Simhan" => "East End Cycling Club",
-		"Hy Simhan" => "UPMC Cycling Performance",
 		"Ian Baun" => "UPMC Cycling Performance",
 		"Jack Neyer" => "Freddie Fu",
 		"Jacob Yundt" => "CAT Racing",
@@ -165,6 +164,7 @@ until ($date  =~ /^\d{4}-\d\d-\d\d$/){
 }
 
 my $year = substr($date,0,4);
+my $month = substr($date,5,2);
 my $day = substr(localtime(str2time($date)),0,3);
 
 #Yes this could probably be an array or some other range thing
@@ -429,44 +429,46 @@ foreach my $category_number (1..$num_categories){
 		);
 	
 		#guess how many points we got
+		my $points;
+		my $team_points;
+		if (($month >= 6) && ($month <=8)){
+			my $points_guess;
+			if (exists $place_hash{$rider_number}){
+				$points_guess = $place_hash{$rider_number};		
+			}else{
+				$points_guess=0;
+			}
 		
-		my $points_guess;
-		if (exists $place_hash{$rider_number}){
-			$points_guess = $place_hash{$rider_number};		
-		}else{
-			$points_guess=0;
-		}
-		
-		print "Category $category rider \#$rider_number\'s points [$points_guess]: ";
-		chomp (my $points = <STDIN>);
-		if ($points eq ""){
-			$points = $points_guess;
-		}
-		until ( $points =~ /\d+$/){
-			print "Invalid entry!\n";	
 			print "Category $category rider \#$rider_number\'s points [$points_guess]: ";
 			chomp ($points = <STDIN>);
 			if ($points eq ""){
 				$points = $points_guess;
 			}
-		}
-		print "Category $category rider \#$rider_number\'s team points [$points_guess]: ";
-		chomp (my $team_points = <STDIN>);
-		if ($team_points eq ""){
-			$team_points = $points_guess;
-		}
-		if ($team_points eq ""){
-			$team_points = 0;
-		}
-		until ($team_points =~ /\d+$/){
-			print "Invalid entry!\n";	
+			until ( $points =~ /\d+$/){
+				print "Invalid entry!\n";	
+				print "Category $category rider \#$rider_number\'s points [$points_guess]: ";
+				chomp ($points = <STDIN>);
+				if ($points eq ""){
+					$points = $points_guess;
+				}
+			}
 			print "Category $category rider \#$rider_number\'s team points [$points_guess]: ";
 			chomp ($team_points = <STDIN>);
 			if ($team_points eq ""){
 				$team_points = $points_guess;
 			}
+			if ($team_points eq ""){
+				$team_points = 0;
+			}
+			until ($team_points =~ /\d+$/){
+				print "Invalid entry!\n";	
+				print "Category $category rider \#$rider_number\'s team points [$points_guess]: ";
+				chomp ($team_points = <STDIN>);
+				if ($team_points eq ""){
+					$team_points = $points_guess;
+				}
+			}
 		}
-
 
 		#We need this bullshit line for things like jr_place and women_place
 		print "Enter additional values for $name (leave blank to end/skip): ";
@@ -484,8 +486,10 @@ foreach my $category_number (1..$num_categories){
 		$temp_rider_hash{place}=$place;	
 		$temp_rider_hash{team}=$team;	
 		$temp_rider_hash{time}=$time;	
-		$temp_rider_hash{points}=$points;	
-		$temp_rider_hash{team_points}=$team_points;	
+		if (($month >= 6) && ($month <=8)){
+			$temp_rider_hash{points}=$points;	
+			$temp_rider_hash{team_points}=$team_points;	
+		}
 
 		push (@{$temp_hash{riders}},{%temp_rider_hash});
 
@@ -522,26 +526,35 @@ foreach my $category_number (1..$num_categories){
 			"3" => "1",
 		);
 
-		my $points_guess = $place_hash{$mar_place};
-		print "Category $category MAR rider \#$mar_place\'s points [$points_guess]: ";
-		chomp (my $mar_points = <STDIN>);
-		if ($mar_points eq ""){
-			$mar_points = $points_guess;
-		}
-		until ( $mar_points =~ /\d+$/){
-			print "Invalid entry!\n";	
-			print "Enter $mar_points\'s points [$points_guess]: ";
+		my $mar_points;
+		if (($month >= 6) && ($month <=8)){
+			my $points_guess = $place_hash{$mar_place};
+			print "Category $category MAR rider \#$mar_place\'s points [$points_guess]: ";
 			chomp ($mar_points = <STDIN>);
 			if ($mar_points eq ""){
 				$mar_points = $points_guess;
 			}
+			until ( $mar_points =~ /\d+$/){
+				print "Invalid entry!\n";	
+				print "Enter $mar_points\'s points [$points_guess]: ";
+				chomp ($mar_points = <STDIN>);
+				if ($mar_points eq ""){
+					$mar_points = $points_guess;
+				}
+			}
+			push(@{$temp_hash{mar}},{
+				"name" => $name,
+				"mar_place" => "$mar_place",
+				"team" => $team,
+				"mar_points" => $mar_points,
+			});
+		}else{
+			push(@{$temp_hash{mar}},{
+				"name" => $name,
+				"mar_place" => "$mar_place",
+				"team" => $team,
+			});
 		}
-		push(@{$temp_hash{mar}},{
-			"name" => $name,
-			"mar_place" => "$mar_place",
-			"team" => $team,
-			"mar_points" => $mar_points,
-		});
 
 	}
 
