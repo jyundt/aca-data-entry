@@ -1,0 +1,175 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "PBR stuff from Paul Carberry",
+         "name" : "Mark Nicoll"
+      }
+   ],
+   "laps" : "45",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Jim Mock",
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Chris Helbling",
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "date" : "2015-05-26",
+   "fast_lap" : "1:03",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Mark Nicoll",
+         "place" : 1,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "",
+         "name" : "Frankie Ross",
+         "place" : 2,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "",
+         "name" : "Jason Zimmerman",
+         "place" : 3,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "",
+         "name" : "Chris Helbling",
+         "place" : 4,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Mike Quigley",
+         "place" : 5,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Florian Lungu",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Jack Neyer",
+         "place" : 7,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "women_place" : "1",
+         "time" : "",
+         "name" : "Stephanie Swan",
+         "place" : 8,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "John McLaughlin",
+         "place" : 9,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jim Mock",
+         "place" : 10,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "EJ Hubstenberger",
+         "place" : 11,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Greg Maier",
+         "place" : 12,
+         "team" : null
+      },
+      {
+         "women_place" : "2",
+         "time" : "at 1 lap",
+         "name" : "Rachel Weaver",
+         "place" : 13,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jon Williams",
+         "place" : 14,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Ed Grystar",
+         "place" : 15,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Brett Stana",
+         "place" : 16,
+         "team" : "NovaCare"
+      },
+      {
+         "women_place" : "3",
+         "time" : "at 1 lap",
+         "name" : "Elise Rowe",
+         "place" : 17,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "women_place" : "4",
+         "time" : "at 1 lap",
+         "name" : "Anna-Lena Kemper",
+         "place" : 18,
+         "team" : null
+      },
+      {
+         "women_place" : "5",
+         "time" : "at 1 lap",
+         "name" : "Megan Sybeldon",
+         "place" : 19,
+         "team" : "Rare Diseases"
+      },
+      {
+         "women_place" : "6",
+         "time" : "at 1 lap",
+         "name" : "Heather Slater",
+         "place" : 20,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "women_place" : "7",
+         "time" : "at 1 lap",
+         "name" : "Colleen Grygier",
+         "place" : 21,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "80 Â°F, sunny, breezy",
+   "starters" : "23",
+   "slow_lap" : "1:19",
+   "category" : "Masters 40+/Women"
+}

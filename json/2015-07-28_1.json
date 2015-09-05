@@ -1,0 +1,197 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Tim Daigle"
+      },
+      {
+         "prime" : "$1 from Tim Daigle ",
+         "name" : "Russ Boyd"
+      },
+      {
+         "prime" : "$1 from Tim Daigle ",
+         "name" : "Jonathan Rafeli"
+      },
+      {
+         "prime" : "$1 from Tim Daigle ",
+         "name" : "Dave Roney"
+      },
+      {
+         "prime" : "$1 from Tim Daigle ",
+         "name" : "Dave Roney"
+      },
+      {
+         "prime" : "$1 from Tim Daigle",
+         "name" : "Josh Lewis"
+      },
+      {
+         "prime" : "$1 from Tim Daigle",
+         "name" : "Josh Lewis"
+      },
+      {
+         "prime" : "$5",
+         "name" : "Josh Lewis"
+      },
+      {
+         "prime" : "$5",
+         "name" : "Tim Daigle"
+      }
+   ],
+   "laps" : "?",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Drew Smorul",
+         "team" : "East End Cycling Club",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Russ Boyd",
+         "team" : "NovaCare",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Josh Lewis",
+         "team" : "East End Cycling Club",
+         "mar_points" : "0"
+      }
+   ],
+   "date" : "2015-07-28",
+   "fast_lap" : "1:04",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "36:43",
+         "name" : "Josh Lewis",
+         "place" : 1,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Al Meder",
+         "place" : 2,
+         "points" : "8",
+         "team" : "East End Cycling Club",
+         "team_points" : "8"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Tim Daigle",
+         "place" : 3,
+         "points" : "7",
+         "team" : "Team Citius",
+         "team_points" : "6"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Andrew Reay",
+         "place" : 4,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Jonathan Rafaeli",
+         "place" : 5,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Drew Dorko",
+         "place" : 6,
+         "points" : "3",
+         "team" : "East End Cycling Club",
+         "team_points" : "3"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Roy Leonard",
+         "place" : 7,
+         "points" : "2",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Rich Shutte",
+         "place" : 8,
+         "points" : "1",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Matt Morehead",
+         "place" : 9,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Walt Impelliceiri",
+         "place" : 10,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Russ Boyd",
+         "place" : 11,
+         "points" : "0",
+         "team" : "NovaCare",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Hy Simhan",
+         "place" : 12,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Drew Smorul",
+         "place" : 13,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Dave Roney",
+         "place" : 14,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "36:43",
+         "name" : "Fred Gohh",
+         "place" : 15,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "92 Â°F, hot and sunny",
+   "starters" : "16",
+   "slow_lap" : "1:22",
+   "category" : "C"
+}

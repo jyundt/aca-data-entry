@@ -1,0 +1,142 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$10 from Mihkai",
+         "name" : "Colleen Grygier"
+      },
+      {
+         "prime" : "poloshirt from Jeff Gernert",
+         "name" : "Kurt Kearcher"
+      },
+      {
+         "prime" : "poloshirt from Jeff Gernert",
+         "name" : "Matt Brady"
+      }
+   ],
+   "laps" : "30",
+   "date" : "2015-05-05",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "34:56",
+         "name" : "Matt Brady",
+         "place" : 1,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Josh Lewis",
+         "place" : 2,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "Kurt Kearcher",
+         "place" : 3,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Al Meder",
+         "place" : 4,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "Eric Burnett",
+         "place" : 5,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Adam Cohen",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "JD Day",
+         "place" : 7,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Fred Kliehm",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Joey Pershina",
+         "place" : 9,
+         "team" : "Truefit Racing"
+      },
+      {
+         "time" : "34:56",
+         "name" : "Walt Impellicceri",
+         "place" : 10,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Matt Guillon",
+         "place" : 11,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "George Pompura",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "Paul Carberry",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "34:56",
+         "name" : "Kelly Haderlie",
+         "place" : 14,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Carl Hubel",
+         "place" : 15,
+         "team" : null
+      },
+      {
+         "time" : "34:56",
+         "name" : "Caleb Wakely",
+         "place" : 16,
+         "team" : "Team Citius"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "78 Â°F, sunny, breezy",
+   "marshals" : [
+      "EJ Hubstenberger",
+      "Birk McGilvrey",
+      "Jacob Yundt",
+      "Josh Friedman"
+   ],
+   "category" : "C",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Hassan Baydoun",
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "fast_lap" : "1:04",
+   "starters" : "28",
+   "slow_lap" : "1:20"
+}

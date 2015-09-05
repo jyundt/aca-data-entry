@@ -1,0 +1,172 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "2 x $5 from Kurt",
+         "name" : "Willem deBoer"
+      },
+      {
+         "prime" : "2 x $5 from Paul Carberry",
+         "name" : "Willem deBoer"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Caleb Smith",
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Willem deBoer",
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Tom Senkevich",
+         "team" : "UPMC Cycling Performance"
+      }
+   ],
+   "date" : "2015-05-13",
+   "fast_lap" : "1:02",
+   "avg_lap" : "1:14",
+   "riders" : [
+      {
+         "time" : "43:12",
+         "name" : "Willem deBoer",
+         "place" : 1,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Dave Galati",
+         "place" : 2,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Matt Brady",
+         "place" : 3,
+         "team" : null
+      },
+      {
+         "time" : "43:12",
+         "name" : "Mike Janeiro",
+         "place" : 4,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Al Meder",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Caleb Smith",
+         "place" : 6,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Xavier Szigethy",
+         "place" : 7,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Matt Williams",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "43:12",
+         "name" : "Jason Hochreiter",
+         "place" : 9,
+         "team" : "Truefit Racing"
+      },
+      {
+         "time" : "43:12",
+         "name" : "John McLaughlin",
+         "place" : 10,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Tim Daigle",
+         "place" : 11,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Ken Mowry",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Matt Serechin",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Jason Bair",
+         "place" : 14,
+         "team" : "Truefit Racing"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Hassan Beydoun",
+         "place" : 15,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Rachel Weaver",
+         "place" : 16,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Elise Rowe",
+         "place" : 17,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Matt Taylor",
+         "place" : 18,
+         "team" : null
+      },
+      {
+         "time" : "43:12",
+         "name" : "Aaron Bovalino",
+         "place" : 19,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "43:12",
+         "name" : "Jacob McCrea",
+         "place" : 20,
+         "team" : null
+      },
+      {
+         "time" : "43:12",
+         "name" : "Tom Senkevich",
+         "place" : 21,
+         "team" : "UPMC Cycling Performance"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "50 Â°F, cold, cloudy",
+   "starters" : "22",
+   "slow_lap" : "1:22",
+   "category" : "B"
+}

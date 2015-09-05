@@ -1,0 +1,132 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "LaPrima Espresso Race Entry",
+         "name" : "Josh Friedman"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Steve Kurpiewski"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Josh Friedman"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Frankie Ross"
+      }
+   ],
+   "laps" : "40",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Josh Friedman",
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Steve Kurpiewski",
+         "team" : "GPOA"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Steve Cummings",
+         "team" : "GPOA"
+      }
+   ],
+   "date" : "2015-05-06",
+   "fast_lap" : "",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Jared Babik",
+         "place" : 1,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "",
+         "name" : "John Heffner",
+         "place" : 2,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "",
+         "name" : "Stephen Smith",
+         "place" : 3,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "",
+         "name" : "Dan Greene",
+         "place" : 4,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Kyle Mihalik",
+         "place" : 5,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Dave Friedman",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Jason Mount",
+         "place" : 7,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "",
+         "name" : "Shawn Geiger",
+         "place" : 8,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "",
+         "name" : "Dave Galati",
+         "place" : 9,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Josh Friedman",
+         "place" : 10,
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "time" : "",
+         "name" : "Jordan Villella",
+         "place" : 11,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Russ Dryer",
+         "place" : 12,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "",
+         "name" : "Frankie Ross",
+         "place" : 13,
+         "team" : "Sette Nove"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "75 Â°F, mostly sunny",
+   "starters" : "29",
+   "slow_lap" : "",
+   "category" : "A"
+}

@@ -1,0 +1,136 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Jeff Griffin and Melissa Hiller",
+         "name" : "Caleb Wakely"
+      },
+      {
+         "prime" : "$10 from Tim Daigle",
+         "name" : "Tim Daigle"
+      },
+      {
+         "prime" : "$5 from Jeff Griffin and Melissa Hiller",
+         "name" : "Tim Daigle"
+      }
+   ],
+   "laps" : "32",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Caleb Wakely",
+         "team" : "Team Citius"
+      }
+   ],
+   "date" : "2015-05-19",
+   "fast_lap" : "1:10",
+   "avg_lap" : "1:16.64",
+   "riders" : [
+      {
+         "time" : "40:40",
+         "name" : "George Pompura",
+         "place" : 1,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Josh Lewis",
+         "place" : 2,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Tim Daigle",
+         "place" : 3,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Caleb Wakely",
+         "place" : 4,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Jon Shepard",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Al Meder",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Hy Simhan",
+         "place" : 7,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Matt Morehead",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "40:40",
+         "name" : "Adam Cohen",
+         "place" : 9,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "James Knox",
+         "place" : 10,
+         "team" : null
+      },
+      {
+         "time" : "40:40",
+         "name" : "Paul Carberry",
+         "place" : 11,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Keith Dickerson",
+         "place" : 12,
+         "team" : null
+      },
+      {
+         "time" : "40:40",
+         "name" : "Chris Butor",
+         "place" : 13,
+         "team" : null
+      },
+      {
+         "time" : "40:40",
+         "name" : "Drew Dorko",
+         "place" : 14,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Russel Boyd",
+         "place" : 15,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "40:40",
+         "name" : "Carl Hubel",
+         "place" : 16,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "75 Â°F, sunny, windy",
+   "starters" : "20",
+   "slow_lap" : "1:19",
+   "category" : "C"
+}

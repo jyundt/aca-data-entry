@@ -1,0 +1,146 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$20 coupon from LaPrima Espresso",
+         "name" : "Matt Brady"
+      }
+   ],
+   "laps" : "30",
+   "date" : "2015-04-28",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Matt Brady",
+         "place" : 1,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Al Meder",
+         "place" : 2,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Hasan Baydoun",
+         "place" : 3,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Josh Lewis",
+         "place" : 4,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Taylor",
+         "place" : 5,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Matt Bruhn",
+         "place" : 6,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Tim Daigle",
+         "place" : 7,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "",
+         "name" : "George Pompura",
+         "place" : 8,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Vince Pantloni",
+         "place" : 9,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "John Shepard",
+         "place" : 10,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "JD Day",
+         "place" : 11,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Drew Dorko",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Walt Impelliceri",
+         "place" : 13,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Paul Carberry",
+         "place" : 14,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "James Knox",
+         "place" : 15,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Hy Simhan",
+         "place" : 16,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Heather Slater",
+         "place" : 17,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Colleen Grygier",
+         "place" : 18,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "61 Â°F, sunny, breezy",
+   "marshals" : [
+      "EJ Hubstenberger",
+      "Birk McGilvrey",
+      "Jacob Yundt",
+      "Josh Friedman"
+   ],
+   "category" : "C",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Matt Brady",
+         "team" : null
+      }
+   ],
+   "fast_lap" : "",
+   "starters" : "20",
+   "slow_lap" : ""
+}

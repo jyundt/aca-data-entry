@@ -1,0 +1,108 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "John Heffner"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Steve Cummings"
+      }
+   ],
+   "laps" : "38",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Josh Friedman",
+         "team" : "Greenline Velo d/b/ Zipcar"
+      }
+   ],
+   "date" : "2015-04-15",
+   "fast_lap" : "1:02",
+   "avg_lap" : "1:06",
+   "riders" : [
+      {
+         "time" : "42:01",
+         "name" : "Steve Cummings",
+         "place" : 1,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Steve Bedilion",
+         "place" : 2,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Josh Friedman",
+         "place" : 3,
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Keith Hower",
+         "place" : 4,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Dave Friedman",
+         "place" : 5,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Morgan Baker",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Jacob Yundt",
+         "place" : 7,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Jay Downs",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "42:01",
+         "name" : "Dave Short",
+         "place" : 9,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Steve Kurpiewski",
+         "place" : 10,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Shawn Litster",
+         "place" : 11,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:01",
+         "name" : "Michael Oltman",
+         "place" : 12,
+         "team" : "CAT Racing"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "65 Â°F, sunny",
+   "starters" : "26",
+   "slow_lap" : "1:11",
+   "category" : "A"
+}

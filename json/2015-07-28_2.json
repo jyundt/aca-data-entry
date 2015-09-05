@@ -1,0 +1,233 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Mark Nicoll"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Gunnar Shogren"
+      }
+   ],
+   "laps" : "45",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Paul Carlson",
+         "team" : "Top Gear Racing",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Gunnar Shogren",
+         "team" : "Dynamic Physical Therapy",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-07-28",
+   "fast_lap" : "1:04",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "51:30",
+         "name" : "Gunnar Shogren",
+         "place" : 1,
+         "points" : "10",
+         "team" : "Dynamic Physical Therapy",
+         "team_points" : "10"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Jeff Griffin",
+         "place" : 2,
+         "points" : "8",
+         "team" : "Freddie Fu Cycling",
+         "team_points" : "8"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Paul Carlson",
+         "place" : 3,
+         "points" : "6",
+         "team" : "Top Gear Racing",
+         "team_points" : "6"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Bryan Routledge",
+         "place" : 4,
+         "points" : "5",
+         "team" : "Sette Nove",
+         "team_points" : "5"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Eric Hodos",
+         "place" : 5,
+         "points" : "4",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "4"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Mark Nicoll",
+         "place" : 6,
+         "points" : "4",
+         "team" : "GPOA",
+         "team_points" : "3"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Jason Zimmerman",
+         "place" : 7,
+         "points" : "2",
+         "team" : "Freddie Fu Cycling",
+         "team_points" : "2"
+      },
+      {
+         "time" : "51:30",
+         "name" : "JR Petsko",
+         "place" : 8,
+         "points" : "1",
+         "team" : "Dynamic Physical Therapy",
+         "team_points" : "1"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Jeff Koontz",
+         "place" : 9,
+         "points" : "0",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Mike Quigley",
+         "place" : 10,
+         "points" : "0",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "EJ Hubstenberger",
+         "place" : 11,
+         "points" : "0",
+         "team" : "Dynamic Physical Therapy",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Frankie Ross",
+         "place" : 12,
+         "points" : "0",
+         "team" : "Sette Nove",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Florian Lungu",
+         "place" : 13,
+         "points" : "0",
+         "team" : "NovaCare",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Ken Mowry",
+         "place" : 14,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Jack Neyer",
+         "place" : 15,
+         "points" : "0",
+         "team" : "Freddie Fu Cycling",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Jeff Paul",
+         "place" : 16,
+         "points" : "0",
+         "team" : "Rare Diseases",
+         "team_points" : "0"
+      },
+      {
+         "time" : "51:30",
+         "name" : "Ed Grystar",
+         "place" : 17,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "women_place" : "1",
+         "time" : "51:30",
+         "name" : "Sarah Kovak",
+         "place" : 18,
+         "points" : "0",
+         "team_points" : "0",
+         "women_points" : "0",
+         "team" : ""
+      },
+      {
+         "time" : "51:30",
+         "name" : "Devon Corboy",
+         "place" : 19,
+         "points" : "0",
+         "team" : "Dynamic Physical Therapy",
+         "team_points" : "0"
+      },
+      {
+         "women_place" : "2",
+         "time" : "51:30",
+         "name" : "Melissa Hiller",
+         "place" : 20,
+         "points" : "0",
+         "team_points" : "0",
+         "women_points" : "8",
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "women_place" : "3",
+         "time" : "51:30",
+         "name" : "Shequaya Bailey",
+         "place" : 21,
+         "points" : "0",
+         "team_points" : "0",
+         "women_points" : "6",
+         "team" : "Rare Diseases"
+      },
+      {
+         "women_place" : "4",
+         "time" : "51:30",
+         "name" : "Elise Rowe",
+         "place" : 22,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0",
+         "women_points" : "5" 
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "92 Â°F, hot and sunny",
+   "starters" : "30",
+   "slow_lap" : "1:13",
+   "category" : "Masters 40+/Women"
+}

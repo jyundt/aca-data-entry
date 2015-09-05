@@ -1,0 +1,249 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Rick Holzworth"
+      },
+      {
+         "prime" : "Wine from Rick Holzworth",
+         "name" : "Dave Galati"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Marko Milojevic"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Aaron Bovalino"
+      }
+   ],
+   "laps" : "40",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Rick Holzworth",
+         "team" : "LaPrima Espresso",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Caleb Smith",
+         "team" : "LaPrima Espresso",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Hasan Baydoun",
+         "team" : "East End Cycling Club",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-07-08",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:11",
+   "riders" : [
+      {
+         "time" : "47:25",
+         "name" : "Caleb Smith",
+         "place" : 1,
+         "points" : "10",
+         "team" : "LaPrima Espresso",
+         "team_points" : "10"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Matt Brady",
+         "place" : 2,
+         "points" : "8",
+         "team" : "NovaCare",
+         "team_points" : "8"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Dave Galati",
+         "place" : 3,
+         "points" : "6",
+         "team" : "LaPrima Espresso",
+         "team_points" : "6"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Matt Dolfi",
+         "place" : 4,
+         "points" : "5",
+         "team" : "NovaCare",
+         "team_points" : "5"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Willem deBoer",
+         "place" : 5,
+         "points" : "4",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "4"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Mike Janeiro",
+         "place" : 6,
+         "points" : "3",
+         "team" : "LaPrima Espresso",
+         "team_points" : "3"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Marko Milojevic",
+         "place" : 7,
+         "points" : "2",
+         "team" : "NovaCare",
+         "team_points" : "2"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Don Splitstone",
+         "place" : 8,
+         "points" : "1",
+         "team" : "Truefit Racing",
+         "team_points" : "1"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Jason Hochreiter",
+         "place" : 9,
+         "points" : "0",
+         "team" : "Truefit Racing",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Christian Korey",
+         "place" : 10,
+         "points" : "0",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Josh Lewis",
+         "place" : 11,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Chris Yanakos",
+         "place" : 12,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Carl Lovejoy",
+         "place" : 13,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Jack Neyer",
+         "place" : 14,
+         "points" : "0",
+         "team" : "Freddie Fu Cycling",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Drew Dorko",
+         "place" : 15,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Hassan Beydoun",
+         "place" : 16,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Patrick Beukema",
+         "place" : 17,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Adam Cohen",
+         "place" : 18,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Elise Rowe",
+         "place" : 19,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Rick Holzworth",
+         "place" : 20,
+         "points" : "1",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Aaron Bovalino",
+         "place" : 21,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Jason Bair",
+         "place" : 22,
+         "points" : "0",
+         "team" : "Truefit Racing",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Hy Simhan",
+         "place" : 23,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "47:25",
+         "name" : "Hasan Baydoun",
+         "place" : 24,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "75 Â°F, cloudy, some rain",
+   "starters" : "25",
+   "slow_lap" : "1:19",
+   "category" : "B"
+}

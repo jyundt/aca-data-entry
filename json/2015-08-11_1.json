@@ -1,0 +1,189 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Tim Daigle"
+      },
+      {
+         "prime" : "$5 from Jimn Sloan",
+         "name" : "Hy Simhan"
+      },
+      {
+         "prime" : "$5 from Jimn Sloan",
+         "name" : "Matt Guillon"
+      },
+      {
+         "prime" : "$5 from Jimn Sloan",
+         "name" : "Patrick Beukema"
+      },
+      {
+         "prime" : "$5 from Jimn Sloan",
+         "name" : "Dennis Patton"
+      }
+   ],
+   "laps" : "30",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Jon Shepard",
+         "team" : "East End Cycling Club",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Matt Guillon",
+         "team" : "East End Cycling Club",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Patrick Beukema",
+         "team" : "East End Cycling Club",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-08-11",
+   "fast_lap" : "1:01",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "37:06",
+         "name" : "Tim Daigle",
+         "place" : 1,
+         "points" : "11",
+         "team" : "Team Citius",
+         "team_points" : "10"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Al Meder",
+         "place" : 2,
+         "points" : "8",
+         "team" : "East End Cycling Club",
+         "team_points" : "8"
+      },
+      {
+         "time" : "37:06",
+         "name" : "George Pompura",
+         "place" : 3,
+         "points" : "6",
+         "team" : "East End Cycling Club",
+         "team_points" : "6"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Drew Smorul",
+         "place" : 4,
+         "points" : "5",
+         "team" : "East End Cycling Club",
+         "team_points" : "5"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Rich Shutte",
+         "place" : 5,
+         "points" : "4",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Chris Butor",
+         "place" : 6,
+         "points" : "3",
+         "team" : "Top Gear Racing",
+         "team_points" : "3"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Patrick Beukema",
+         "place" : 7,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Andrew Reay",
+         "place" : 8,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Dan Pellechio",
+         "place" : 9,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Dennis Patton",
+         "place" : 10,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Matt Guillon",
+         "place" : 11,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Robert Wierzbowski",
+         "place" : 12,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Michael Sanders",
+         "place" : 13,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "James Knox",
+         "place" : 14,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Matt Morehead",
+         "place" : 15,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:06",
+         "name" : "Hy Simhan",
+         "place" : 16,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "? Â°F",
+   "starters" : "20",
+   "slow_lap" : "1:18",
+   "category" : "C"
+}

@@ -1,0 +1,86 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Willem deBoer"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Mike Janeiro"
+      },
+      {
+         "prime" : "$5 from John Heffner",
+         "name" : "Mike Janeiro"
+      },
+      {
+         "prime" : "$5 from Bryan",
+         "name" : "Marko Milojevic"
+      }
+   ],
+   "laps" : "31",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Mike Janeiro",
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "date" : "2015-04-22",
+   "fast_lap" : "1:10",
+   "avg_lap" : "1:17",
+   "riders" : [
+      {
+         "time" : "39:57",
+         "name" : "Mike Janeiro",
+         "place" : 1,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Willem deBoer",
+         "place" : 2,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Dave Galati",
+         "place" : 3,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Al Meder",
+         "place" : 4,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Hasan Baydoun",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Marko Milojevic",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "39:57",
+         "name" : "Matt Williams",
+         "place" : 7,
+         "team" : null
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "50 Â°F, cold, windy, wet",
+   "starters" : "10",
+   "slow_lap" : "1:29",
+   "category" : "B"
+}

@@ -1,0 +1,200 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "John Cotter"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Dave Friedman"
+      },
+      {
+         "prime" : "$5 from John McLaughlin",
+         "name" : "John Heffner"
+      }
+   ],
+   "laps" : "45",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "John Heffner",
+         "team" : "CAT Racing",
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Michael Oltman",
+         "team" : "CAT Racing",
+      },
+      {
+         "mar_place" : "3",
+         "name" : "John Cotter",
+         "team" : "NovaCare",
+      }
+   ],
+   "date" : "2015-05-27",
+   "fast_lap" : "0:55",
+   "avg_lap" : "1:06",
+   "riders" : [
+      {
+         "time" : "49:37",
+         "name" : "John Heffner",
+         "place" : 1,
+         "team" : "CAT Racing",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Michael Oltman",
+         "place" : 2,
+         "team" : "CAT Racing",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Dave Friedman",
+         "place" : 3,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Keith Hower",
+         "place" : 4,
+         "team" : "Freddie Fu Cycling",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Steve Kurpiewski",
+         "place" : 5,
+         "team" : "GPOA",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Steve Cummings",
+         "place" : 6,
+         "team" : "GPOA",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Steve Bedilion",
+         "place" : 7,
+         "team" : "CAT Racing",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Jason Mount",
+         "place" : 8,
+         "team" : "Freddie Fu Cycling",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Dave Galati",
+         "place" : 9,
+         "team" : "LaPrima Espresso",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Frankie Ross",
+         "place" : 10,
+         "team" : "Sette Nove",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Shawn Litster",
+         "place" : 11,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Willem deBoer",
+         "place" : 12,
+         "team" : "UPMC Cycling Performance",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Danny Wilson",
+         "place" : 13,
+         "team" : "Freddie Fu Cycling",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Mike Mihalik",
+         "place" : 14,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Matt Dolfi",
+         "place" : 15,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Scott Penzerella",
+         "place" : 16,
+         "team" : null,
+      },
+      {
+         "time" : "49:37",
+         "name" : "Dan Greene",
+         "place" : 17,
+         "team" : "East End Cycling Club",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Marko Milojevic",
+         "place" : 18,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Mike Janeiro",
+         "place" : 19,
+         "team" : "LaPrima Espresso",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Ed Krall",
+         "place" : 20,
+         "team" : "GPOA",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Jeff Koontz",
+         "place" : 21,
+         "team" : "UPMC Cycling Performance",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Jordan Villella",
+         "place" : 22,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Jacob Yundt",
+         "place" : 23,
+         "team" : "CAT Racing",
+      },
+      {
+         "time" : "49:37",
+         "name" : "John Cotter",
+         "place" : 24,
+         "team" : "NovaCare",
+      },
+      {
+         "time" : "49:37",
+         "name" : "Mark Nicoll",
+         "place" : 25,
+         "team" : "GPOA",
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "80 Â°F, hot, sunny",
+   "starters" : "28",
+   "slow_lap" : "1:15",
+   "category" : "A"
+}

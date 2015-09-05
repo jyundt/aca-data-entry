@@ -1,0 +1,148 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian",
+      "Doug Riegner"
+   ],
+   "laps" : "15",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Andrew Reay",
+         "team" : "Team Citius",
+         "mar_points" : "0"
+      }
+   ],
+   "date" : "2015-07-01",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:09",
+   "riders" : [
+      {
+         "time" : "22:58",
+         "name" : "Andrew Reay",
+         "place" : 1,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Tim Daigle",
+         "place" : 2,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Matt Taylor",
+         "place" : 3,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Isaac Samay",
+         "place" : 4,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Chris Butor",
+         "place" : 5,
+         "points" : "0",
+         "team" : "Top Gear Racing",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Drew Dorko",
+         "place" : 6,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Chris Yanakos",
+         "place" : 7,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Drew Smorul",
+         "place" : 8,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Dennis Patton",
+         "place" : 9,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Adam Cohen",
+         "place" : 10,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Elise Rowe",
+         "place" : 11,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Nina Assimakopoules",
+         "place" : 12,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Russel Boyd",
+         "place" : 13,
+         "points" : "0",
+         "team" : "NovaCare",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "Rob Wiebbowski",
+         "place" : 14,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "22:58",
+         "name" : "George Pompura",
+         "place" : 15,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "75 Â°F, sunny and nice",
+   "starters" : "15",
+   "slow_lap" : "1:13",
+   "category" : "C"
+}

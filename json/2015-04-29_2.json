@@ -1,0 +1,163 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "LaPrima Espresso 20% off card",
+         "name" : "Matt Taylor"
+      },
+      {
+         "prime" : "LaPrima Espresso 20% off card",
+         "name" : "George Pompura"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Matt Taylor"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Marko Milojevic"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Caleb Smith",
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Matt Smith",
+         "team" : null
+      }
+   ],
+   "date" : "2015-04-29",
+   "fast_lap" : "1:02",
+   "avg_lap" : "1:13",
+   "riders" : [
+      {
+         "time" : "40:39",
+         "name" : "Dave Galati",
+         "place" : 1,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Matt Dolfi",
+         "place" : 2,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Willem deBoer",
+         "place" : 3,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Mike Janeiro",
+         "place" : 4,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Marko Milojevic",
+         "place" : 5,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Al Meder",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Aaron Bovalino",
+         "place" : 7,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "John McLaughlin",
+         "place" : 8,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Caleb Smith",
+         "place" : 9,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Hasan Baydoun",
+         "place" : 10,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Ed Grystar",
+         "place" : 11,
+         "team" : null
+      },
+      {
+         "time" : "40:39",
+         "name" : "Hassan Beydoun",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Jack Neyer",
+         "place" : 13,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Jeff Grimm",
+         "place" : 14,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Elise Rowe",
+         "place" : 15,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Matt Taylor",
+         "place" : 16,
+         "team" : null
+      },
+      {
+         "time" : "40:39",
+         "name" : "Rick Holzworth",
+         "place" : 17,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:39",
+         "name" : "Christian Korey",
+         "place" : 18,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "40:39",
+         "name" : "George Pompura",
+         "place" : 19,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "68 Â°F, mostly sunny",
+   "starters" : "21",
+   "slow_lap" : "1:18",
+   "category" : "B"
+}

@@ -1,0 +1,140 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from John Heffner",
+         "name" : "Stephen Smith"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Stephen Smith"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "John Heffner"
+      }
+   ],
+   "laps" : "36",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Josh Friedman",
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Steve Kurpiewski",
+         "team" : "GPOA"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Stephen Smith",
+         "team" : "Freddie Fu Cycling"
+      }
+   ],
+   "date" : "2015-04-22",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:11",
+   "riders" : [
+      {
+         "time" : "43:10",
+         "name" : "Steve Kurpiewski",
+         "place" : 1,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Steve Cummings",
+         "place" : 2,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Shawn Litster",
+         "place" : 3,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "43:10",
+         "name" : "John Heffner",
+         "place" : 4,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Josh Friedman",
+         "place" : 5,
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Morgan Baker",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Steve Bedilion",
+         "place" : 7,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Kyle Mihalik",
+         "place" : 8,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Stephen Smith",
+         "place" : 9,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Frankie Ross",
+         "place" : 10,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Nathan Clair",
+         "place" : 11,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Jay Downs",
+         "place" : 12,
+         "team" : null
+      },
+      {
+         "time" : "43:10",
+         "name" : "Jason Mount",
+         "place" : 13,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Jacob Yundt",
+         "place" : 14,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "43:10",
+         "name" : "Chris Helbling",
+         "place" : 15,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "50 Â°F, cold, windy, wet",
+   "starters" : "25",
+   "slow_lap" : "1:23",
+   "category" : "A"
+}

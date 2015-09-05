@@ -1,0 +1,192 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "LaPrima Espresso race entry",
+         "name" : "Matt Brady"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Jeremy Holdorf"
+      },
+      {
+         "prime" : "2 x $5 from Kurt",
+         "name" : "Mike Janeiro"
+      },
+      {
+         "prime" : "$5 frmo Farran",
+         "name" : "Marko Milojevic"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Chris Helbling",
+         "team" : "East End Cycling Club"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Caleb Smith",
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Rick Holzworth",
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "date" : "2015-05-06",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:11",
+   "riders" : [
+      {
+         "time" : "41:53",
+         "name" : "Willem deBoer",
+         "place" : 1,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Matt Dolfi",
+         "place" : 2,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Mike Janeiro",
+         "place" : 3,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Dave Galati",
+         "place" : 4,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Matt Brady",
+         "place" : 5,
+         "team" : null
+      },
+      {
+         "time" : "41:53",
+         "name" : "Al Meder",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Carl Lovejoy",
+         "place" : 7,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Xavier Szigethy",
+         "place" : 8,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Matt Williams",
+         "place" : 9,
+         "team" : null
+      },
+      {
+         "time" : "41:53",
+         "name" : "Matt Serechin",
+         "place" : 10,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Jeremy Holdorf",
+         "place" : 11,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "41:53",
+         "name" : "George Pompura",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Florian Lungu",
+         "place" : 13,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Hasan Baydoun",
+         "place" : 14,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Jack Neyer",
+         "place" : 15,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Caleb Smith",
+         "place" : 16,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Jason Bair",
+         "place" : 17,
+         "team" : "Truefit Racing"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Marko Milojevic",
+         "place" : 18,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Ed Grystar",
+         "place" : 19,
+         "team" : null
+      },
+      {
+         "time" : "41:53",
+         "name" : "Jeff Paul",
+         "place" : 20,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Elise Rowe",
+         "place" : 21,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Christian Korey",
+         "place" : 22,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "41:53",
+         "name" : "Rick Holzworth",
+         "place" : 23,
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "75 Â°F, mostly sunny",
+   "starters" : "30",
+   "slow_lap" : "1:19",
+   "category" : "B"
+}

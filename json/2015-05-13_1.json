@@ -1,0 +1,172 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Morgan Baker"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Mark Nicoll"
+      }
+   ],
+   "laps" : "40",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Josh Friedman",
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Jacob Yundt",
+         "team" : "CAT Racing"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Mike Appel",
+         "team" : "CAT Racing"
+      }
+   ],
+   "date" : "2015-05-13",
+   "fast_lap" : "",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Morgan Baker",
+         "place" : 1,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Josh Friedman",
+         "place" : 2,
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "time" : "",
+         "name" : "Michael Oltman",
+         "place" : 3,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "",
+         "name" : "Jason Mount",
+         "place" : 4,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "",
+         "name" : "Jordan Villella",
+         "place" : 5,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Mike Appel",
+         "place" : 6,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "",
+         "name" : "John Cotter",
+         "place" : 7,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Dave Friedman",
+         "place" : 8,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Steve Cummings",
+         "place" : 9,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "",
+         "name" : "Kyle Mihalik",
+         "place" : 10,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "John Heffner",
+         "place" : 11,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "",
+         "name" : "Danny Wilson",
+         "place" : 12,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "",
+         "name" : "Mike Mihalik",
+         "place" : 13,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Dave Short",
+         "place" : 14,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Dave Galati",
+         "place" : 15,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Jacob Yundt",
+         "place" : 16,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "",
+         "name" : "Marko Milojevic",
+         "place" : 17,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Birk McGilvrey",
+         "place" : 18,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Dolfi",
+         "place" : 19,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "EJ Hubstenberger",
+         "place" : 20,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "",
+         "name" : "Dan Greene",
+         "place" : 21,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "50 Â°F, cold, cloudy",
+   "starters" : "26",
+   "slow_lap" : "",
+   "category" : "A"
+}

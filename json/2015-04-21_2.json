@@ -1,0 +1,187 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Pabst Bucket from Paul Carberry",
+         "name" : "Mark Nicoll"
+      },
+      {
+         "prime" : "socks from Aerotech",
+         "name" : "Shequaya Bailey"
+      },
+      {
+         "prime" : "socks from Aerotech",
+         "name" : "Bryan Routledge"
+      },
+      {
+         "prime" : "$10 from Major Taylor Cycling",
+         "name" : "Shequaya Bailey"
+      },
+      {
+         "prime" : "$10 from Major Taylor Cycling",
+         "name" : "Shequaya Bailey"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Chris Helbling",
+         "team" : "East End Cycling Club"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Jason Zimmerman",
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "JR Petsko",
+         "team" : "Dynamic Physical Therapy"
+      }
+   ],
+   "date" : "2015-04-21",
+   "fast_lap" : "1:10",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "44:08",
+         "name" : "Jason Zimmerman",
+         "place" : 1,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Devon Corboy",
+         "place" : 2,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Chris Helbling",
+         "place" : 3,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Eric Hodos",
+         "place" : 4,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "44:08",
+         "name" : "JR Petsko",
+         "place" : 5,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Jeff Koontz",
+         "place" : 6,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Frankie Ross",
+         "place" : 7,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Mark Nicoll",
+         "place" : 8,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Carl Lovejoy",
+         "place" : 9,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Florian Lungu",
+         "place" : 10,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:08",
+         "name" : "EJ Hubstenberger",
+         "place" : 11,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Jeff Gernert",
+         "place" : 12,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Ken Mowry",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Jim Mock",
+         "place" : 14,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "women_place" : "1",
+         "time" : "44:08",
+         "name" : "Elise Rowe",
+         "place" : 15,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "women_place" : "2",
+         "time" : "44:08",
+         "name" : "Melissa Hiller",
+         "place" : 16,
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Brett Stana",
+         "place" : 17,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Ed Grystar",
+         "place" : 18,
+         "team" : null
+      },
+      {
+         "time" : "44:08",
+         "name" : "Greg Maier",
+         "place" : 19,
+         "team" : null
+      },
+      {
+         "women_place" : "3",
+         "time" : "44:08",
+         "name" : "Shequaya Bailey",
+         "place" : 20,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "44:08",
+         "name" : "Bryan Routledge",
+         "place" : 21,
+         "team" : "Sette Nove"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "55 Â°F, cloudy, windy",
+   "starters" : "26",
+   "slow_lap" : "1:19",
+   "category" : "Masters 40+/Women"
+}

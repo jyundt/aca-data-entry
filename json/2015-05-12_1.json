@@ -1,0 +1,128 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "laps" : "32",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Matt Taylor",
+         "team" : null
+      }
+   ],
+   "date" : "2015-05-12",
+   "fast_lap" : "",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Matt Brady",
+         "place" : 1,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Josh Lewis",
+         "place" : 2,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Joey Pershina",
+         "place" : 3,
+         "team" : "Truefit Racing"
+      },
+      {
+         "time" : "",
+         "name" : "Sam Carroll",
+         "place" : 4,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Al Meder",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Taylor",
+         "place" : 6,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "George Pompura",
+         "place" : 7,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Dale Black",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Adam Cohen",
+         "place" : 9,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Chris Yanakos",
+         "place" : 10,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "JD Day",
+         "place" : 11,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Drew Dorko",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Dennis Patton",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Sebastian Scherer",
+         "place" : 14,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Dan Kyper",
+         "place" : 15,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Chris Butor",
+         "place" : 16,
+         "team" : null
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "70 Â°F, sunny, windy",
+   "marshals" : [
+      "EJ Hubstenberger",
+      "Birk McGilvrey",
+      "Jacob Yundt",
+      "Josh Friedman"
+   ],
+   "starters" : "27",
+   "slow_lap" : "",
+   "category" : "C"
+}

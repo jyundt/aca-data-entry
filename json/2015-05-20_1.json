@@ -1,0 +1,157 @@
+{
+   "officials" : [
+      "Nikki Berrian",
+      "Doug Riegner"
+   ],
+   "primes" : [
+      {
+         "prime" : "Cool Springs TT entry from LaPrima Espresso",
+         "name" : "Steve Cummings"
+      }
+   ],
+   "laps" : "37",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "John Heffner",
+         "team" : "CAT Racing"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Shawn Litster",
+         "team" : "NovaCare"
+      }
+   ],
+   "date" : "2015-05-20",
+   "fast_lap" : "1:03",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "44:44",
+         "name" : "John Heffner",
+         "place" : 1,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Shawn Litster",
+         "place" : 2,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Dave Friedman",
+         "place" : 3,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Steve Cummings",
+         "place" : 4,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Mike Appel",
+         "place" : 5,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Jacob Yundt",
+         "place" : 6,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Danny Wilson",
+         "place" : 7,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Morgan Baker",
+         "place" : 8,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Keith Hower",
+         "place" : 9,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Josh Friedman",
+         "place" : 10,
+         "team" : "Greenline Velo d/b/ Zipcar"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Dave Short",
+         "place" : 11,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Michael Oltman",
+         "place" : 12,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Frankie Ross",
+         "place" : 13,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Mike Mihalik",
+         "place" : 14,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Steve Kurpiewski",
+         "place" : 15,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Dan Greene",
+         "place" : 16,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Kyle Mihalik",
+         "place" : 17,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Shawn Geiger",
+         "place" : 18,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Chas McFarland",
+         "place" : 19,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "44:44",
+         "name" : "Mike Janeiro",
+         "place" : 20,
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "true",
+   "weather" : "55 Â°F, cold, sunny",
+   "starters" : "21",
+   "slow_lap" : "1:13",
+   "category" : "A"
+}

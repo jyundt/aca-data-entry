@@ -1,0 +1,189 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Birk McGilvrey"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Jason Hochreiter"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Nathan Clair"
+      },
+      {
+         "prime" : "$5 from Mark Powder",
+         "name" : "Chris Helbling"
+      },
+      {
+         "prime" : "Vfuel from LaPrima Espresso",
+         "name" : "Chris Helbling"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Birk McGilvrey",
+         "team" : "LaPrima Espresso",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Chris Helbling",
+         "team" : "East End Cycling Club",
+         "mar_points" : "0"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Tom Borner",
+         "team" : "Truefit Racing",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-08-26",
+   "fast_lap" : "1:03",
+   "avg_lap" : "1:10",
+   "riders" : [
+      {
+         "time" : "40:56",
+         "name" : "Matt Brady",
+         "place" : 1,
+         "points" : "10",
+         "team" : "NovaCare",
+         "team_points" : "10"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Mike Janeiro",
+         "place" : 2,
+         "points" : "8",
+         "team" : "LaPrima Espresso",
+         "team_points" : "8"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Tom Borner",
+         "place" : 3,
+         "points" : "6",
+         "team" : "Truefit Racing",
+         "team_points" : "6"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Chris Helbling",
+         "place" : 4,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Rick Holzworth",
+         "place" : 5,
+         "points" : "4",
+         "team" : "LaPrima Espresso",
+         "team_points" : "4"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Josh Lewis",
+         "place" : 6,
+         "points" : "3",
+         "team" : "East End Cycling Club",
+         "team_points" : "3"
+      },
+      {
+         "time" : "40:56",
+         "name" : "John McLaughlin",
+         "place" : 7,
+         "points" : "2",
+         "team" : "NovaCare",
+         "team_points" : "2"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Jason Hochreiter",
+         "place" : 8,
+         "points" : "1",
+         "team" : "Truefit Racing",
+         "team_points" : "1"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Caleb Smith",
+         "place" : 9,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Hassan Beydoun",
+         "place" : 10,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Nathan Clair",
+         "place" : 11,
+         "points" : "0",
+         "team" : "Dynamic Physical Therapy",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Birk McGilvrey",
+         "place" : 12,
+         "points" : "1",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Chris Yanakos",
+         "place" : 13,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Jason Bair",
+         "place" : 14,
+         "points" : "0",
+         "team" : "Truefit Racing",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Maarten deBoer",
+         "place" : 15,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:56",
+         "name" : "Elise Rowe",
+         "place" : 16,
+         "points" : "0",
+         "team" : "LaPrima Espresso",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "68 Â°F, cool, cloudy",
+   "starters" : "23",
+   "slow_lap" : "1:13",
+   "category" : "B"
+}

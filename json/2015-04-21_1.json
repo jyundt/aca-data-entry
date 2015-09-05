@@ -1,0 +1,142 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from a cycling fan",
+         "name" : "Evan Masscheck"
+      },
+      {
+         "prime" : "tshirt from tshirt fan",
+         "name" : "Tim Daigle"
+      },
+      {
+         "prime" : "socks from Aerotech",
+         "name" : "Matt Brady"
+      }
+   ],
+   "laps" : "28",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Dave Galati",
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "date" : "2015-04-21",
+   "fast_lap" : "1:10",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Dave Galati",
+         "place" : 1,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Brady",
+         "place" : 2,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Al Meder",
+         "place" : 3,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Taylor",
+         "place" : 4,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Hasan Baydoun",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Kurt Kearcher",
+         "place" : 6,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "JD Day",
+         "place" : 7,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "George Pompura",
+         "place" : 8,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Tim Daigle",
+         "place" : 9,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "",
+         "name" : "Vince Pantloni",
+         "place" : 10,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Roy Leonard",
+         "place" : 11,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "James Knox",
+         "place" : 12,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Chris Yanakos",
+         "place" : 13,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Teddy Denman-Brice",
+         "place" : 14,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Paul Carberry",
+         "place" : 15,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Drew Dorko",
+         "place" : 16,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Josh Lewis",
+         "place" : 17,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "55 Â°F, cloudy, windy",
+   "starters" : "26",
+   "slow_lap" : "1:21",
+   "category" : "C"
+}

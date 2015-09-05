@@ -1,0 +1,134 @@
+{
+   "officials" : [
+      "Nikki Berrian",
+      "Doug Riegner"
+   ],
+   "primes" : [
+      {
+         "prime" : "Cool Springs TT entry from LaPrima Espresso",
+         "name" : "Ian Baun"
+      },
+      {
+         "prime" : "Oreos",
+         "name" : "Chas McFarland"
+      },
+      {
+         "prime" : "Brownies",
+         "name" : "Chas McFarland"
+      },
+      {
+         "prime" : "Brownies",
+         "name" : "Chas McFarland"
+      }
+   ],
+   "laps" : "32",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Caleb Smith",
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "date" : "2015-05-20",
+   "fast_lap" : "1:01",
+   "avg_lap" : "1:10",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Nathan Clair",
+         "place" : 1,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "",
+         "name" : "Ian Baun",
+         "place" : 2,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Willem deBoer",
+         "place" : 3,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Chas McFarland",
+         "place" : 4,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Brady",
+         "place" : 5,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Xavier Szigethy",
+         "place" : 6,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Rick Holzworth",
+         "place" : 7,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Caleb Smith",
+         "place" : 8,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Christian Korey",
+         "place" : 9,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Marko Milojevic",
+         "place" : 10,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "",
+         "name" : "Tom Senkevich",
+         "place" : 11,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "",
+         "name" : "Mike Janeiro",
+         "place" : 12,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Birk McGilvrey",
+         "place" : 13,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Caleb Wakely",
+         "place" : 14,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "",
+         "name" : "Jack Neyer",
+         "place" : 15,
+         "team" : "Freddie Fu Cycling"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "true",
+   "weather" : "55 Â°F, cold, sunny",
+   "starters" : "22",
+   "slow_lap" : "1:18",
+   "category" : "B"
+}

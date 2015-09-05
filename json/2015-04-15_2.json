@@ -1,0 +1,130 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Nikki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Matt Dolfi"
+      },
+      {
+         "prime" : "$5 from Kurt",
+         "name" : "Mike Janeiro"
+      }
+   ],
+   "laps" : "35",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Mike Janeiro",
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Christian Korey",
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Matt Dolfi",
+         "team" : "NovaCare"
+      }
+   ],
+   "date" : "2015-04-15",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:13",
+   "riders" : [
+      {
+         "time" : "42:44",
+         "name" : "Christian Korey",
+         "place" : 1,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Matt Dolfi",
+         "place" : 2,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Birk McGilvrey",
+         "place" : 3,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Aaron Bovalino",
+         "place" : 4,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Mike Janeiro",
+         "place" : 5,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Dave Galati",
+         "place" : 6,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Ian Baun",
+         "place" : 7,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Al Meder",
+         "place" : 8,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Willem deBoer",
+         "place" : 9,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Matt Williams",
+         "place" : 10,
+         "team" : null
+      },
+      {
+         "time" : "42:44",
+         "name" : "Tim Daigle",
+         "place" : 11,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "42:44",
+         "name" : "John McLaughlin",
+         "place" : 12,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Hasan Baydoun",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "42:44",
+         "name" : "Rachel Weaver",
+         "place" : 14,
+         "team" : "NovaCare"
+      }
+   ],
+   "usac_permit" : "2015-618",
+   "p_course" : "false",
+   "weather" : "65 Â°F, sunny",
+   "starters" : "20",
+   "slow_lap" : "1:26",
+   "category" : "B"
+}

@@ -1,0 +1,185 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Eric Burnett"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Matt Guillon"
+      }
+   ],
+   "laps" : "30",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Matt Guillon",
+         "team" : "East End Cycling Club",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Drew Smorul",
+         "team" : "East End Cycling Club",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Eric Burnett",
+         "team" : "VOLT Multisport",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-07-21",
+   "fast_lap" : "1:04",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "37:23",
+         "name" : "Drew Smorul",
+         "place" : 1,
+         "points" : "10",
+         "team" : "East End Cycling Club",
+         "team_points" : "10"
+      },
+      {
+         "time" : "37:23",
+         "name" : "George Pompura",
+         "place" : 2,
+         "points" : "8",
+         "team" : "East End Cycling Club",
+         "team_points" : "8"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Tim Daigle",
+         "place" : 3,
+         "points" : "6",
+         "team" : "Team Citius",
+         "team_points" : "6"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Eric Burnett",
+         "place" : 4,
+         "points" : "6",
+         "team" : "VOLT Multisport",
+         "team_points" : "5"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Chris Butor",
+         "place" : 5,
+         "points" : "4",
+         "team" : "Top Gear Racing",
+         "team_points" : "4"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Al Meder",
+         "place" : 6,
+         "points" : "3",
+         "team" : "East End Cycling Club",
+         "team_points" : "3"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Drew Dorko",
+         "place" : 7,
+         "points" : "2",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Matt Guillon",
+         "place" : 8,
+         "points" : "1",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Vince Pantloni",
+         "place" : 9,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Rich Shutte",
+         "place" : 10,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Dennis Patton",
+         "place" : 11,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Walt Impellicceiri",
+         "place" : 12,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Matt Morehead",
+         "place" : 13,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Carl Hubel",
+         "place" : 14,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Marcus Moore",
+         "place" : 15,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Roy Leonard",
+         "place" : 16,
+         "points" : "0",
+         "team" : "",
+         "team_points" : "0"
+      },
+      {
+         "time" : "37:23",
+         "name" : "Dave Roney",
+         "place" : 17,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "77 Â°F, clear and sunny",
+   "starters" : "24",
+   "slow_lap" : "1:20",
+   "category" : "C"
+}

@@ -1,0 +1,189 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Rich Shutte"
+      }
+   ],
+   "laps" : "33",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Drew Smorul",
+         "team" : "East End Cycling Club",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Josh Lewis",
+         "team" : "East End Cycling Club",
+         "mar_points" : "0"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Eric Burnett",
+         "team" : "VOLT Multisport",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2015-06-23",
+   "fast_lap" : "1:04",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "40:50",
+         "name" : "Tim Daigle",
+         "place" : 1,
+         "points" : "10",
+         "team" : "Team Citius",
+         "team_points" : "10"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Isaac Samay",
+         "place" : 2,
+         "points" : "0",
+         "team" : null,
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Andrey Rudemacher",
+         "place" : 3,
+         "points" : "0",
+         "team" : null,
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "George Pompura",
+         "place" : 4,
+         "points" : "5",
+         "team" : "East End Cycling Club",
+         "team_points" : "5"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Andrew Reay",
+         "place" : 5,
+         "points" : "0",
+         "team" : "Team Citius",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Eric Burnett",
+         "place" : 6,
+         "points" : "3",
+         "team" : "VOLT Multisport",
+         "team_points" : "3"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Drew Dorko",
+         "place" : 7,
+         "points" : "2",
+         "team" : "East End Cycling Club",
+         "team_points" : "2"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Al Meder",
+         "place" : 8,
+         "points" : "1",
+         "team" : "East End Cycling Club",
+         "team_points" : "1"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Walt Impellicceiri",
+         "place" : 9,
+         "points" : "0",
+         "team" : null,
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Jon Shepard",
+         "place" : 10,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Drew Smorul",
+         "place" : 11,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Chris Butor",
+         "place" : 12,
+         "points" : "0",
+         "team" : "Top Gear Racing",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Josh Lewis",
+         "place" : 13,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "James Knox",
+         "place" : 14,
+         "points" : "0",
+         "team" : null,
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Dennis Patton",
+         "place" : 15,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Dave Roney",
+         "place" : 16,
+         "points" : "0",
+         "team" : "East End Cycling Club",
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Nina Assimakopoules",
+         "place" : 17,
+         "points" : "0",
+         "team" : null,
+         "team_points" : "0"
+      },
+      {
+         "time" : "40:50",
+         "name" : "Rich Shutte",
+         "place" : 18,
+         "points" : "1",
+         "team" : null,
+         "team_points" : "0"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "? Â°F",
+   "starters" : "18",
+   "slow_lap" : "1:18",
+   "category" : "C"
+}

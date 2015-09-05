@@ -1,0 +1,128 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Chris Popovich",
+         "name" : "Matt Taylor"
+      },
+      {
+         "prime" : "$5 from Jeff Gernert",
+         "name" : "Hasan Baydoun"
+      },
+      {
+         "prime" : "$5 from Jeff Gernert",
+         "name" : "Dave Galati"
+      },
+      {
+         "prime" : "$5 from Jeff Gernert",
+         "name" : "Hasan Baydoun"
+      }
+   ],
+   "laps" : "28",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Dave Galati",
+         "team" : "LaPrima Espresso"
+      }
+   ],
+   "date" : "2015-04-14",
+   "fast_lap" : "1:08",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "",
+         "name" : "Dave Galati",
+         "place" : 1,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "",
+         "name" : "Josh Lewis",
+         "place" : 2,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Kurt Kearcher",
+         "place" : 3,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "JD Day",
+         "place" : 4,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Al Meder",
+         "place" : 5,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "George Pompura",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Matt Taylor",
+         "place" : 7,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Chris Cambell",
+         "place" : 8,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Roy Leonard",
+         "place" : 9,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Matt Bruhn",
+         "place" : 10,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Dennis Patton",
+         "place" : 11,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Grant Jackson",
+         "place" : 12,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "",
+         "name" : "Mark Runco",
+         "place" : 13,
+         "team" : null
+      },
+      {
+         "time" : "",
+         "name" : "Paul Carberry",
+         "place" : 14,
+         "team" : "East End Cycling Club"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "62 Â°F, cloudy",
+   "starters" : "23",
+   "slow_lap" : "1:21",
+   "category" : "C"
+}

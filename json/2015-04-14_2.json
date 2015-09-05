@@ -1,0 +1,166 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "t-shirt from John McLaughlin",
+         "name" : "Jeff Griffin"
+      },
+      {
+         "prime" : "$5 from the Lovejoys",
+         "name" : "Jeff Griffin"
+      },
+      {
+         "prime" : "$5 from the Lovejoys",
+         "name" : "Jeff Griffin"
+      }
+   ],
+   "laps" : "25",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Jeff Griffin",
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Chris Helbling",
+         "team" : "East End Cycling Club"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove"
+      }
+   ],
+   "date" : "2015-04-14",
+   "fast_lap" : "1:05",
+   "avg_lap" : "1:11",
+   "riders" : [
+      {
+         "time" : "40:14",
+         "name" : "Jason Zimmerman",
+         "place" : 1,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jeff Koontz",
+         "place" : 2,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jeff Griffin",
+         "place" : 3,
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Frankie Ross",
+         "place" : 4,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "40:14",
+         "name" : "EJ Hubstenberger",
+         "place" : 5,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Bill Ehler",
+         "place" : 6,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Ken Mowry",
+         "place" : 7,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Skip Rogers",
+         "place" : 8,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Chris Helbling",
+         "place" : 9,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jon Williams",
+         "place" : 10,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Ed Grystar",
+         "place" : 11,
+         "team" : null
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jeff Gernert",
+         "place" : 12,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jeff Huff",
+         "place" : 13,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Sean ?",
+         "place" : 14,
+         "team" : null
+      },
+      {
+         "women_place" : "1",
+         "time" : "40:14",
+         "name" : "Melissa Hiller",
+         "place" : 15,
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Jeff Paul",
+         "place" : 16,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Mark Runco",
+         "place" : 17,
+         "team" : null
+      },
+      {
+         "women_place" : "2",
+         "time" : "40:14",
+         "name" : "Elise Rowe",
+         "place" : 18,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "time" : "40:14",
+         "name" : "Florian Lungu",
+         "place" : 19,
+         "team" : "NovaCare"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "62 Â°F, cloudy",
+   "starters" : "28",
+   "slow_lap" : "1:18",
+   "category" : "Masters 40+/Women"
+}

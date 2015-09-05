@@ -1,0 +1,159 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$10 from Mikhail (Major Taylor Cycling)",
+         "name" : "Rachel Weaver"
+      }
+   ],
+   "laps" : "40",
+   "date" : "2015-05-05",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "48:38",
+         "name" : "Jeff Koontz",
+         "place" : 1,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Jason Zimmerman",
+         "place" : 2,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Devon Corboy",
+         "place" : 3,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Frankie Ross",
+         "place" : 4,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Skip Rogers",
+         "place" : 5,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Florian Lungu",
+         "place" : 6,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Jon Williams",
+         "place" : 7,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Eric Hodos",
+         "place" : 8,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Ken Mowry",
+         "place" : 9,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "48:38",
+         "name" : "Bryan Routledge",
+         "place" : 10,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Mike Quigley",
+         "place" : 11,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "women_place" : "1",
+         "time" : "at 1 lap",
+         "name" : "Rachel Weaver",
+         "place" : 12,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Greg Maier",
+         "place" : 13,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Ed Grystar",
+         "place" : 14,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Fred Gohh",
+         "place" : 15,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "John McLaughlin",
+         "place" : 16,
+         "team" : "NovaCare"
+      },
+      {
+         "women_place" : "2",
+         "time" : "at 1 lap",
+         "name" : "Elise Rowe",
+         "place" : 17,
+         "team" : "LaPrima Espresso"
+      },
+      {
+         "women_place" : "3",
+         "time" : "at 1 lap",
+         "name" : "Shequaya Bailey",
+         "place" : 18,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jack Neyer",
+         "place" : 19,
+         "team" : "Freddie Fu Cycling"
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "78 Â°F, sunny, breezy",
+   "category" : "Masters 40+/Women",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Jon Williams",
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "EJ Hubstenberger",
+         "team" : "Dynamic Physical Therapy"
+      }
+   ],
+   "fast_lap" : "0:59.65",
+   "starters" : "24",
+   "slow_lap" : "1:17"
+}

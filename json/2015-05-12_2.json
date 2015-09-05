@@ -1,0 +1,180 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "$5 from Mikhail (Major Taylor Cycling)",
+         "name" : "Eric Hodos"
+      },
+      {
+         "prime" : "$5 from Mikhail (Major Taylor Cycling)",
+         "name" : "Jeff Paul"
+      },
+      {
+         "prime" : "2x$5 (womans prime) from Chrstine Lovejoy",
+         "name" : "Stephanie Swan"
+      }
+   ],
+   "laps" : "42",
+   "date" : "2015-05-12",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "49:44",
+         "name" : "Mark Nicoll",
+         "place" : 1,
+         "team" : "GPOA"
+      },
+      {
+         "time" : "49:44",
+         "name" : "Jeff Koontz",
+         "place" : 2,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "49:44",
+         "name" : "Jason Zimmerman",
+         "place" : 3,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "49:44",
+         "name" : "Jeff Griffin",
+         "place" : 4,
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "time" : "49:44",
+         "name" : "Frankie Ross",
+         "place" : 5,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "49:44",
+         "name" : "Chris Helbling",
+         "place" : 6,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Carl Lovejoy",
+         "place" : 7,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "women_place" : "1",
+         "time" : "at 1 lap",
+         "name" : "Stephanie Swan",
+         "place" : 8,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Eric Hodos",
+         "place" : 9,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jim Mock",
+         "place" : 10,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jack Neyer",
+         "place" : 11,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jon Williams",
+         "place" : 12,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jeff Paul",
+         "place" : 13,
+         "team" : "Rare Diseases"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Jeff Gernert",
+         "place" : 14,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Fred Gohh",
+         "place" : 15,
+         "team" : "Team Citius"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "EJ Hubstenberger",
+         "place" : 16,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Greg Maier",
+         "place" : 17,
+         "team" : null
+      },
+      {
+         "time" : "at 1 lap",
+         "name" : "Bryan Routledge",
+         "place" : 18,
+         "team" : "Sette Nove"
+      },
+      {
+         "women_place" : "2",
+         "time" : "at 1 lap",
+         "name" : "Melissa Hiller",
+         "place" : 19,
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "women_place" : "3",
+         "time" : "at 1 lap",
+         "name" : "Shequaya Bailey",
+         "place" : 20,
+         "team" : "Rare Diseases"
+      },
+      {
+         "women_place" : "4",
+         "time" : "at 1 lap",
+         "name" : "Kelly Haderlie",
+         "place" : 21,
+         "team" : null
+      }
+   ],
+   "usac_permit" : "2015-617",
+   "p_course" : "false",
+   "weather" : "70 Â°F, sunny, windy",
+   "category" : "Masters 40+/Women",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Jeff Griffin",
+         "team" : "QCW Breakaway Bikes"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Eric Hodos",
+         "team" : "UPMC Cycling Performance"
+      }
+   ],
+   "fast_lap" : "1:03",
+   "starters" : "26",
+   "slow_lap" : "1:18"
+}
