@@ -72,7 +72,7 @@
          "time" : "42:01",
          "name" : "Jay Downs",
          "place" : 8,
-         "team" : null
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "42:01",
@@ -101,7 +101,7 @@
    ],
    "usac_permit" : "2015-618",
    "p_course" : "false",
-   "weather" : "65 Â°F, sunny",
+   "weather" : "65 °F, sunny",
    "starters" : "26",
    "slow_lap" : "1:11",
    "category" : "A"

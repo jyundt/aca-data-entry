@@ -120,7 +120,7 @@
          "name" : "Jay Downs",
          "place" : 11,
          "points" : "0",
-         "team" : null,
+         "team" : "QCW Breakaway Bikes",
          "team_points" : "0"
       },
       {
@@ -150,7 +150,7 @@
    ],
    "usac_permit" : "2015-617",
    "p_course" : "false",
-   "weather" : "? Â°F",
+   "weather" : "? °F",
    "starters" : "14",
    "slow_lap" : "1:18",
    "category" : "Masters 40+/Women"
