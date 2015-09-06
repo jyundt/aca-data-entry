@@ -23,12 +23,12 @@
       {
          "mar_place" : "1",
          "name" : "Mike Janeiro",
-         "team" : "LaPrima Espresso",
+         "team" : "LaPrima Espresso"
       },
       {
          "mar_place" : "2",
          "name" : "Matt Dolfi",
-         "team" : "NovaCare",
+         "team" : "NovaCare"
       }
    ],
    "date" : "2015-05-27",
@@ -39,121 +39,121 @@
          "time" : "48:12",
          "name" : "Willem deBoer",
          "place" : 1,
-         "team" : "UPMC Cycling Performance",
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "48:12",
          "name" : "Dave Galati",
          "place" : 2,
-         "team" : "LaPrima Espresso",
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "48:12",
          "name" : "Matt Dolfi",
          "place" : 3,
-         "team" : "NovaCare",
+         "team" : "NovaCare"
       },
       {
          "time" : "48:12",
          "name" : "Mike Janeiro",
          "place" : 4,
-         "team" : "LaPrima Espresso",
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "48:12",
          "name" : "Jordan Snyder",
          "place" : 5,
-         "team" : null,
+         "team" : null
       },
       {
          "time" : "48:12",
          "name" : "Matt Williams",
          "place" : 6,
-         "team" : null,
+         "team" : null
       },
       {
          "time" : "48:12",
          "name" : "Christian Korey",
          "place" : 7,
-         "team" : "UPMC Cycling Performance",
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "48:12",
          "name" : "Josh Lewis",
          "place" : 8,
-         "team" : "East End Cycling Club",
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:12",
          "name" : "Al Meder",
          "place" : 9,
-         "team" : "East End Cycling Club",
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:12",
          "name" : "Birk McGilvrey",
          "place" : 10,
-         "team" : "LaPrima Espresso",
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "48:12",
          "name" : "Matt Serechin",
          "place" : 11,
-         "team" : "East End Cycling Club",
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:12",
          "name" : "Chris Yanakos",
          "place" : 12,
-         "team" : "LaPrima Espresso",
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "48:12",
          "name" : "Hassan Beydoun",
          "place" : 13,
-         "team" : "East End Cycling Club",
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:12",
          "name" : "Jack Neyer",
          "place" : 14,
-         "team" : "Freddie Fu Cycling",
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "48:12",
          "name" : "Xavier Szigethy",
          "place" : 15,
-         "team" : "UPMC Cycling Performance",
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "48:12",
          "name" : "Hasan Baydoun",
          "place" : 16,
-         "team" : "East End Cycling Club",
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:12",
          "name" : "Mike Coumos",
          "place" : 17,
-         "team" : null,
+         "team" : null
       },
       {
          "time" : "48:12",
          "name" : "Shequaya Bailey",
          "place" : 18,
-         "team" : "Rare Diseases",
+         "team" : "Rare Diseases"
       },
       {
          "time" : "48:12",
          "name" : "Marko Milojevic",
          "place" : 19,
-         "team" : "NovaCare",
+         "team" : "NovaCare"
       },
       {
          "time" : "48:12",
          "name" : "Matt Taylor",
          "place" : 20,
-         "team" : null,
+         "team" : null
       }
    ],
    "usac_permit" : "2015-618",
