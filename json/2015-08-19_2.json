@@ -63,111 +63,111 @@
          "time" : "39:55",
          "name" : "Tom Borner",
          "place" : "1",
-         "points" : "10",
+         "points" : 10,
          "team" : "Truefit Racing",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "39:55",
          "name" : "Rick Holzworth",
          "place" : "2",
-         "points" : "8",
+         "points" : 8,
          "team" : "LaPrima Espresso",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "39:55",
          "name" : "Matt Brady",
          "place" : "3",
-         "points" : "6",
+         "points" : 6,
          "team" : "NovaCare",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "39:55",
          "name" : "Mike Janeiro",
          "place" : "4",
-         "points" : "5",
+         "points" : 5,
          "team" : "LaPrima Espresso",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "39:55",
          "name" : "Caleb Smith",
          "place" : "5",
-         "points" : "5",
+         "points" : 5,
          "team" : "LaPrima Espresso",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "39:55",
          "name" : "Dave Galati",
          "place" : "6",
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Mike Meehan",
          "place" : "7",
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Birk McGilvrey",
          "place" : "8",
-         "points" : "1",
+         "points" : 1,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Josh Lewis",
          "place" : "9",
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Al Meder",
          "place" : "10",
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Hasan Baydoun",
          "place" : "11",
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Rachel Weaver",
          "place" : "12",
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "39:55",
          "name" : "Elise Rowe",
          "place" : "13",
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-618",
-   "p_course" : "true",
+   "p_course" : true,
    "weather" : "82 °F hot",
-   "starters" : "14",
+   "starters" : 14,
    "slow_lap" : "1:15",
    "category" : "B"
 }

@@ -43,151 +43,151 @@
          "time" : "",
          "name" : "Frankie Ross",
          "place" : 1,
-         "points" : "10",
+         "points" : 10,
          "team" : "Sette Nove",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "",
          "name" : "Jeff Koontz",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "",
          "name" : "Mark Nicoll",
          "place" : 3,
-         "points" : "6",
+         "points" : 6,
          "team" : "GPOA",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "",
          "name" : "Jason Zimmerman",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "",
          "name" : "JR Petsko",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "",
          "name" : "Gunnar Shogren",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "",
          "name" : "Mike Quigley",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "",
          "name" : "Chris Helbling",
          "place" : 8,
-         "points" : "1",
+         "points" : 1,
          "team" : "East End Cycling Club",
-         "team_points" : "1"
+         "team_points" : 1
       },
       {
          "time" : "",
          "name" : "EJ Hubstenberger",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Jon Williams",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "Rare Diseases",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Devon Corboy",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Jim Doan",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "Bents Cycling",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : "Sette Nove",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Eric Hodos",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Elise Rowe",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Megan Sybeldon",
          "place" : 17,
-         "points" : "0",
+         "points" : 0,
          "team" : "Rare Diseases",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Jim Mock",
          "place" : 18,
-         "points" : "1",
+         "points" : 1,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "75 °F, rain, storms",
-   "starters" : "22",
+   "starters" : 22,
    "slow_lap" : "1:09",
    "category" : "Masters 40+/Women"
 }

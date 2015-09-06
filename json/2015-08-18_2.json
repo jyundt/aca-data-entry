@@ -55,97 +55,97 @@
          "time" : "",
          "name" : "Mark Nicoll",
          "place" : 1,
-         "points" : "10",
+         "points" : 10,
          "team" : "GPOA",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "",
          "name" : "Jason Zimmerman",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "",
          "name" : "Jeff Koontz",
          "place" : 3,
-         "points" : "7",
+         "points" : 7,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "",
          "name" : "JR Petsko",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "",
          "name" : "Mike Quigley",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "",
          "name" : "Frankie Ross",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "Sette Nove",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "",
          "name" : "Jeff Griffin",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "",
          "name" : "Paul Carlson",
          "place" : 8,
-         "points" : "1",
+         "points" : 1,
          "team" : "Top Gear Racing",
-         "team_points" : "1"
+         "team_points" : 1
       },
       {
          "time" : "",
          "name" : "Gunnar Shogren",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Chris Helbling",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Florian Lungu",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "1",
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 12,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "10",
          "team" : "Rare Diseases"
       },
@@ -153,41 +153,41 @@
          "time" : "",
          "name" : "Ted McPherson",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Skip Rogers",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Ken Mowry",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Gary Rodesta",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "2",
          "time" : "",
          "name" : "Melissa Hiller",
          "place" : 17,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "8",
          "team" : "QCW Breakaway Bikes"
       },
@@ -195,17 +195,17 @@
          "time" : "",
          "name" : "Eric Hodos",
          "place" : 18,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "3",
          "time" : "",
          "name" : "Anna-Lena Kemper",
          "place" : 19,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "0",
          "team" : "Dynamic Physical Therapy"
       },
@@ -213,25 +213,25 @@
          "time" : "",
          "name" : "Devon Corboy",
          "place" : 20,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 21,
-         "points" : "0",
+         "points" : 0,
          "team" : "Sette Nove",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "4",
          "time" : "",
          "name" : "Colleen Grygier",
          "place" : 22,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "5",
          "team" : "East End Cycling Club"
       },
@@ -240,16 +240,16 @@
          "time" : "",
          "name" : "Heather Slater",
          "place" : 23,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "4",
          "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "80 °F, warm and humid",
-   "starters" : "26",
+   "starters" : 26,
    "slow_lap" : "1:17",
    "category" : "Masters 40+/Women"
 }

@@ -59,191 +59,191 @@
          "time" : "52:13",
          "name" : "Matt Brady",
          "place" : 1,
-         "points" : "10",
+         "points" : 10,
          "team" : "NovaCare",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "52:13",
          "name" : "Dave Galati",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "LaPrima Espresso",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "52:13",
          "name" : "Willem deBoer",
          "place" : 3,
-         "points" : "6",
+         "points" : 6,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "52:13",
          "name" : "Ian Baun",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "52:13",
          "name" : "Tom Borner",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "Truefit Racing",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "52:13",
          "name" : "Matt Dolfi",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "NovaCare",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "52:13",
          "name" : "Birk McGilvrey",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "LaPrima Espresso",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "52:13",
          "name" : "Rick Holzworth",
          "place" : 8,
-         "points" : "2",
+         "points" : 2,
          "team" : "LaPrima Espresso",
-         "team_points" : "1"
+         "team_points" : 1
       },
       {
          "time" : "52:13",
          "name" : "Xavier Szigethy",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Mike Quigley",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Jack Neyer",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Jason Hochreiter",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "Truefit Racing",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Ed Grystar",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Aaron Bovalino",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "John McLaughlin",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Mark Bedel",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Hassan Beydoun",
          "place" : 17,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Dan Rabe",
          "place" : 18,
-         "points" : "0",
+         "points" : 0,
          "team" : "Truefit Racing",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Todd Schoeni",
          "place" : 19,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Marko Milojevic",
          "place" : 20,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Jason Bair",
          "place" : 21,
-         "points" : "0",
+         "points" : 0,
          "team" : "Truefit Racing",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Elise Rowe",
          "place" : 22,
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Russell Boyd",
          "place" : 23,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-618",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "76 °F, sunny, nice",
-   "starters" : "23",
+   "starters" : 23,
    "slow_lap" : "1:15",
    "category" : "B"
 }

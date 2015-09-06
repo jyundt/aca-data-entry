@@ -114,7 +114,7 @@
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "70 °F, sunny, windy",
    "marshals" : [
       "EJ Hubstenberger",
@@ -122,7 +122,7 @@
       "Jacob Yundt",
       "Josh Friedman"
    ],
-   "starters" : "27",
+   "starters" : 27,
    "slow_lap" : "",
    "category" : "C"
 }

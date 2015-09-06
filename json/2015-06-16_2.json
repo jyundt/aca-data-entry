@@ -47,143 +47,143 @@
          "time" : "58:92",
          "name" : "Jason Zimmerman",
          "place" : 1,
-         "points" : "10",
+         "points" : 10,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "58:92",
          "name" : "Mark Nicoll",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "GPOA",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "58:92",
          "name" : "Jeff Koontz",
          "place" : 3,
-         "points" : "6",
+         "points" : 6,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "58:92",
          "name" : "JR Petsko",
          "place" : 4,
-         "points" : "6",
+         "points" : 6,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "58:92",
          "name" : "Chris Helbling",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "East End Cycling Club",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "58:92",
          "name" : "Ken Mowry",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "East End Cycling Club",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "58:92",
          "name" : "Eric Hodos",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "58:92",
          "name" : "Stephanie Lamb",
          "place" : 8,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "58:92",
          "name" : "Florian Lungu",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "58:92",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "58:92",
          "name" : "Bill Ehler",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "58:92",
          "name" : "Jon Williams",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "58:92",
          "name" : "Carl Lovejoy",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Ed Grystar",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : null,
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Brett Stana",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Fred Gohh",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Don Dockerson",
          "place" : 17,
-         "points" : "0",
+         "points" : 0,
          "team" : null,
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "? °F",
-   "starters" : "19",
+   "starters" : 19,
    "slow_lap" : "",
    "category" : "Masters 40+/Women"
 }

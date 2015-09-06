@@ -124,9 +124,9 @@
       }
    ],
    "usac_permit" : "2015-618",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "75 °F, mostly sunny",
-   "starters" : "29",
+   "starters" : 29,
    "slow_lap" : "",
    "category" : "A"
 }

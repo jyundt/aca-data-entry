@@ -71,127 +71,127 @@
          "time" : "36:43",
          "name" : "Josh Lewis",
          "place" : 1,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Al Meder",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "East End Cycling Club",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "36:43",
          "name" : "Tim Daigle",
          "place" : 3,
-         "points" : "7",
+         "points" : 7,
          "team" : "Team Citius",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "36:43",
          "name" : "Andrew Reay",
          "place" : 4,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Jonathan Rafaeli",
          "place" : 5,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Drew Dorko",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "East End Cycling Club",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "36:43",
          "name" : "Roy Leonard",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Rich Shutte",
          "place" : 8,
-         "points" : "1",
+         "points" : 1,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Matt Morehead",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Walt Impellicceiri",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Russell Boyd",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Hy Simhan",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Drew Smorul",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Dave Roney",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Fred Gohh",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "92 °F, hot and sunny",
-   "starters" : "16",
+   "starters" : 16,
    "slow_lap" : "1:22",
    "category" : "C"
 }

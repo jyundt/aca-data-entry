@@ -132,7 +132,7 @@
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "78 °F, sunny, breezy",
    "category" : "Masters 40+/Women",
    "location" : "Bud Harris Bike Park",
@@ -154,6 +154,6 @@
       }
    ],
    "fast_lap" : "0:59.65",
-   "starters" : "24",
+   "starters" : 24,
    "slow_lap" : "1:17"
 }

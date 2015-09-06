@@ -43,95 +43,95 @@
          "time" : "55:02",
          "name" : "Shawn Litster",
          "place" : 1,
-         "points" : "10",
+         "points" : 10,
          "team" : "NovaCare",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "55:02",
          "name" : "Dan Greene",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "East End Cycling Club",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "55:02",
          "name" : "Morgan Baker",
          "place" : 3,
-         "points" : "7",
+         "points" : 7,
          "team" : "NovaCare",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "55:02",
          "name" : "Steve Kurpiewski",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "GPOA",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "55:02",
          "name" : "Mike Mihalik",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "NovaCare",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "55:02",
          "name" : "Jordan Villella",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "55:02",
          "name" : "Frankie Ross",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "Sette Nove",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "55:02",
          "name" : "Eric Lundgren",
          "place" : 8,
-         "points" : "0",
+         "points" : 0,
          "team" : "JBV Coaching",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "55:02",
          "name" : "Jacob Yundt",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "CAT Racing",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "55:02",
          "name" : "Ed Krall",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "GPOA",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "55:02",
          "name" : "Jeff Koontz",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-618",
-   "p_course" : "true",
+   "p_course" : true,
    "weather" : "78 °F, sunny",
-   "starters" : "17",
+   "starters" : 17,
    "slow_lap" : "1:13",
    "category" : "A"
 }

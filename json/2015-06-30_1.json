@@ -9,9 +9,9 @@
    "fast_lap" : "",
    "avg_lap" : "",
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "75 °F, rain, storms",
-   "starters" : "0",
+   "starters" : 0,
    "slow_lap" : "",
    "category" : "C"
 }

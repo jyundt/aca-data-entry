@@ -134,9 +134,9 @@
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "55 °F, cloudy, windy",
-   "starters" : "26",
+   "starters" : 26,
    "slow_lap" : "1:21",
    "category" : "C"
 }

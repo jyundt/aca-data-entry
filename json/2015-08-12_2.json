@@ -47,167 +47,167 @@
          "time" : "43:22",
          "name" : "Mike Janeiro",
          "place" : 1,
-         "points" : "11",
+         "points" : 11,
          "team" : "LaPrima Espresso",
-         "team_points" : "10"
+         "team_points" : 10
       },
       {
          "time" : "43:22",
          "name" : "Dave Galati",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "LaPrima Espresso",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "43:22",
          "name" : "Nathan Clair",
          "place" : 3,
-         "points" : "6",
+         "points" : 6,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "43:22",
          "name" : "Jason Hochreiter",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "Truefit Racing",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "43:22",
          "name" : "Josh Lewis",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "East End Cycling Club",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "43:22",
          "name" : "Caleb Smith",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "LaPrima Espresso",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "43:22",
          "name" : "Chas McFarland",
          "place" : 7,
-         "points" : "0",
+         "points" : 0,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Xavier Szigethy",
          "place" : 8,
-         "points" : "1",
+         "points" : 1,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "1"
+         "team_points" : 1
       },
       {
          "time" : "43:22",
          "name" : "Ed Grystar",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Kathleen Wulfkuhle",
          "place" : 10,
-         "points" : "0",
+         "points" : 0,
          "team" : "",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Chris Yanakos",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Austin Bradley",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "Pitt",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Jason Bair",
          "place" : 13,
-         "points" : "0",
+         "points" : 0,
          "team" : "Truefit Racing",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Al Meder",
          "place" : 14,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Hassan Beydoun",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Drew Smorul",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Adam Cohen",
          "place" : 17,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Hy Simhan",
          "place" : 18,
-         "points" : "0",
+         "points" : 0,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Caleb Wakely",
          "place" : 19,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Elise Rowe",
          "place" : 20,
-         "points" : "0",
+         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : "0"
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-618",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "? °F",
-   "starters" : "20",
+   "starters" : 20,
    "slow_lap" : "1:17",
    "category" : "B"
 }

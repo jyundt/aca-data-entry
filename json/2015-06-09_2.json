@@ -39,105 +39,105 @@
          "time" : "",
          "name" : "Jay Downs",
          "place" : 1,
-         "points" : "0",
+         "points" : 0,
          "team" : "QCW Breakaway Bikes",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Mike Quigley",
          "place" : 2,
-         "points" : "8",
+         "points" : 8,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "8"
+         "team_points" : 8
       },
       {
          "time" : "",
          "name" : "Paul Carlson",
          "place" : 3,
-         "points" : "6",
+         "points" : 6,
          "team" : "Top Gear Racing",
-         "team_points" : "6"
+         "team_points" : 6
       },
       {
          "time" : "",
          "name" : "EJ Hubstenberger",
          "place" : 4,
-         "points" : "5",
+         "points" : 5,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "5"
+         "team_points" : 5
       },
       {
          "time" : "",
          "name" : "Skip Rogers",
          "place" : 5,
-         "points" : "4",
+         "points" : 4,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "4"
+         "team_points" : 4
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 6,
-         "points" : "3",
+         "points" : 3,
          "team" : "Sette Nove",
-         "team_points" : "3"
+         "team_points" : 3
       },
       {
          "time" : "at 1 lap",
          "name" : "Jason Zimmerman",
          "place" : 7,
-         "points" : "2",
+         "points" : 2,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "2"
+         "team_points" : 2
       },
       {
          "time" : "at 1 lap",
          "name" : "Jeff Koontz",
          "place" : 8,
-         "points" : "1",
+         "points" : 1,
          "team" : "UPMC Cycling Performance",
-         "team_points" : "1"
+         "team_points" : 1
       },
       {
          "time" : "at 1 lap",
          "name" : "Frankie Ross",
          "place" : 9,
-         "points" : "0",
+         "points" : 0,
          "team" : "Sette Nove",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "JR Petsko",
          "place" : 10,
-         "points" : "1",
+         "points" : 1,
          "team" : "Dynamic Physical Therapy",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Florian Lungu",
          "place" : 11,
-         "points" : "0",
+         "points" : 0,
          "team" : "NovaCare",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Jack Neyer",
          "place" : 12,
-         "points" : "0",
+         "points" : 0,
          "team" : "Freddie Fu Cycling",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "1",
          "time" : "at 1 lap",
          "name" : "Rachel Weaver",
          "place" : 13,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "10",
          "team" : "NovaCare"
       },
@@ -146,8 +146,8 @@
          "time" : "at 1 lap",
          "name" : "Shequaya Bailey",
          "place" : 14,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "8",
          "team" : "Rare Diseases"
       },
@@ -155,49 +155,49 @@
          "time" : "at 1 lap",
          "name" : "Mark Bedel",
          "place" : 15,
-         "points" : "0",
+         "points" : 0,
          "team" : "Team Citius",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Ken Mowry",
          "place" : 16,
-         "points" : "0",
+         "points" : 0,
          "team" : "East End Cycling Club",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Jeff Paul",
          "place" : 17,
-         "points" : "0",
+         "points" : 0,
          "team" : "Rare Diseases",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "time" : "at 1 lap",
          "name" : "Ted McPherson",
          "place" : 18,
-         "points" : "0",
+         "points" : 0,
          "team" : "QCW Breakaway Bikes",
-         "team_points" : "0"
+         "team_points" : 0
       },
       {
          "women_place" : "3",
          "time" : "at 1 lap",
          "name" : "Anna-Lena Kemper",
          "place" : 19,
-         "points" : "0",
-         "team_points" : "0",
+         "points" : 0,
+         "team_points" : 0,
          "women_points" : "0",
          "team" : null
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "80 °F, warm, sunny",
-   "starters" : "37",
+   "starters" : 37,
    "slow_lap" : "",
    "category" : "Masters 40+/Women"
 }

@@ -167,9 +167,9 @@
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "80 °F, sunny, breezy",
-   "starters" : "23",
+   "starters" : 23,
    "slow_lap" : "1:19",
    "category" : "Masters 40+/Women"
 }

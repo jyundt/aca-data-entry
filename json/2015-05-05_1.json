@@ -119,7 +119,7 @@
       }
    ],
    "usac_permit" : "2015-617",
-   "p_course" : "false",
+   "p_course" : false,
    "weather" : "78 °F, sunny, breezy",
    "marshals" : [
       "EJ Hubstenberger",
@@ -137,6 +137,6 @@
       }
    ],
    "fast_lap" : "1:04",
-   "starters" : "28",
+   "starters" : 28,
    "slow_lap" : "1:20"
 }
