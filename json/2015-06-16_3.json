@@ -68,7 +68,6 @@
          "name" : "Danielle Millet",
          "place" : 6,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -84,7 +83,6 @@
          "name" : "Nina Assimakopoules",
          "place" : 8,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -100,7 +98,6 @@
          "name" : "Jasmine Kemble",
          "place" : 10,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {

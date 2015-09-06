@@ -79,7 +79,6 @@
          "time" : "49:36",
          "name" : "Ed Grystar",
          "place" : 10,
-         "team" : null
       },
       {
          "time" : "49:36",
@@ -88,14 +87,14 @@
          "team" : "Rare Diseases"
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "49:36",
          "name" : "Rachel Weaver",
          "place" : 12,
          "team" : "NovaCare"
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "49:36",
          "name" : "Shequaya Bailey",
          "place" : 13,
@@ -114,7 +113,7 @@
          "team" : "Freddie Fu Cycling"
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "49:36",
          "name" : "Elise Rowe",
          "place" : 16,
@@ -139,14 +138,14 @@
          "team" : "Freddie Fu Cycling"
       },
       {
-         "women_place" : "4",
+         "women_place" : 4,
          "time" : "49:36",
          "name" : "Melissa Hiller",
          "place" : 20,
          "team" : "QCW Breakaway Bikes"
       },
       {
-         "women_place" : "5",
+         "women_place" : 5,
          "time" : "49:36",
          "name" : "Stacie Truszkowski",
          "place" : 21,

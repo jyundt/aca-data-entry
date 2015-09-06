@@ -25,7 +25,6 @@
       {
          "mar_place" : "2",
          "name" : "Isaac Samay",
-         "team" : "",
          "mar_points" : "0"
       },
       {
@@ -44,7 +43,6 @@
          "name" : "Rich Shutte",
          "place" : 1,
          "points" : 10,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -60,7 +58,6 @@
          "name" : "Isaac Samay",
          "place" : 3,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -84,7 +81,6 @@
          "name" : "Dan Pellechio",
          "place" : 6,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -116,7 +112,6 @@
          "name" : "Matt Morehead",
          "place" : 10,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -124,7 +119,6 @@
          "name" : "Ed Leonard",
          "place" : 11,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -132,7 +126,6 @@
          "name" : "James Knox",
          "place" : 12,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -164,7 +157,6 @@
          "name" : "Walt Impellicceiri",
          "place" : 16,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       }
    ],

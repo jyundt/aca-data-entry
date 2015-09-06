@@ -104,7 +104,6 @@
          "time" : "40:14",
          "name" : "Ed Grystar",
          "place" : 11,
-         "team" : null
       },
       {
          "time" : "40:14",
@@ -122,10 +121,9 @@
          "time" : "40:14",
          "name" : "Sean ?",
          "place" : 14,
-         "team" : null
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "40:14",
          "name" : "Melissa Hiller",
          "place" : 15,
@@ -141,10 +139,9 @@
          "time" : "40:14",
          "name" : "Mark Runco",
          "place" : 17,
-         "team" : null
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "40:14",
          "name" : "Elise Rowe",
          "place" : 18,

@@ -16,7 +16,6 @@
       {
          "mar_place" : "1",
          "name" : "Steve Perezhula",
-         "team" : "",
          "mar_points" : "0"
       },
       {
@@ -137,7 +136,6 @@
          "name" : "Eric McBride",
          "place" : 13,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -193,7 +191,6 @@
          "name" : "Mike Friedman",
          "place" : 20,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {

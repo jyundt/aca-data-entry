@@ -80,7 +80,7 @@
          "team" : "UPMC Cycling Performance"
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "at 1 lap",
          "name" : "Rachel Weaver",
          "place" : 12,
@@ -90,13 +90,11 @@
          "time" : "at 1 lap",
          "name" : "Greg Maier",
          "place" : 13,
-         "team" : null
       },
       {
          "time" : "at 1 lap",
          "name" : "Ed Grystar",
          "place" : 14,
-         "team" : null
       },
       {
          "time" : "at 1 lap",
@@ -111,14 +109,14 @@
          "team" : "NovaCare"
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "at 1 lap",
          "name" : "Elise Rowe",
          "place" : 17,
          "team" : "LaPrima Espresso"
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "at 1 lap",
          "name" : "Shequaya Bailey",
          "place" : 18,

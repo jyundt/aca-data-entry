@@ -124,7 +124,6 @@
          "name" : "Bob Gottlieb",
          "place" : 8,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -160,13 +159,13 @@
          "team_points" : 0
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "47:43",
          "name" : "Melissa Hiller",
          "place" : 13,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "10",
+         "women_points" : 10,
          "team" : "QCW Breakaway Bikes"
       },
       {
@@ -174,7 +173,6 @@
          "name" : "Zack Wills",
          "place" : 14,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -186,13 +184,13 @@
          "team_points" : 0
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "47:43",
          "name" : "Colleen Grygier",
          "place" : 16,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "8",
+         "women_points" : 8,
          "team" : "East End Cycling Club"
       },
       {
@@ -212,33 +210,33 @@
          "team_points" : 0
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "47:43",
          "name" : "Elise Rowe",
          "place" : 19,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "6",
+         "women_points" : 6,
          "team" : "LaPrima Espresso"
       },
       {
-         "women_place" : "4",
+         "women_place" : 4,
          "time" : "47:43",
          "name" : "Shequaya Bailey",
          "place" : 20,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "5",
+         "women_points" : 5,
          "team" : "Rare Diseases"
       },
       {
-         "women_place" : "5",
+         "women_place" : 5,
          "time" : "47:43",
          "name" : "Stephanie Swan",
          "place" : 21,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "4",
+         "women_points" : 4,
          "team" : "Rare Diseases"
       }
    ],

@@ -68,7 +68,6 @@
          "name" : "Rich Shutte",
          "place" : 1,
          "points" : 10,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -132,7 +131,6 @@
          "name" : "Roy Leonard",
          "place" : 9,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -148,7 +146,6 @@
          "name" : "Walt Impellicceiri",
          "place" : 11,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -156,7 +153,6 @@
          "name" : "Michael Sanders",
          "place" : 12,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -164,7 +160,6 @@
          "name" : "Rob Wierzbowski",
          "place" : 13,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -204,7 +199,6 @@
          "name" : "Matt Morehead",
          "place" : 18,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -220,7 +214,6 @@
          "name" : "Zack Wills",
          "place" : 20,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {

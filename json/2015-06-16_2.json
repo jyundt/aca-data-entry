@@ -152,7 +152,6 @@
          "name" : "Ed Grystar",
          "place" : 14,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -176,7 +175,6 @@
          "name" : "Don Dockerson",
          "place" : 17,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       }
    ],

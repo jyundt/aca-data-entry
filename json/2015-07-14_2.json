@@ -132,7 +132,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "58:58",
          "name" : "Shequaya Bailey",
          "place" : 12,
@@ -149,7 +149,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "58:58",
          "name" : "Colleen Grygier",
          "place" : 14,
@@ -158,7 +158,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "58:58",
          "name" : "Megan Sybeldon",
          "place" : 15,

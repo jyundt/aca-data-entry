@@ -104,7 +104,7 @@
          "team_points" : 2
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "48:47",
          "name" : "Shequaya Bailey",
          "place" : 8,
@@ -137,7 +137,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "48:47",
          "name" : "Stephanie Swan",
          "place" : 12,
@@ -154,7 +154,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "48:47",
          "name" : "Melissa Hiller",
          "place" : 14,

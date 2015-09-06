@@ -76,7 +76,6 @@
          "name" : "Walt Impellicceiri",
          "place" : 5,
          "points" : 4,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -84,7 +83,6 @@
          "name" : "Dan Pellechio",
          "place" : 6,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -92,7 +90,6 @@
          "name" : "Matt Morehead",
          "place" : 7,
          "points" : 2,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -100,7 +97,6 @@
          "name" : "James Knox",
          "place" : 8,
          "points" : 1,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -116,7 +112,6 @@
          "name" : "Rich Shutte",
          "place" : 10,
          "points" : 1,
-         "team" : "",
          "team_points" : 0
       }
    ],

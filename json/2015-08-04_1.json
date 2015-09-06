@@ -100,7 +100,6 @@
          "name" : "Brian Haltenback",
          "place" : 6,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -108,7 +107,6 @@
          "name" : "Roy Leonard",
          "place" : 7,
          "points" : 2,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -116,7 +114,6 @@
          "name" : "Jonathan Rafaeli",
          "place" : 8,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -124,7 +121,6 @@
          "name" : "Rich Shutte",
          "place" : 9,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -140,7 +136,6 @@
          "name" : "Marcus McGuire",
          "place" : 11,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -148,7 +143,6 @@
          "name" : "Mark Runco",
          "place" : 12,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -156,7 +150,6 @@
          "name" : "Matt Morehead",
          "place" : 13,
          "points" : 1,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -204,7 +197,6 @@
          "name" : "Luke Gunnett",
          "place" : 19,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       }
    ],

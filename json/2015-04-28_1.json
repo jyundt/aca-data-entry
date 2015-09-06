@@ -17,7 +17,6 @@
          "time" : "",
          "name" : "Matt Brady",
          "place" : 1,
-         "team" : null
       },
       {
          "time" : "",
@@ -41,13 +40,11 @@
          "time" : "",
          "name" : "Matt Taylor",
          "place" : 5,
-         "team" : null
       },
       {
          "time" : "",
          "name" : "Matt Bruhn",
          "place" : 6,
-         "team" : null
       },
       {
          "time" : "",
@@ -65,7 +62,6 @@
          "time" : "",
          "name" : "Vince Pantloni",
          "place" : 9,
-         "team" : null
       },
       {
          "time" : "",
@@ -77,7 +73,6 @@
          "time" : "",
          "name" : "JD Day",
          "place" : 11,
-         "team" : null
       },
       {
          "time" : "",
@@ -89,7 +84,6 @@
          "time" : "",
          "name" : "Walt Impellicceiri",
          "place" : 13,
-         "team" : null
       },
       {
          "time" : "",
@@ -101,7 +95,6 @@
          "time" : "",
          "name" : "James Knox",
          "place" : 15,
-         "team" : null
       },
       {
          "time" : "",
@@ -137,7 +130,6 @@
       {
          "mar_place" : "1",
          "name" : "Matt Brady",
-         "team" : null
       }
    ],
    "fast_lap" : "",

@@ -49,7 +49,6 @@
          "time" : "37:28",
          "name" : "Alex Kovalik",
          "place" : 5,
-         "team" : null
       },
       {
          "time" : "37:28",
@@ -85,31 +84,26 @@
          "time" : "37:28",
          "name" : "Vince Pantloni",
          "place" : 11,
-         "team" : null
       },
       {
          "time" : "37:28",
          "name" : "JD Day",
          "place" : 12,
-         "team" : null
       },
       {
          "time" : "37:28",
          "name" : "James Knox",
          "place" : 13,
-         "team" : null
       },
       {
          "time" : "37:28",
          "name" : "Matt Morehead",
          "place" : 14,
-         "team" : null
       },
       {
          "time" : "37:28",
          "name" : "Ryan Moncheck",
          "place" : 15,
-         "team" : null
       }
    ],
    "usac_permit" : "2015-617",

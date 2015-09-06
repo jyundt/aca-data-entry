@@ -48,7 +48,6 @@
          "name" : "Matt Taylor",
          "place" : 2,
          "points" : 8,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -96,7 +95,6 @@
          "name" : "Matt Morehead",
          "place" : 8,
          "points" : 1,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -153,7 +151,6 @@
          "name" : "Sam Hersick",
          "place" : 15,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -162,7 +159,6 @@
          "name" : "Creed Erdos",
          "place" : 16,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -171,7 +167,6 @@
          "name" : "Ben Keefer",
          "place" : 17,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       }
    ],

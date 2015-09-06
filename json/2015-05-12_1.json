@@ -9,7 +9,6 @@
       {
          "mar_place" : "1",
          "name" : "Matt Taylor",
-         "team" : null
       }
    ],
    "date" : "2015-05-12",
@@ -20,7 +19,6 @@
          "time" : "",
          "name" : "Matt Brady",
          "place" : 1,
-         "team" : null
       },
       {
          "time" : "",
@@ -38,7 +36,6 @@
          "time" : "",
          "name" : "Sam Carroll",
          "place" : 4,
-         "team" : null
       },
       {
          "time" : "",
@@ -50,7 +47,6 @@
          "time" : "",
          "name" : "Matt Taylor",
          "place" : 6,
-         "team" : null
       },
       {
          "time" : "",
@@ -62,7 +58,6 @@
          "time" : "",
          "name" : "Dale Black",
          "place" : 8,
-         "team" : null
       },
       {
          "time" : "",
@@ -80,7 +75,6 @@
          "time" : "at 1 lap",
          "name" : "JD Day",
          "place" : 11,
-         "team" : null
       },
       {
          "time" : "at 1 lap",
@@ -98,19 +92,16 @@
          "time" : "at 1 lap",
          "name" : "Sebastian Scherer",
          "place" : 14,
-         "team" : null
       },
       {
          "time" : "at 1 lap",
          "name" : "Dan Kyper",
          "place" : 15,
-         "team" : null
       },
       {
          "time" : "at 1 lap",
          "name" : "Chris Butor",
          "place" : 16,
-         "team" : null
       }
    ],
    "usac_permit" : "2015-617",

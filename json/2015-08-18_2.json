@@ -140,13 +140,13 @@
          "team_points" : 0
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 12,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "10",
+         "women_points" : 10,
          "team" : "Rare Diseases"
       },
       {
@@ -154,7 +154,6 @@
          "name" : "Ted McPherson",
          "place" : 13,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
@@ -178,17 +177,16 @@
          "name" : "Gary Rodesta",
          "place" : 16,
          "points" : 0,
-         "team" : "",
          "team_points" : 0
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "",
          "name" : "Melissa Hiller",
          "place" : 17,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "8",
+         "women_points" : 8,
          "team" : "QCW Breakaway Bikes"
       },
       {
@@ -200,13 +198,13 @@
          "team_points" : 0
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "",
          "name" : "Anna-Lena Kemper",
          "place" : 19,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "0",
+         "women_points" : 0,
          "team" : "Dynamic Physical Therapy"
       },
       {
@@ -226,23 +224,23 @@
          "team_points" : 0
       },
       {
-         "women_place" : "4",
+         "women_place" : 4,
          "time" : "",
          "name" : "Colleen Grygier",
          "place" : 22,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "5",
+         "women_points" : 5,
          "team" : "East End Cycling Club"
       },
       {
-         "women_place" : "5",
+         "women_place" : 5,
          "time" : "",
          "name" : "Heather Slater",
          "place" : 23,
          "points" : 0,
          "team_points" : 0,
-         "women_points" : "4",
+         "women_points" : 4,
          "team" : "East End Cycling Club"
       }
    ],

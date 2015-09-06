@@ -23,7 +23,6 @@
       {
          "mar_place" : "1",
          "name" : "Matt Taylor",
-         "team" : null,
          "mar_points" : "3"
       },
       {
@@ -56,7 +55,6 @@
          "name" : "Matt Taylor",
          "place" : 2,
          "points" : 8,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -88,7 +86,6 @@
          "name" : "JD Day",
          "place" : 6,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -104,7 +101,6 @@
          "name" : "Roy Leonard",
          "place" : 8,
          "points" : 1,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -120,7 +116,6 @@
          "name" : "Kurt Kearcher",
          "place" : 10,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -136,7 +131,6 @@
          "name" : "Walt Impellicceiri",
          "place" : 12,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -160,7 +154,6 @@
          "name" : "Matt Morehead",
          "place" : 15,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -168,7 +161,6 @@
          "name" : "Vince Pantloni",
          "place" : 16,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -184,7 +176,6 @@
          "name" : "Ben Shutte",
          "place" : 18,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       }
    ],

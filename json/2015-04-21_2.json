@@ -133,14 +133,14 @@
          "team" : "Dynamic Physical Therapy"
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "44:08",
          "name" : "Elise Rowe",
          "place" : 15,
          "team" : "LaPrima Espresso"
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "44:08",
          "name" : "Melissa Hiller",
          "place" : 16,
@@ -156,16 +156,14 @@
          "time" : "44:08",
          "name" : "Ed Grystar",
          "place" : 18,
-         "team" : null
       },
       {
          "time" : "44:08",
          "name" : "Greg Maier",
          "place" : 19,
-         "team" : null
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "44:08",
          "name" : "Shequaya Bailey",
          "place" : 20,

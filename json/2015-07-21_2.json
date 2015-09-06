@@ -156,7 +156,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "1",
+         "women_place" : 1,
          "time" : "52:00",
          "name" : "Megan Sybeldon",
          "place" : 15,
@@ -165,7 +165,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "2",
+         "women_place" : 2,
          "time" : "52:00",
          "name" : "Shequaya Bailey",
          "place" : 16,
@@ -190,7 +190,7 @@
          "team_points" : 0
       },
       {
-         "women_place" : "3",
+         "women_place" : 3,
          "time" : "52:00",
          "name" : "Melissa Hiller",
          "place" : 19,

@@ -80,7 +80,6 @@
          "name" : "Roy Leonard",
          "place" : 6,
          "points" : 3,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -88,7 +87,6 @@
          "name" : "Isaac Samay",
          "place" : 7,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -120,7 +118,6 @@
          "name" : "Walt Impellicceiri",
          "place" : 11,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
@@ -128,7 +125,6 @@
          "name" : "Vince Pantloni",
          "place" : 12,
          "points" : 0,
-         "team" : null,
          "team_points" : 0
       },
       {
