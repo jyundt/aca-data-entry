@@ -15,8 +15,7 @@
    "mar" : [
       {
          "mar_place" : "1",
-         "name" : "Steve Perezhula",
-         "mar_points" : "0"
+         "name" : "Steve Perezhula"
       },
       {
          "mar_place" : "2",
@@ -103,7 +102,6 @@
          "time" : "37:41",
          "name" : "Josh Friedman",
          "place" : 9,
-         "points" : 0,
          "team" : "Greenline Velo d/b/ Zipcar",
          "team_points" : 0
       },
@@ -111,7 +109,6 @@
          "time" : "37:41",
          "name" : "John Rowley",
          "place" : 10,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -119,7 +116,6 @@
          "time" : "37:41",
          "name" : "Jeff Koontz",
          "place" : 11,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -127,7 +123,6 @@
          "time" : "37:41",
          "name" : "Frankie Ross",
          "place" : 12,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -135,14 +130,12 @@
          "time" : "37:41",
          "name" : "Eric McBride",
          "place" : 13,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:41",
          "name" : "Craig Merritts",
          "place" : 14,
-         "points" : 0,
          "team" : "CAT Racing",
          "team_points" : 0
       },
@@ -150,7 +143,6 @@
          "time" : "37:41",
          "name" : "Matt Dolfi",
          "place" : 15,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -158,7 +150,6 @@
          "time" : "37:41",
          "name" : "Jason Mount",
          "place" : 16,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -166,7 +157,6 @@
          "time" : "37:41",
          "name" : "Paul Carlson",
          "place" : 17,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -174,7 +164,6 @@
          "time" : "37:41",
          "name" : "Dave Galati",
          "place" : 18,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -182,7 +171,6 @@
          "time" : "37:41",
          "name" : "Keith Hower",
          "place" : 19,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -190,14 +178,12 @@
          "time" : "37:41",
          "name" : "Mike Friedman",
          "place" : 20,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:41",
          "name" : "EJ Hubstenberger",
          "place" : 21,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -205,7 +191,6 @@
          "time" : "37:41",
          "name" : "Danny Wilson",
          "place" : 22,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -213,7 +198,6 @@
          "time" : "37:41",
          "name" : "Jared Babik",
          "place" : 23,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       }

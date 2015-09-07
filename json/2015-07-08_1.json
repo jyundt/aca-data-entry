@@ -37,8 +37,7 @@
       {
          "mar_place" : "2",
          "name" : "Eric Lundgren",
-         "team" : "JBV Coaching",
-         "mar_points" : "0"
+         "team" : "JBV Coaching"
       },
       {
          "mar_place" : "3",
@@ -63,7 +62,6 @@
          "time" : "55:52",
          "name" : "Eric Lundgren",
          "place" : 2,
-         "points" : 0,
          "team" : "JBV Coaching",
          "team_points" : 0
       },
@@ -119,7 +117,6 @@
          "time" : "55:52",
          "name" : "Shawn Geiger",
          "place" : 9,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -127,7 +124,6 @@
          "time" : "55:52",
          "name" : "Nathan Clair",
          "place" : 10,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -135,7 +131,6 @@
          "time" : "55:52",
          "name" : "Jeff Koontz",
          "place" : 11,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -143,7 +138,6 @@
          "time" : "55:52",
          "name" : "Jason Mount",
          "place" : 12,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -151,7 +145,6 @@
          "time" : "55:52",
          "name" : "Frankie Ross",
          "place" : 13,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -159,7 +152,6 @@
          "time" : "55:52",
          "name" : "Dave Galati",
          "place" : 14,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -167,7 +159,6 @@
          "time" : "55:52",
          "name" : "Brett Rothmeyer",
          "place" : 15,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -175,7 +166,6 @@
          "time" : "55:52",
          "name" : "Mike Janeiro",
          "place" : 16,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -183,7 +173,6 @@
          "time" : "55:52",
          "name" : "Ken Mowry",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -191,7 +180,6 @@
          "time" : "55:52",
          "name" : "Jake Lifson",
          "place" : 18,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -199,7 +187,6 @@
          "time" : "55:52",
          "name" : "Paul Carlson",
          "place" : 19,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -207,7 +194,6 @@
          "time" : "55:52",
          "name" : "Kyle Mihalik",
          "place" : 20,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -215,7 +201,6 @@
          "time" : "55:52",
          "name" : "John Cotter",
          "place" : 21,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       }

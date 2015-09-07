@@ -99,7 +99,6 @@
          "time" : "55:02",
          "name" : "Eric Lundgren",
          "place" : 8,
-         "points" : 0,
          "team" : "JBV Coaching",
          "team_points" : 0
       },
@@ -107,7 +106,6 @@
          "time" : "55:02",
          "name" : "Jacob Yundt",
          "place" : 9,
-         "points" : 0,
          "team" : "CAT Racing",
          "team_points" : 0
       },
@@ -115,7 +113,6 @@
          "time" : "55:02",
          "name" : "Ed Krall",
          "place" : 10,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -123,7 +120,6 @@
          "time" : "55:02",
          "name" : "Jeff Koontz",
          "place" : 11,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       }

@@ -119,7 +119,6 @@
          "time" : "",
          "name" : "Gunnar Shogren",
          "place" : 9,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -127,7 +126,6 @@
          "time" : "",
          "name" : "Chris Helbling",
          "place" : 10,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -135,7 +133,6 @@
          "time" : "",
          "name" : "Florian Lungu",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -144,8 +141,6 @@
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 12,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 10,
          "team" : "Rare Diseases"
       },
@@ -153,14 +148,12 @@
          "time" : "",
          "name" : "Ted McPherson",
          "place" : 13,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Skip Rogers",
          "place" : 14,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -168,7 +161,6 @@
          "time" : "",
          "name" : "Ken Mowry",
          "place" : 15,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -176,7 +168,6 @@
          "time" : "",
          "name" : "Gary Rodesta",
          "place" : 16,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -184,8 +175,6 @@
          "time" : "",
          "name" : "Melissa Hiller",
          "place" : 17,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 8,
          "team" : "QCW Breakaway Bikes"
       },
@@ -193,7 +182,6 @@
          "time" : "",
          "name" : "Eric Hodos",
          "place" : 18,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -202,16 +190,12 @@
          "time" : "",
          "name" : "Anna-Lena Kemper",
          "place" : 19,
-         "points" : 0,
-         "team_points" : 0,
-         "women_points" : 0,
          "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "Devon Corboy",
          "place" : 20,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -219,7 +203,6 @@
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 21,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -228,8 +211,6 @@
          "time" : "",
          "name" : "Colleen Grygier",
          "place" : 22,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 5,
          "team" : "East End Cycling Club"
       },
@@ -238,8 +219,6 @@
          "time" : "",
          "name" : "Heather Slater",
          "place" : 23,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 4,
          "team" : "East End Cycling Club"
       }

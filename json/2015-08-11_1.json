@@ -102,7 +102,6 @@
          "time" : "37:06",
          "name" : "Patrick Beukema",
          "place" : 7,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -110,7 +109,6 @@
          "time" : "37:06",
          "name" : "Andrew Reay",
          "place" : 8,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -118,14 +116,12 @@
          "time" : "37:06",
          "name" : "Dan Pellechio",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "Dennis Patton",
          "place" : 10,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -133,42 +129,36 @@
          "time" : "37:06",
          "name" : "Matt Guillon",
          "place" : 11,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "Rob Wierzbowski",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "Michael Sanders",
          "place" : 13,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "James Knox",
          "place" : 14,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "Matt Morehead",
          "place" : 15,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:06",
          "name" : "Hy Simhan",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       }

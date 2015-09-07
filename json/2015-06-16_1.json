@@ -45,13 +45,11 @@
       {
          "mar_place" : "2",
          "name" : "Caleb Wakely",
-         "team" : "Team Citius",
-         "mar_points" : "0"
+         "team" : "Team Citius"
       },
       {
          "mar_place" : "3",
-         "name" : "Isaac Samay",
-         "mar_points" : "0"
+         "name" : "Isaac Samay"
       }
    ],
    "date" : "2015-06-16",
@@ -92,14 +90,12 @@
          "time" : "",
          "name" : "Elis Robinson",
          "place" : 5,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Marcus McGuire",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -122,14 +118,12 @@
          "time" : "",
          "name" : "Walt Impellicceiri",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Teddy Denman-Brice",
          "place" : 10,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -137,7 +131,6 @@
          "time" : "",
          "name" : "Carl Hubel",
          "place" : 11,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -145,14 +138,12 @@
          "time" : "",
          "name" : "Rich Shutte",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Jon Shepard",
          "place" : 13,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -160,7 +151,6 @@
          "time" : "",
          "name" : "Caleb Wakely",
          "place" : 14,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -168,7 +158,6 @@
          "time" : "",
          "name" : "Hassan Baydoun",
          "place" : 15,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -176,7 +165,6 @@
          "time" : "",
          "name" : "Al Meder",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -184,7 +172,6 @@
          "time" : "",
          "name" : "George Pompura",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -192,7 +179,6 @@
          "time" : "",
          "name" : "Matt Morehead",
          "place" : 18,
-         "points" : 0,
          "team_points" : 0
       }
    ],

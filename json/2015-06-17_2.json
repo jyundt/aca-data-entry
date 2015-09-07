@@ -107,7 +107,6 @@
          "time" : "43:12",
          "name" : "Caleb Wakely",
          "place" : 9,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -115,7 +114,6 @@
          "time" : "43:12",
          "name" : "Chris Helbling",
          "place" : 10,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -123,7 +121,6 @@
          "time" : "43:12",
          "name" : "Patrick Beukema",
          "place" : 11,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -131,14 +128,12 @@
          "time" : "43:12",
          "name" : "Jason Chari",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "43:12",
          "name" : "Matt Dolfi",
          "place" : 13,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -146,7 +141,6 @@
          "time" : "43:12",
          "name" : "Adam Cohen",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -154,7 +148,6 @@
          "time" : "43:12",
          "name" : "Birk McGilvrey",
          "place" : 15,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -162,7 +155,6 @@
          "time" : "43:12",
          "name" : "John McLaughlin",
          "place" : 16,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       }

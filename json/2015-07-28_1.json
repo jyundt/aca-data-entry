@@ -59,8 +59,7 @@
       {
          "mar_place" : "3",
          "name" : "Josh Lewis",
-         "team" : "East End Cycling Club",
-         "mar_points" : "0"
+         "team" : "East End Cycling Club"
       }
    ],
    "date" : "2015-07-28",
@@ -71,7 +70,6 @@
          "time" : "36:43",
          "name" : "Josh Lewis",
          "place" : 1,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -95,7 +93,6 @@
          "time" : "36:43",
          "name" : "Andrew Reay",
          "place" : 4,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -103,7 +100,6 @@
          "time" : "36:43",
          "name" : "Jonathan Rafaeli",
          "place" : 5,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -132,21 +128,18 @@
          "time" : "36:43",
          "name" : "Matt Morehead",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Walt Impellicceiri",
          "place" : 10,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "36:43",
          "name" : "Russell Boyd",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -154,7 +147,6 @@
          "time" : "36:43",
          "name" : "Hy Simhan",
          "place" : 12,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -162,7 +154,6 @@
          "time" : "36:43",
          "name" : "Drew Smorul",
          "place" : 13,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -170,7 +161,6 @@
          "time" : "36:43",
          "name" : "Dave Roney",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -178,7 +168,6 @@
          "time" : "36:43",
          "name" : "Fred Gohh",
          "place" : 15,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       }

@@ -39,7 +39,6 @@
          "time" : "",
          "name" : "Jay Downs",
          "place" : 1,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -103,7 +102,6 @@
          "time" : "at 1 lap",
          "name" : "Frankie Ross",
          "place" : 9,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -119,7 +117,6 @@
          "time" : "at 1 lap",
          "name" : "Florian Lungu",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -127,7 +124,6 @@
          "time" : "at 1 lap",
          "name" : "Jack Neyer",
          "place" : 12,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -136,8 +132,6 @@
          "time" : "at 1 lap",
          "name" : "Rachel Weaver",
          "place" : 13,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 10,
          "team" : "NovaCare"
       },
@@ -146,8 +140,6 @@
          "time" : "at 1 lap",
          "name" : "Shequaya Bailey",
          "place" : 14,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 8,
          "team" : "Rare Diseases"
       },
@@ -155,7 +147,6 @@
          "time" : "at 1 lap",
          "name" : "Mark Bedel",
          "place" : 15,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -163,7 +154,6 @@
          "time" : "at 1 lap",
          "name" : "Ken Mowry",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -171,7 +161,6 @@
          "time" : "at 1 lap",
          "name" : "Jeff Paul",
          "place" : 17,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -179,7 +168,6 @@
          "time" : "at 1 lap",
          "name" : "Ted McPherson",
          "place" : 18,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -188,9 +176,7 @@
          "time" : "at 1 lap",
          "name" : "Anna-Lena Kemper",
          "place" : 19,
-         "points" : 0,
-         "team_points" : 0,
-         "women_points" : 0
+         "team_points" : 0
       }
    ],
    "usac_permit" : "2015-617",

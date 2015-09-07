@@ -123,7 +123,6 @@
          "time" : "",
          "name" : "Josh Friedman",
          "place" : 9,
-         "points" : 0,
          "team" : "Greenline Velo d/b/ Zipcar",
          "team_points" : 0
       },
@@ -131,7 +130,6 @@
          "time" : "",
          "name" : "Frankie Ross",
          "place" : 10,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -139,7 +137,6 @@
          "time" : "",
          "name" : "Mark Nicoll",
          "place" : 11,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -147,7 +144,6 @@
          "time" : "",
          "name" : "Jason Mount",
          "place" : 12,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -155,7 +151,6 @@
          "time" : "",
          "name" : "Jeff Koontz",
          "place" : 13,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -163,7 +158,6 @@
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 14,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -171,7 +165,6 @@
          "time" : "",
          "name" : "EJ Hubstenberger",
          "place" : 15,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -179,7 +172,6 @@
          "time" : "",
          "name" : "John Cotter",
          "place" : 16,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -187,7 +179,6 @@
          "time" : "",
          "name" : "Tom Senkevich",
          "place" : 17,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -195,7 +186,6 @@
          "time" : "",
          "name" : "Jacob Yundt",
          "place" : 18,
-         "points" : 0,
          "team" : "CAT Racing",
          "team_points" : 0
       }

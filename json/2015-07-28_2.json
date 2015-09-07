@@ -107,7 +107,6 @@
          "time" : "51:30",
          "name" : "Jeff Koontz",
          "place" : 9,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -115,7 +114,6 @@
          "time" : "51:30",
          "name" : "Mike Quigley",
          "place" : 10,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -123,7 +121,6 @@
          "time" : "51:30",
          "name" : "EJ Hubstenberger",
          "place" : 11,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -131,7 +128,6 @@
          "time" : "51:30",
          "name" : "Frankie Ross",
          "place" : 12,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -139,7 +135,6 @@
          "time" : "51:30",
          "name" : "Florian Lungu",
          "place" : 13,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -147,7 +142,6 @@
          "time" : "51:30",
          "name" : "Ken Mowry",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -155,7 +149,6 @@
          "time" : "51:30",
          "name" : "Jack Neyer",
          "place" : 15,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -163,7 +156,6 @@
          "time" : "51:30",
          "name" : "Jeff Paul",
          "place" : 16,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -171,7 +163,6 @@
          "time" : "51:30",
          "name" : "Ed Grystar",
          "place" : 17,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -179,15 +170,12 @@
          "time" : "51:30",
          "name" : "Sarah Kovak",
          "place" : 18,
-         "points" : 0,
-         "team_points" : 0,
-         "women_points" : 0
+         "team_points" : 0
       },
       {
          "time" : "51:30",
          "name" : "Devon Corboy",
          "place" : 19,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -196,8 +184,6 @@
          "time" : "51:30",
          "name" : "Melissa Hiller",
          "place" : 20,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 8,
          "team" : "QCW Breakaway Bikes"
       },
@@ -206,8 +192,6 @@
          "time" : "51:30",
          "name" : "Shequaya Bailey",
          "place" : 21,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 6,
          "team" : "Rare Diseases"
       },
@@ -216,9 +200,7 @@
          "time" : "51:30",
          "name" : "Elise Rowe",
          "place" : 22,
-         "points" : 0,
          "team" : "LaPrima Espresso",
-         "team_points" : 0,
          "women_points" : 5 
       }
    ],

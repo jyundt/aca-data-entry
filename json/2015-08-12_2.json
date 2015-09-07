@@ -95,7 +95,6 @@
          "time" : "43:22",
          "name" : "Chas McFarland",
          "place" : 7,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -111,21 +110,18 @@
          "time" : "43:22",
          "name" : "Ed Grystar",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Kathleen Wulfkuhle",
          "place" : 10,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "43:22",
          "name" : "Chris Yanakos",
          "place" : 11,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -133,7 +129,6 @@
          "time" : "43:22",
          "name" : "Austin Bradley",
          "place" : 12,
-         "points" : 0,
          "team" : "Pitt",
          "team_points" : 0
       },
@@ -141,7 +136,6 @@
          "time" : "43:22",
          "name" : "Jason Bair",
          "place" : 13,
-         "points" : 0,
          "team" : "Truefit Racing",
          "team_points" : 0
       },
@@ -149,7 +143,6 @@
          "time" : "43:22",
          "name" : "Al Meder",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -157,7 +150,6 @@
          "time" : "43:22",
          "name" : "Hassan Beydoun",
          "place" : 15,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -165,7 +157,6 @@
          "time" : "43:22",
          "name" : "Drew Smorul",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -173,7 +164,6 @@
          "time" : "43:22",
          "name" : "Adam Cohen",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -181,7 +171,6 @@
          "time" : "43:22",
          "name" : "Hy Simhan",
          "place" : 18,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -189,7 +178,6 @@
          "time" : "43:22",
          "name" : "Caleb Wakely",
          "place" : 19,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -197,7 +185,6 @@
          "time" : "43:22",
          "name" : "Elise Rowe",
          "place" : 20,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       }

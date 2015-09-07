@@ -99,7 +99,6 @@
          "time" : "36:51",
          "name" : "Brian Haltenback",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -113,21 +112,18 @@
          "time" : "36:51",
          "name" : "Jonathan Rafaeli",
          "place" : 8,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "36:51",
          "name" : "Rich Shutte",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "36:51",
          "name" : "Chris Butor",
          "place" : 10,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -135,14 +131,12 @@
          "time" : "36:51",
          "name" : "Marcus McGuire",
          "place" : 11,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "36:51",
          "name" : "Mark Runco",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -156,7 +150,6 @@
          "time" : "36:51",
          "name" : "Paul Carberry",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -164,7 +157,6 @@
          "time" : "36:51",
          "name" : "Hy Simhan",
          "place" : 15,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -172,7 +164,6 @@
          "time" : "36:51",
          "name" : "Dave Roney",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -180,7 +171,6 @@
          "time" : "36:51",
          "name" : "Adam Cohen",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -188,7 +178,6 @@
          "time" : "36:51",
          "name" : "Russell Boyd",
          "place" : 18,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -196,7 +185,6 @@
          "time" : "36:51",
          "name" : "Luke Gunnett",
          "place" : 19,
-         "points" : 0,
          "team_points" : 0
       }
    ],

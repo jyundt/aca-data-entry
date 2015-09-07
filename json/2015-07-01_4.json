@@ -10,8 +10,7 @@
       {
          "mar_place" : "1",
          "name" : "Frankie Ross",
-         "team" : "Sette Nove",
-         "mar_points" : "0"
+         "team" : "Sette Nove"
       }
    ],
    "date" : "2015-07-01",
@@ -22,7 +21,6 @@
          "time" : "20:49",
          "name" : "Mark Nicoll",
          "place" : 1,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -30,14 +28,12 @@
          "time" : "20:49",
          "name" : "Eric McBride",
          "place" : 2,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "20:49",
          "name" : "JR Petsko",
          "place" : 3,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 6
       },
@@ -45,7 +41,6 @@
          "time" : "20:49",
          "name" : "Jim Doan",
          "place" : 4,
-         "points" : 0,
          "team" : "Bents Cycling",
          "team_points" : 0
       },
@@ -53,7 +48,6 @@
          "time" : "20:49",
          "name" : "Jason Zimmerman",
          "place" : 5,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -61,7 +55,6 @@
          "time" : "20:49",
          "name" : "Frankie Ross",
          "place" : 6,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -69,7 +62,6 @@
          "time" : "20:49",
          "name" : "Chris Helbling",
          "place" : 7,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -85,7 +77,6 @@
          "time" : "20:49",
          "name" : "Devon Corboy",
          "place" : 9,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -93,7 +84,6 @@
          "time" : "20:49",
          "name" : "Eric Hodos",
          "place" : 10,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -101,7 +91,6 @@
          "time" : "20:49",
          "name" : "Ken Mowry",
          "place" : 11,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -109,7 +98,6 @@
          "time" : "20:49",
          "name" : "Bill Ehler",
          "place" : 12,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -117,7 +105,6 @@
          "time" : "20:49",
          "name" : "Jeff Gernert",
          "place" : 13,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -125,7 +112,6 @@
          "time" : "20:49",
          "name" : "Shequaya Bailey",
          "place" : 14,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -133,7 +119,6 @@
          "time" : "20:49",
          "name" : "Elise Rowe",
          "place" : 15,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -141,7 +126,6 @@
          "time" : "20:49",
          "name" : "Erin Yanacek",
          "place" : 16,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -149,7 +133,6 @@
          "time" : "20:49",
          "name" : "Greg Ellis",
          "place" : 17,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -157,7 +140,6 @@
          "time" : "20:49",
          "name" : "Bryan Routledge",
          "place" : 18,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       }

@@ -107,7 +107,6 @@
          "time" : "52:35",
          "name" : "Tim Daigle",
          "place" : 9,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -115,7 +114,6 @@
          "time" : "52:35",
          "name" : "Jason Hochreiter",
          "place" : 10,
-         "points" : 0,
          "team" : "Truefit Racing",
          "team_points" : 0
       },
@@ -123,7 +121,6 @@
          "time" : "52:35",
          "name" : "Rick Holzworth",
          "place" : 11,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -131,7 +128,6 @@
          "time" : "52:35",
          "name" : "Jon Williams",
          "place" : 12,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -139,7 +135,6 @@
          "time" : "52:35",
          "name" : "Don Splitstone",
          "place" : 13,
-         "points" : 0,
          "team" : "Truefit Racing",
          "team_points" : 0
       },
@@ -147,7 +142,6 @@
          "time" : "52:35",
          "name" : "Birk McGilvrey",
          "place" : 14,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -155,7 +149,6 @@
          "time" : "52:35",
          "name" : "Gonzolo Escobar",
          "place" : 15,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -163,7 +156,6 @@
          "time" : "52:35",
          "name" : "Xavier Szigethy",
          "place" : 16,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       }

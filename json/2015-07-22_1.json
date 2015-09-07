@@ -123,7 +123,6 @@
          "time" : "1:02:07",
          "name" : "Jake Lifson",
          "place" : 9,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -131,7 +130,6 @@
          "time" : "1:02:07",
          "name" : "Mark Nicoll",
          "place" : 10,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -139,7 +137,6 @@
          "time" : "1:02:07",
          "name" : "John Cotter",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -147,7 +144,6 @@
          "time" : "1:02:07",
          "name" : "Frankie Ross",
          "place" : 12,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -155,7 +151,6 @@
          "time" : "1:02:07",
          "name" : "Steve Kurpiewski",
          "place" : 13,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -163,7 +158,6 @@
          "time" : "1:02:07",
          "name" : "Dave Galati",
          "place" : 14,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -171,7 +165,6 @@
          "time" : "1:02:07",
          "name" : "Don Splitstone",
          "place" : 15,
-         "points" : 0,
          "team" : "Truefit Racing",
          "team_points" : 0
       },
@@ -179,7 +172,6 @@
          "time" : "1:02:07",
          "name" : "Jacob Yundt",
          "place" : 16,
-         "points" : 0,
          "team" : "CAT Racing",
          "team_points" : 0
       },
@@ -187,7 +179,6 @@
          "time" : "1:02:07",
          "name" : "Eric Lundgren",
          "place" : 17,
-         "points" : 0,
          "team" : "JBV Coaching",
          "team_points" : 0
       },
@@ -195,7 +186,6 @@
          "time" : "1:02:07",
          "name" : "Paul Carlson",
          "place" : 18,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -203,7 +193,6 @@
          "time" : "1:02:07",
          "name" : "Brett Rothmeyer",
          "place" : 19,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -211,7 +200,6 @@
          "time" : "1:02:07",
          "name" : "Mike Mihalik",
          "place" : 20,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -219,7 +207,6 @@
          "time" : "1:02:07",
          "name" : "Chris Helbling",
          "place" : 21,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -227,7 +214,6 @@
          "time" : "1:02:07",
          "name" : "Ed Krall",
          "place" : 22,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       }

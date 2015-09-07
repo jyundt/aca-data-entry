@@ -85,7 +85,6 @@
          "time" : "37:02",
          "name" : "JD Day",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -107,7 +106,6 @@
          "time" : "37:02",
          "name" : "Jon Shepard",
          "place" : 9,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -115,14 +113,12 @@
          "time" : "37:02",
          "name" : "Kurt Kearcher",
          "place" : 10,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:02",
          "name" : "Hy Simhan",
          "place" : 11,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -130,14 +126,12 @@
          "time" : "37:02",
          "name" : "Walt Impellicceiri",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:02",
          "name" : "Chris Butor",
          "place" : 13,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -145,7 +139,6 @@
          "time" : "37:02",
          "name" : "Carl Hubel",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -153,21 +146,18 @@
          "time" : "37:02",
          "name" : "Matt Morehead",
          "place" : 15,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:02",
          "name" : "Vince Pantloni",
          "place" : 16,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "37:02",
          "name" : "Drew Smorul",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -175,7 +165,6 @@
          "time" : "37:02",
          "name" : "Ben Shutte",
          "place" : 18,
-         "points" : 0,
          "team_points" : 0
       }
    ],

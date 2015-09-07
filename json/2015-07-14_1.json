@@ -82,7 +82,6 @@
          "time" : "36:36",
          "name" : "Dan Pellechio",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -103,7 +102,6 @@
          "time" : "36:36",
          "name" : "Carl Hubel",
          "place" : 9,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },

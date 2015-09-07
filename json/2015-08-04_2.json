@@ -115,7 +115,6 @@
          "time" : "52:23",
          "name" : "Paul Carlson",
          "place" : 9,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -124,8 +123,6 @@
          "time" : "52:23",
          "name" : "Shequaya Bailey",
          "place" : 10,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 10,
          "team" : "Rare Diseases"
       },
@@ -133,7 +130,6 @@
          "time" : "at 1 lap",
          "name" : "Gunnar Shogren",
          "place" : 11,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -141,7 +137,6 @@
          "time" : "at 1 lap",
          "name" : "EJ Hubstenberger",
          "place" : 12,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -149,7 +144,6 @@
          "time" : "at 1 lap",
          "name" : "Carl Lovejoy",
          "place" : 13,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -157,7 +151,6 @@
          "time" : "at 1 lap",
          "name" : "Devon Corboy",
          "place" : 14,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -166,8 +159,6 @@
          "time" : "at 1 lap",
          "name" : "Stephanie Swan",
          "place" : 15,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 8,
          "team" : "Rare Diseases"
       },
@@ -175,7 +166,6 @@
          "time" : "at 1 lap",
          "name" : "Jon Williams",
          "place" : 16,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -183,7 +173,6 @@
          "time" : "at 1 lap",
          "name" : "Ken Mowry",
          "place" : 17,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -191,7 +180,6 @@
          "time" : "at 1 lap",
          "name" : "Bill Ehler",
          "place" : 18,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -200,8 +188,6 @@
          "time" : "at 1 lap",
          "name" : "Melissa Hiller",
          "place" : 19,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 6,
          "team" : "QCW Breakaway Bikes"
       },
@@ -210,8 +196,6 @@
          "time" : "at 1 lap",
          "name" : "Colleen Grygier",
          "place" : 20,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 5,
          "team" : "East End Cycling Club"
       },
@@ -220,8 +204,6 @@
          "time" : "at 1 lap",
          "name" : "Elise Rowe",
          "place" : 21,
-         "points" : 0,
-         "team_points" : 0,
          "women_points" : 4,
          "team" : "LaPrima Espresso"
       }

@@ -24,8 +24,7 @@
       },
       {
          "mar_place" : "2",
-         "name" : "Isaac Samay",
-         "mar_points" : "0"
+         "name" : "Isaac Samay"
       },
       {
          "mar_place" : "3",
@@ -57,7 +56,6 @@
          "time" : "39:46",
          "name" : "Isaac Samay",
          "place" : 3,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -80,7 +78,6 @@
          "time" : "39:46",
          "name" : "Dan Pellechio",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
@@ -103,7 +100,6 @@
          "time" : "39:46",
          "name" : "Eric Burnett",
          "place" : 9,
-         "points" : 0,
          "team" : "VOLT Multisport",
          "team_points" : 0
       },
@@ -111,28 +107,24 @@
          "time" : "39:46",
          "name" : "Matt Morehead",
          "place" : 10,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "39:46",
          "name" : "Ed Leonard",
          "place" : 11,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "39:46",
          "name" : "James Knox",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "39:46",
          "name" : "Chris Butor",
          "place" : 13,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -140,7 +132,6 @@
          "time" : "39:46",
          "name" : "Paul Carberry",
          "place" : 14,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -148,7 +139,6 @@
          "time" : "39:46",
          "name" : "Dennis Patton",
          "place" : 15,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -156,7 +146,6 @@
          "time" : "39:46",
          "name" : "Walt Impellicceiri",
          "place" : 16,
-         "points" : 0,
          "team_points" : 0
       }
    ],

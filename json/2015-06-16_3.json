@@ -27,7 +27,6 @@
          "time" : "",
          "name" : "Stephanie Swan",
          "place" : 1,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -35,7 +34,6 @@
          "time" : "",
          "name" : "Rachel Weaver",
          "place" : 2,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -43,7 +41,6 @@
          "time" : "",
          "name" : "Stephanie Lamb",
          "place" : 3,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -51,7 +48,6 @@
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 4,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -59,7 +55,6 @@
          "time" : "",
          "name" : "Megan Sybeldon",
          "place" : 5,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -67,14 +62,12 @@
          "time" : "",
          "name" : "Danielle Millet",
          "place" : 6,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Elise Rowe",
          "place" : 7,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -82,14 +75,12 @@
          "time" : "",
          "name" : "Nina Assimakopoules",
          "place" : 8,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Heather Slater",
          "place" : 9,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -97,14 +88,12 @@
          "time" : "",
          "name" : "Jasmine Kemble",
          "place" : 10,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "",
          "name" : "Stacie Truszkowski",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       }

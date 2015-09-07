@@ -111,7 +111,6 @@
          "time" : "52:00",
          "name" : "Mark Nicoll",
          "place" : 9,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -119,7 +118,6 @@
          "time" : "52:00",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -127,7 +125,6 @@
          "time" : "52:00",
          "name" : "Skip Rogers",
          "place" : 11,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -135,7 +132,6 @@
          "time" : "52:00",
          "name" : "Jon Williams",
          "place" : 12,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -143,7 +139,6 @@
          "time" : "52:00",
          "name" : "Devon Corboy",
          "place" : 13,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -151,7 +146,6 @@
          "time" : "52:00",
          "name" : "Frankie Ross",
          "place" : 14,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       },
@@ -160,7 +154,6 @@
          "time" : "52:00",
          "name" : "Megan Sybeldon",
          "place" : 15,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -169,7 +162,6 @@
          "time" : "52:00",
          "name" : "Shequaya Bailey",
          "place" : 16,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -177,7 +169,6 @@
          "time" : "52:00",
          "name" : "Maarten deBoer",
          "place" : 17,
-         "points" : 0,
          "team" : "Team Citius",
          "team_points" : 0
       },
@@ -185,7 +176,6 @@
          "time" : "52:00",
          "name" : "Florian Lungu",
          "place" : 18,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -194,7 +184,6 @@
          "time" : "52:00",
          "name" : "Melissa Hiller",
          "place" : 19,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -202,7 +191,6 @@
          "time" : "52:00",
          "name" : "Jeff Paul",
          "place" : 20,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       },
@@ -210,7 +198,6 @@
          "time" : "52:00",
          "name" : "Mike Quigley",
          "place" : 21,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       }

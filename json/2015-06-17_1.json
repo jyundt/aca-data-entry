@@ -103,7 +103,6 @@
          "time" : "52:58",
          "name" : "Mike Mihalik",
          "place" : 9,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -111,7 +110,6 @@
          "time" : "52:58",
          "name" : "Jacob Yundt",
          "place" : 10,
-         "points" : 0,
          "team" : "CAT Racing",
          "team_points" : 0
       },
@@ -119,7 +117,6 @@
          "time" : "52:58",
          "name" : "Shawn Litster",
          "place" : 11,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -127,7 +124,6 @@
          "time" : "52:58",
          "name" : "John Rowley",
          "place" : 12,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       }

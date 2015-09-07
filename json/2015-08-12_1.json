@@ -123,7 +123,6 @@
          "time" : "at 1 lap",
          "name" : "Dan Greene",
          "place" : 9,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -139,7 +138,6 @@
          "time" : "at 1 lap",
          "name" : "Jay Downs",
          "place" : 11,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -147,7 +145,6 @@
          "time" : "at 1 lap",
          "name" : "Jake Lifson",
          "place" : 12,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -155,7 +152,6 @@
          "time" : "at 1 lap",
          "name" : "Steve Cummings",
          "place" : 13,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -163,7 +159,6 @@
          "time" : "at 1 lap",
          "name" : "Jason Mount",
          "place" : 14,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -171,7 +166,6 @@
          "time" : "at 1 lap",
          "name" : "Jeff Koontz",
          "place" : 15,
-         "points" : 0,
          "team" : "UPMC Cycling Performance",
          "team_points" : 0
       },
@@ -179,7 +173,6 @@
          "time" : "at 1 lap",
          "name" : "Mike Janeiro",
          "place" : 16,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -187,7 +180,6 @@
          "time" : "at 1 lap",
          "name" : "Keith Hower",
          "place" : 17,
-         "points" : 0,
          "team" : "Freddie Fu Cycling",
          "team_points" : 0
       },
@@ -195,7 +187,6 @@
          "time" : "at 1 lap",
          "name" : "Mark Nicoll",
          "place" : 18,
-         "points" : 0,
          "team" : "GPOA",
          "team_points" : 0
       },
@@ -203,7 +194,6 @@
          "time" : "at 1 lap",
          "name" : "Bryan Routledge",
          "place" : 19,
-         "points" : 0,
          "team" : "Sette Nove",
          "team_points" : 0
       }

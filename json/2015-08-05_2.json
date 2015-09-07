@@ -115,14 +115,12 @@
          "time" : "47:02",
          "name" : "Todd Schoeni",
          "place" : 9,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "47:02",
          "name" : "Chris Yanakos",
          "place" : 10,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -130,7 +128,6 @@
          "time" : "47:02",
          "name" : "Birk McGilvrey",
          "place" : 11,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -138,14 +135,12 @@
          "time" : "47:02",
          "name" : "Ed Grystar",
          "place" : 12,
-         "points" : 0,
          "team_points" : 0
       },
       {
          "time" : "47:02",
          "name" : "Adam Cohen",
          "place" : 13,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -153,7 +148,6 @@
          "time" : "47:02",
          "name" : "Dan Rabe",
          "place" : 14,
-         "points" : 0,
          "team" : "Truefit Racing",
          "team_points" : 0
       },
@@ -161,7 +155,6 @@
          "time" : "47:02",
          "name" : "Austin Bradley",
          "place" : 15,
-         "points" : 0,
          "team" : "Pitt",
          "team_points" : 0
       },
@@ -169,7 +162,6 @@
          "time" : "47:02",
          "name" : "Hassan Beydoun",
          "place" : 16,
-         "points" : 0,
          "team" : "East End Cycling Club",
          "team_points" : 0
       },
@@ -177,7 +169,6 @@
          "time" : "47:02",
          "name" : "John McLaughlin",
          "place" : 17,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -185,7 +176,6 @@
          "time" : "47:02",
          "name" : "Elise Rowe",
          "place" : 18,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       },
@@ -193,7 +183,6 @@
          "time" : "47:02",
          "name" : "Russell Boyd",
          "place" : 19,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -201,7 +190,6 @@
          "time" : "47:02",
          "name" : "Caleb Smith",
          "place" : 20,
-         "points" : 0,
          "team" : "LaPrima Espresso",
          "team_points" : 0
       }

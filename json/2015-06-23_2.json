@@ -103,7 +103,6 @@
          "time" : "58:52",
          "name" : "Paul Carlson",
          "place" : 9,
-         "points" : 0,
          "team" : "Top Gear Racing",
          "team_points" : 0
       },
@@ -111,7 +110,6 @@
          "time" : "58:52",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "points" : 0,
          "team" : "Dynamic Physical Therapy",
          "team_points" : 0
       },
@@ -119,7 +117,6 @@
          "time" : "58:52",
          "name" : "Jay Downs",
          "place" : 11,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -127,7 +124,6 @@
          "time" : "58:52",
          "name" : "Rachel Weaver",
          "place" : 12,
-         "points" : 0,
          "team" : "NovaCare",
          "team_points" : 0
       },
@@ -135,7 +131,6 @@
          "time" : "58:52",
          "name" : "Melissa Hiller",
          "place" : 13,
-         "points" : 0,
          "team" : "QCW Breakaway Bikes",
          "team_points" : 0
       },
@@ -143,7 +138,6 @@
          "time" : "58:52",
          "name" : "Shequaya Bailey",
          "place" : 14,
-         "points" : 0,
          "team" : "Rare Diseases",
          "team_points" : 0
       }
