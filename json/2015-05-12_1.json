@@ -8,7 +8,7 @@
    "mar" : [
       {
          "mar_place" : "1",
-         "name" : "Matt Taylor",
+         "name" : "Matt Taylor"
       }
    ],
    "date" : "2015-05-12",
@@ -18,7 +18,7 @@
       {
          "time" : "",
          "name" : "Matt Brady",
-         "place" : 1,
+         "place" : 1
       },
       {
          "time" : "",
@@ -35,7 +35,7 @@
       {
          "time" : "",
          "name" : "Sam Carroll",
-         "place" : 4,
+         "place" : 4
       },
       {
          "time" : "",
@@ -46,7 +46,7 @@
       {
          "time" : "",
          "name" : "Matt Taylor",
-         "place" : 6,
+         "place" : 6
       },
       {
          "time" : "",
@@ -57,7 +57,7 @@
       {
          "time" : "",
          "name" : "Dale Black",
-         "place" : 8,
+         "place" : 8
       },
       {
          "time" : "",
@@ -74,7 +74,7 @@
       {
          "time" : "at 1 lap",
          "name" : "JD Day",
-         "place" : 11,
+         "place" : 11
       },
       {
          "time" : "at 1 lap",
@@ -91,17 +91,17 @@
       {
          "time" : "at 1 lap",
          "name" : "Sebastian Scherer",
-         "place" : 14,
+         "place" : 14
       },
       {
          "time" : "at 1 lap",
          "name" : "Dan Kyper",
-         "place" : 15,
+         "place" : 15
       },
       {
          "time" : "at 1 lap",
          "name" : "Chris Butor",
-         "place" : 16,
+         "place" : 16
       }
    ],
    "usac_permit" : "2015-617",

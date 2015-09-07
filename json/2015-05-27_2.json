@@ -62,12 +62,12 @@
       {
          "time" : "48:12",
          "name" : "Jordan Snyder",
-         "place" : 5,
+         "place" : 5
       },
       {
          "time" : "48:12",
          "name" : "Matt Williams",
-         "place" : 6,
+         "place" : 6
       },
       {
          "time" : "48:12",
@@ -132,7 +132,7 @@
       {
          "time" : "48:12",
          "name" : "Mike Coumos",
-         "place" : 17,
+         "place" : 17
       },
       {
          "time" : "48:12",
@@ -149,7 +149,7 @@
       {
          "time" : "48:12",
          "name" : "Matt Taylor",
-         "place" : 20,
+         "place" : 20
       }
    ],
    "usac_permit" : "2015-618",
