@@ -25,12 +25,12 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Caleb Smith",
          "team" : "LaPrima Espresso"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Matt Smith"
       }
    ],

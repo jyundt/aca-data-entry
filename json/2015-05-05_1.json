@@ -123,7 +123,7 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Hassan Baydoun",
          "team" : "East End Cycling Club"
       }

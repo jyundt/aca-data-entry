@@ -17,17 +17,17 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Josh Friedman",
          "team" : "Greenline Velo d/b/ Zipcar"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Jacob Yundt",
          "team" : "CAT Racing"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Mike Appel",
          "team" : "CAT Racing"
       }

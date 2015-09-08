@@ -17,17 +17,17 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Caleb Smith",
          "team" : "LaPrima Espresso"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Willem deBoer",
          "team" : "UPMC Cycling Performance"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Tom Senkevich",
          "team" : "UPMC Cycling Performance"
       }

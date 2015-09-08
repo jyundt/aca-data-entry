@@ -13,17 +13,17 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Frankie Ross",
          "team" : "Sette Nove"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Jim Mock",
          "team" : "Dynamic Physical Therapy"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Chris Helbling",
          "team" : "East End Cycling Club"
       }

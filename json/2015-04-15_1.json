@@ -17,7 +17,7 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Josh Friedman",
          "team" : "Greenline Velo d/b/ Zipcar"
       }

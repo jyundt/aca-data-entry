@@ -21,17 +21,17 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Jeff Griffin",
          "team" : "QCW Breakaway Bikes"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Chris Helbling",
          "team" : "East End Cycling Club"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Frankie Ross",
          "team" : "Sette Nove"
       }

@@ -25,22 +25,22 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Rick Holzworth",
          "team" : "LaPrima Espresso",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Caleb Smith",
          "team" : "LaPrima Espresso",
-         "mar_points" : "2"
+         "mar_points" : 2
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Hasan Baydoun",
          "team" : "East End Cycling Club",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-07-08",

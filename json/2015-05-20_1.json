@@ -13,12 +13,12 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "John Heffner",
          "team" : "CAT Racing"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Shawn Litster",
          "team" : "NovaCare"
       }

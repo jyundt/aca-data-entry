@@ -45,19 +45,19 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Drew Smorul",
          "team" : "East End Cycling Club",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Russell Boyd",
          "team" : "NovaCare",
-         "mar_points" : "2"
+         "mar_points" : 2
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Josh Lewis",
          "team" : "East End Cycling Club"
       }

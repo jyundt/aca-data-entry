@@ -25,7 +25,7 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Mike Janeiro",
          "team" : "LaPrima Espresso"
       }

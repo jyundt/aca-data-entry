@@ -25,22 +25,22 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Frankie Ross",
          "team" : "Sette Nove",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Paul Carlson",
          "team" : "Top Gear Racing",
-         "mar_points" : "2"
+         "mar_points" : 2
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Gunnar Shogren",
          "team" : "Dynamic Physical Therapy",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-08-11",

@@ -41,21 +41,21 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Jacob Yundt",
          "team" : "CAT Racing",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Andy Seitz",
          "team" : "Kelly Benefit Strategies Elite"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Josh Friedman",
          "team" : "Greenline Velo d/b/ Zipcar",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-08-19",

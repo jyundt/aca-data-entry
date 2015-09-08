@@ -41,21 +41,21 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Matt Guillon",
          "team" : "East End Cycling Club",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Josh Lewis",
          "team" : "East End Cycling Club"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Dave Roney",
          "team" : "East End Cycling Club",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-08-25",

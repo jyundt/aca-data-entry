@@ -7,17 +7,17 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Frankie Ross",
          "team" : "Sette Nove"
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Jeff Griffin",
          "team" : "QCW Breakaway Bikes"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Eric Hodos",
          "team" : "UPMC Cycling Performance"
       }

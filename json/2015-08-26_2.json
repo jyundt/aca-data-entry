@@ -29,21 +29,21 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Birk McGilvrey",
          "team" : "LaPrima Espresso",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Chris Helbling",
          "team" : "East End Cycling Club"
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Tom Borner",
          "team" : "Truefit Racing",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-08-26",

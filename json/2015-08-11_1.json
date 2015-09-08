@@ -29,22 +29,22 @@
    "location" : "Bud Harris Bike Park",
    "mar" : [
       {
-         "mar_place" : "1",
+         "mar_place" : 1,
          "name" : "Jon Shepard",
          "team" : "East End Cycling Club",
-         "mar_points" : "3"
+         "mar_points" : 3
       },
       {
-         "mar_place" : "2",
+         "mar_place" : 2,
          "name" : "Matt Guillon",
          "team" : "East End Cycling Club",
-         "mar_points" : "2"
+         "mar_points" : 2
       },
       {
-         "mar_place" : "3",
+         "mar_place" : 3,
          "name" : "Patrick Beukema",
          "team" : "East End Cycling Club",
-         "mar_points" : "1"
+         "mar_points" : 1
       }
    ],
    "date" : "2015-08-11",
