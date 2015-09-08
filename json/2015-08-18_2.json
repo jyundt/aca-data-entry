@@ -119,22 +119,19 @@
          "time" : "",
          "name" : "Gunnar Shogren",
          "place" : 9,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "Chris Helbling",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Florian Lungu",
          "place" : 11,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "women_place" : 1,
@@ -147,28 +144,24 @@
       {
          "time" : "",
          "name" : "Ted McPherson",
-         "place" : 13,
-         "team_points" : 0
+         "place" : 13
       },
       {
          "time" : "",
          "name" : "Skip Rogers",
          "place" : 14,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "",
          "name" : "Ken Mowry",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Gary Rodesta",
-         "place" : 16,
-         "team_points" : 0
+         "place" : 16
       },
       {
          "women_place" : 2,
@@ -182,8 +175,7 @@
          "time" : "",
          "name" : "Eric Hodos",
          "place" : 18,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "women_place" : 3,
@@ -196,15 +188,13 @@
          "time" : "",
          "name" : "Devon Corboy",
          "place" : 20,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 21,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "women_place" : 4,

@@ -116,80 +116,69 @@
          "time" : "48:47",
          "name" : "EJ Hubstenberger",
          "place" : 9,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "48:47",
          "name" : "Bill Ehler",
          "place" : 10,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "48:47",
          "name" : "Devon Corboy",
          "place" : 11,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 2,
          "time" : "48:47",
          "name" : "Stephanie Swan",
          "place" : 12,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "48:47",
          "name" : "Paul Carlson",
          "place" : 13,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "women_place" : 3,
          "time" : "48:47",
          "name" : "Melissa Hiller",
          "place" : 14,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "48:47",
          "name" : "Ted McPherson",
          "place" : 15,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "48:47",
          "name" : "Ken Mowry",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "48:47",
          "name" : "Mark Bedel",
          "place" : 17,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "48:47",
          "name" : "Jeff Paul",
          "place" : 18,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "48:47",
          "name" : "Chris Helbling",
          "place" : 19,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-617",

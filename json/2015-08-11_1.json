@@ -87,8 +87,7 @@
          "time" : "37:06",
          "name" : "Rich Shutte",
          "place" : 5,
-         "points" : 4,
-         "team_points" : 0
+         "points" : 4
       },
       {
          "time" : "37:06",
@@ -102,65 +101,55 @@
          "time" : "37:06",
          "name" : "Patrick Beukema",
          "place" : 7,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:06",
          "name" : "Andrew Reay",
          "place" : 8,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "37:06",
          "name" : "Dan Pellechio",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "37:06",
          "name" : "Dennis Patton",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:06",
          "name" : "Matt Guillon",
-         "place" : 11,
-         "team_points" : 0
+         "place" : 11
       },
       {
          "time" : "37:06",
          "name" : "Rob Wierzbowski",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "37:06",
          "name" : "Michael Sanders",
-         "place" : 13,
-         "team_points" : 0
+         "place" : 13
       },
       {
          "time" : "37:06",
          "name" : "James Knox",
-         "place" : 14,
-         "team_points" : 0
+         "place" : 14
       },
       {
          "time" : "37:06",
          "name" : "Matt Morehead",
-         "place" : 15,
-         "team_points" : 0
+         "place" : 15
       },
       {
          "time" : "37:06",
          "name" : "Hy Simhan",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-617",

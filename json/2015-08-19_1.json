@@ -74,8 +74,7 @@
          "time" : "46:40",
          "name" : "Andy Seitz",
          "place" : "2",
-         "team" : "Kelly Benefit Strategies Elite",
-         "team_points" : 0
+         "team" : "Kelly Benefit Strategies Elite"
       },
       {
          "time" : "46:40",
@@ -129,50 +128,43 @@
          "time" : "46:40",
          "name" : "Jeff Koontz",
          "place" : "9",
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "46:40",
          "name" : "Jordan Villella",
          "place" : "10",
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "46:40",
          "name" : "Josh Friedman",
          "place" : "11",
-         "team" : "Greenline Velo d/b/ Zipcar",
-         "team_points" : 0
+         "team" : "Greenline Velo d/b/ Zipcar"
       },
       {
          "time" : "46:40",
          "name" : "Dave Galati",
          "place" : "12",
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "46:40",
          "name" : "Frankie Ross",
          "place" : "13",
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "46:40",
          "name" : "Steve Kurpiewski",
          "place" : "14",
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "46:40",
          "name" : "Jake Lifson",
          "place" : "15",
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       }
    ],
    "usac_permit" : "2015-618",

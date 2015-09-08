@@ -78,8 +78,7 @@
          "time" : "40:56",
          "name" : "Chris Helbling",
          "place" : 4,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:56",
@@ -117,58 +116,50 @@
          "time" : "40:56",
          "name" : "Caleb Smith",
          "place" : 9,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "40:56",
          "name" : "Hassan Beydoun",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:56",
          "name" : "Nathan Clair",
          "place" : 11,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "40:56",
          "name" : "Birk McGilvrey",
          "place" : 12,
          "points" : 1,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "40:56",
          "name" : "Chris Yanakos",
          "place" : 13,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "40:56",
          "name" : "Jason Bair",
          "place" : 14,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "40:56",
          "name" : "Maarten deBoer",
          "place" : 15,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "40:56",
          "name" : "Elise Rowe",
          "place" : 16,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       }
    ],
    "usac_permit" : "2015-618",

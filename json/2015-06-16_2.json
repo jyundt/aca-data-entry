@@ -103,69 +103,59 @@
          "time" : "58:92",
          "name" : "Stephanie Lamb",
          "place" : 8,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "58:92",
          "name" : "Florian Lungu",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "58:92",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "58:92",
          "name" : "Bill Ehler",
          "place" : 11,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "58:92",
          "name" : "Jon Williams",
          "place" : 12,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "58:92",
          "name" : "Carl Lovejoy",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "at 1 lap",
          "name" : "Ed Grystar",
-         "place" : 14,
-         "team_points" : 0
+         "place" : 14
       },
       {
          "time" : "at 1 lap",
          "name" : "Brett Stana",
          "place" : 15,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "at 1 lap",
          "name" : "Fred Gohh",
          "place" : 16,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "at 1 lap",
          "name" : "Don Dockerson",
-         "place" : 17,
-         "team_points" : 0
+         "place" : 17
       }
    ],
    "usac_permit" : "2015-617",

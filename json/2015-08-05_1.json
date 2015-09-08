@@ -115,43 +115,37 @@
          "time" : "49:53",
          "name" : "Jay Downs",
          "place" : 9,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "49:53",
          "name" : "Mark Nicoll",
          "place" : 10,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "49:53",
          "name" : "Keith Hower",
          "place" : 11,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "49:53",
          "name" : "Dave Galati",
          "place" : 12,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "49:53",
          "name" : "Danny Wilson",
          "place" : 13,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "49:53",
          "name" : "Mike Janeiro",
          "place" : 14,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       }
    ],
    "usac_permit" : "2015-618",

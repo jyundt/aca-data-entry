@@ -54,8 +54,7 @@
          "time" : "37:02",
          "name" : "Matt Taylor",
          "place" : 2,
-         "points" : 8,
-         "team_points" : 0
+         "points" : 8
       },
       {
          "time" : "37:02",
@@ -84,88 +83,75 @@
       {
          "time" : "37:02",
          "name" : "JD Day",
-         "place" : 6,
-         "team_points" : 0
+         "place" : 6
       },
       {
          "time" : "37:02",
          "name" : "Drew Dorko",
          "place" : 7,
          "points" : 2,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:02",
          "name" : "Roy Leonard",
          "place" : 8,
-         "points" : 1,
-         "team_points" : 0
+         "points" : 1
       },
       {
          "time" : "37:02",
          "name" : "Jon Shepard",
          "place" : 9,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:02",
          "name" : "Kurt Kearcher",
-         "place" : 10,
-         "team_points" : 0
+         "place" : 10
       },
       {
          "time" : "37:02",
          "name" : "Hy Simhan",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:02",
          "name" : "Walt Impellicceiri",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "37:02",
          "name" : "Chris Butor",
          "place" : 13,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "37:02",
          "name" : "Carl Hubel",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:02",
          "name" : "Matt Morehead",
-         "place" : 15,
-         "team_points" : 0
+         "place" : 15
       },
       {
          "time" : "37:02",
          "name" : "Vince Pantloni",
-         "place" : 16,
-         "team_points" : 0
+         "place" : 16
       },
       {
          "time" : "37:02",
          "name" : "Drew Smorul",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "37:02",
          "name" : "Ben Shutte",
-         "place" : 18,
-         "team_points" : 0
+         "place" : 18
       }
    ],
    "usac_permit" : "2015-617",

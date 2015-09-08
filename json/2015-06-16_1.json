@@ -68,8 +68,7 @@
          "time" : "",
          "name" : "Matt Taylor",
          "place" : 2,
-         "points" : 8,
-         "team_points" : 0
+         "points" : 8
       },
       {
          "time" : "",
@@ -83,20 +82,17 @@
          "time" : "",
          "name" : "Roy Leonard",
          "place" : 4,
-         "points" : 5,
-         "team_points" : 0
+         "points" : 5
       },
       {
          "time" : "",
          "name" : "Elis Robinson",
-         "place" : 5,
-         "team_points" : 0
+         "place" : 5
       },
       {
          "time" : "",
          "name" : "Marcus McGuire",
-         "place" : 6,
-         "team_points" : 0
+         "place" : 6
       },
       {
          "time" : "",
@@ -117,69 +113,59 @@
       {
          "time" : "",
          "name" : "Walt Impellicceiri",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "",
          "name" : "Teddy Denman-Brice",
          "place" : 10,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "",
          "name" : "Carl Hubel",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Rich Shutte",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "",
          "name" : "Jon Shepard",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Caleb Wakely",
          "place" : 14,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "",
          "name" : "Hassan Baydoun",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Al Meder",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "George Pompura",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "",
          "name" : "Matt Morehead",
-         "place" : 18,
-         "team_points" : 0
+         "place" : 18
       }
    ],
    "usac_permit" : "2015-617",

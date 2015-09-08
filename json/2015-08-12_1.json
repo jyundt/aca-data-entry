@@ -123,79 +123,68 @@
          "time" : "at 1 lap",
          "name" : "Dan Greene",
          "place" : 9,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "at 1 lap",
          "name" : "Morgan Baker",
          "place" : 10,
          "points" : 1,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jay Downs",
          "place" : 11,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jake Lifson",
          "place" : 12,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "at 1 lap",
          "name" : "Steve Cummings",
          "place" : 13,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jason Mount",
          "place" : 14,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jeff Koontz",
          "place" : 15,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "at 1 lap",
          "name" : "Mike Janeiro",
          "place" : 16,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "at 1 lap",
          "name" : "Keith Hower",
          "place" : 17,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "at 1 lap",
          "name" : "Mark Nicoll",
          "place" : 18,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "at 1 lap",
          "name" : "Bryan Routledge",
          "place" : 19,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       }
    ],
    "usac_permit" : "2015-618",

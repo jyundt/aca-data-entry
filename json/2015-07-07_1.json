@@ -41,8 +41,7 @@
          "time" : "39:46",
          "name" : "Rich Shutte",
          "place" : 1,
-         "points" : 10,
-         "team_points" : 0
+         "points" : 10
       },
       {
          "time" : "39:46",
@@ -55,8 +54,7 @@
       {
          "time" : "39:46",
          "name" : "Isaac Samay",
-         "place" : 3,
-         "team_points" : 0
+         "place" : 3
       },
       {
          "time" : "39:46",
@@ -77,8 +75,7 @@
       {
          "time" : "39:46",
          "name" : "Dan Pellechio",
-         "place" : 6,
-         "team_points" : 0
+         "place" : 6
       },
       {
          "time" : "39:46",
@@ -100,53 +97,45 @@
          "time" : "39:46",
          "name" : "Eric Burnett",
          "place" : 9,
-         "team" : "VOLT Multisport",
-         "team_points" : 0
+         "team" : "VOLT Multisport"
       },
       {
          "time" : "39:46",
          "name" : "Matt Morehead",
-         "place" : 10,
-         "team_points" : 0
+         "place" : 10
       },
       {
          "time" : "39:46",
          "name" : "Ed Leonard",
-         "place" : 11,
-         "team_points" : 0
+         "place" : 11
       },
       {
          "time" : "39:46",
          "name" : "James Knox",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "39:46",
          "name" : "Chris Butor",
          "place" : 13,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "39:46",
          "name" : "Paul Carberry",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "39:46",
          "name" : "Dennis Patton",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "39:46",
          "name" : "Walt Impellicceiri",
-         "place" : 16,
-         "team_points" : 0
+         "place" : 16
       }
    ],
    "usac_permit" : "2015-617",

@@ -66,8 +66,7 @@
          "time" : "35:58",
          "name" : "Rich Shutte",
          "place" : 1,
-         "points" : 10,
-         "team_points" : 0
+         "points" : 10
       },
       {
          "time" : "35:58",
@@ -89,16 +88,14 @@
          "time" : "35:58",
          "name" : "Patrick Beukema",
          "place" : 4,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "George Pompura",
          "place" : 5,
          "points" : 4,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
@@ -120,94 +117,80 @@
          "time" : "35:58",
          "name" : "Dan Pellechio",
          "place" : 8,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "35:58",
          "name" : "Roy Leonard",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "35:58",
          "name" : "Tim Daigle",
          "place" : 10,
          "points" : 1,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "35:58",
          "name" : "Walt Impellicceiri",
-         "place" : 11,
-         "team_points" : 0
+         "place" : 11
       },
       {
          "time" : "35:58",
          "name" : "Michael Sanders",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "35:58",
          "name" : "Rob Wierzbowski",
-         "place" : 13,
-         "team_points" : 0
+         "place" : 13
       },
       {
          "time" : "35:58",
          "name" : "Josh Lewis",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "Paul Carberry",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "Hassan Baydoun",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "Drew Dorko",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "Matt Morehead",
-         "place" : 18,
-         "team_points" : 0
+         "place" : 18
       },
       {
          "time" : "35:58",
          "name" : "Dave Roney",
          "place" : 19,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "35:58",
          "name" : "Zack Wills",
-         "place" : 20,
-         "team_points" : 0
+         "place" : 20
       },
       {
          "time" : "35:58",
          "name" : "Jon Leonard",
          "place" : 21,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-617",

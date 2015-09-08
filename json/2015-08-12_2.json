@@ -95,8 +95,7 @@
          "time" : "43:22",
          "name" : "Chas McFarland",
          "place" : 7,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "43:22",
@@ -109,84 +108,72 @@
       {
          "time" : "43:22",
          "name" : "Ed Grystar",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "43:22",
          "name" : "Kathleen Wulfkuhle",
-         "place" : 10,
-         "team_points" : 0
+         "place" : 10
       },
       {
          "time" : "43:22",
          "name" : "Chris Yanakos",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "43:22",
          "name" : "Austin Bradley",
          "place" : 12,
-         "team" : "Pitt",
-         "team_points" : 0
+         "team" : "Pitt"
       },
       {
          "time" : "43:22",
          "name" : "Jason Bair",
          "place" : 13,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "43:22",
          "name" : "Al Meder",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:22",
          "name" : "Hassan Beydoun",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:22",
          "name" : "Drew Smorul",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:22",
          "name" : "Adam Cohen",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:22",
          "name" : "Hy Simhan",
          "place" : 18,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "43:22",
          "name" : "Caleb Wakely",
          "place" : 19,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "43:22",
          "name" : "Elise Rowe",
          "place" : 20,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       }
    ],
    "usac_permit" : "2015-618",

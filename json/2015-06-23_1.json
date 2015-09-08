@@ -45,14 +45,12 @@
       {
          "time" : "40:50",
          "name" : "Isaac Samay",
-         "place" : 2,
-         "team_points" : 0
+         "place" : 2
       },
       {
          "time" : "40:50",
          "name" : "Andrey Rudemacher",
-         "place" : 3,
-         "team_points" : 0
+         "place" : 3
       },
       {
          "time" : "40:50",
@@ -66,8 +64,7 @@
          "time" : "40:50",
          "name" : "Andrew Reay",
          "place" : 5,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "40:50",
@@ -96,69 +93,59 @@
       {
          "time" : "40:50",
          "name" : "Walt Impellicceiri",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "40:50",
          "name" : "Jon Shepard",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:50",
          "name" : "Drew Smorul",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:50",
          "name" : "Chris Butor",
          "place" : 12,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "40:50",
          "name" : "Josh Lewis",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:50",
          "name" : "James Knox",
-         "place" : 14,
-         "team_points" : 0
+         "place" : 14
       },
       {
          "time" : "40:50",
          "name" : "Dennis Patton",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:50",
          "name" : "Dave Roney",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "40:50",
          "name" : "Nina Assimakopoules",
-         "place" : 17,
-         "team_points" : 0
+         "place" : 17
       },
       {
          "time" : "40:50",
          "name" : "Rich Shutte",
          "place" : 18,
-         "points" : 1,
-         "team_points" : 0
+         "points" : 1
       }
    ],
    "usac_permit" : "2015-617",

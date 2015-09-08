@@ -107,72 +107,62 @@
          "time" : "",
          "name" : "EJ Hubstenberger",
          "place" : 9,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "Jon Williams",
          "place" : 10,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "",
          "name" : "Shequaya Bailey",
          "place" : 11,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "",
          "name" : "Devon Corboy",
          "place" : 12,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "Jim Doan",
          "place" : 13,
-         "team" : "Bents Cycling",
-         "team_points" : 0
+         "team" : "Bents Cycling"
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 14,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "",
          "name" : "Eric Hodos",
          "place" : 15,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "",
          "name" : "Elise Rowe",
          "place" : 16,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "",
          "name" : "Megan Sybeldon",
          "place" : 17,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "",
          "name" : "Jim Mock",
          "place" : 18,
          "points" : 1,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       }
    ],
    "usac_permit" : "2015-617",

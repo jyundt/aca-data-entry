@@ -115,8 +115,7 @@
          "time" : "52:23",
          "name" : "Paul Carlson",
          "place" : 9,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "women_place" : 1,
@@ -130,29 +129,25 @@
          "time" : "at 1 lap",
          "name" : "Gunnar Shogren",
          "place" : 11,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "at 1 lap",
          "name" : "EJ Hubstenberger",
          "place" : 12,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "at 1 lap",
          "name" : "Carl Lovejoy",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "at 1 lap",
          "name" : "Devon Corboy",
          "place" : 14,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 2,
@@ -166,22 +161,19 @@
          "time" : "at 1 lap",
          "name" : "Jon Williams",
          "place" : 16,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "at 1 lap",
          "name" : "Ken Mowry",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "at 1 lap",
          "name" : "Bill Ehler",
          "place" : 18,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "women_place" : 3,

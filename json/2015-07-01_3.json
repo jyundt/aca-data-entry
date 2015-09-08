@@ -21,102 +21,87 @@
          "time" : "22:58",
          "name" : "Andrew Reay",
          "place" : 1,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "22:58",
          "name" : "Tim Daigle",
          "place" : 2,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "22:58",
          "name" : "Matt Taylor",
-         "place" : 3,
-         "team_points" : 0
+         "place" : 3
       },
       {
          "time" : "22:58",
          "name" : "Isaac Samay",
-         "place" : 4,
-         "team_points" : 0
+         "place" : 4
       },
       {
          "time" : "22:58",
          "name" : "Chris Butor",
          "place" : 5,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "22:58",
          "name" : "Drew Dorko",
          "place" : 6,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "22:58",
          "name" : "Chris Yanakos",
          "place" : 7,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "22:58",
          "name" : "Drew Smorul",
          "place" : 8,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "22:58",
          "name" : "Dennis Patton",
          "place" : 9,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "22:58",
          "name" : "Adam Cohen",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "22:58",
          "name" : "Elise Rowe",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "22:58",
          "name" : "Nina Assimakopoules",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "22:58",
          "name" : "Russell Boyd",
          "place" : 13,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "22:58",
          "name" : "Rob Wierzbowski",
-         "place" : 14,
-         "team_points" : 0
+         "place" : 14
       },
       {
          "time" : "22:58",
          "name" : "George Pompura",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-618",

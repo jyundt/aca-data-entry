@@ -111,36 +111,31 @@
          "time" : "44:49",
          "name" : "Matt Dolfi",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "44:49",
          "name" : "Caleb Smith",
          "place" : 10,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "44:49",
          "name" : "Birk McGilvrey",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "44:49",
          "name" : "Josh Lewis",
          "place" : 12,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "44:49",
          "name" : "Al Meder",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-618",

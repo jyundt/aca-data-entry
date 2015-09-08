@@ -103,29 +103,25 @@
          "time" : "52:58",
          "name" : "Mike Mihalik",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "52:58",
          "name" : "Jacob Yundt",
          "place" : 10,
-         "team" : "CAT Racing",
-         "team_points" : 0
+         "team" : "CAT Racing"
       },
       {
          "time" : "52:58",
          "name" : "Shawn Litster",
          "place" : 11,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "52:58",
          "name" : "John Rowley",
          "place" : 12,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       }
    ],
    "usac_permit" : "2015-618",

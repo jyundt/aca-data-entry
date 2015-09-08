@@ -123,71 +123,61 @@
          "time" : "",
          "name" : "Josh Friedman",
          "place" : 9,
-         "team" : "Greenline Velo d/b/ Zipcar",
-         "team_points" : 0
+         "team" : "Greenline Velo d/b/ Zipcar"
       },
       {
          "time" : "",
          "name" : "Frankie Ross",
          "place" : 10,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "",
          "name" : "Mark Nicoll",
          "place" : 11,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "",
          "name" : "Jason Mount",
          "place" : 12,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "",
          "name" : "Jeff Koontz",
          "place" : 13,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "",
          "name" : "Bryan Routledge",
          "place" : 14,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "",
          "name" : "EJ Hubstenberger",
          "place" : 15,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "",
          "name" : "John Cotter",
          "place" : 16,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "",
          "name" : "Tom Senkevich",
          "place" : 17,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "",
          "name" : "Jacob Yundt",
          "place" : 18,
-         "team" : "CAT Racing",
-         "team_points" : 0
+         "team" : "CAT Racing"
       }
    ],
    "usac_permit" : "2015-618",

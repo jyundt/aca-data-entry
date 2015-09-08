@@ -103,57 +103,49 @@
          "time" : "39:55",
          "name" : "Dave Galati",
          "place" : "6",
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "39:55",
          "name" : "Mike Meehan",
-         "place" : "7",
-         "team_points" : 0
+         "place" : "7"
       },
       {
          "time" : "39:55",
          "name" : "Birk McGilvrey",
          "place" : "8",
          "points" : 1,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "39:55",
          "name" : "Josh Lewis",
          "place" : "9",
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "39:55",
          "name" : "Al Meder",
          "place" : "10",
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "39:55",
          "name" : "Hasan Baydoun",
          "place" : "11",
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "39:55",
          "name" : "Rachel Weaver",
          "place" : "12",
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "39:55",
          "name" : "Elise Rowe",
          "place" : "13",
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       }
    ],
    "usac_permit" : "2015-618",

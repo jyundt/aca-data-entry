@@ -98,94 +98,80 @@
       {
          "time" : "36:51",
          "name" : "Brian Haltenback",
-         "place" : 6,
-         "team_points" : 0
+         "place" : 6
       },
       {
          "time" : "36:51",
          "name" : "Roy Leonard",
          "place" : 7,
-         "points" : 2,
-         "team_points" : 0
+         "points" : 2
       },
       {
          "time" : "36:51",
          "name" : "Jonathan Rafaeli",
-         "place" : 8,
-         "team_points" : 0
+         "place" : 8
       },
       {
          "time" : "36:51",
          "name" : "Rich Shutte",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "36:51",
          "name" : "Chris Butor",
          "place" : 10,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "36:51",
          "name" : "Marcus McGuire",
-         "place" : 11,
-         "team_points" : 0
+         "place" : 11
       },
       {
          "time" : "36:51",
          "name" : "Mark Runco",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "36:51",
          "name" : "Matt Morehead",
          "place" : 13,
-         "points" : 1,
-         "team_points" : 0
+         "points" : 1
       },
       {
          "time" : "36:51",
          "name" : "Paul Carberry",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "36:51",
          "name" : "Hy Simhan",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "36:51",
          "name" : "Dave Roney",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "36:51",
          "name" : "Adam Cohen",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "36:51",
          "name" : "Russell Boyd",
          "place" : 18,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "36:51",
          "name" : "Luke Gunnett",
-         "place" : 19,
-         "team_points" : 0
+         "place" : 19
       }
    ],
    "usac_permit" : "2015-617",

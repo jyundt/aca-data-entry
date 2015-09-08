@@ -103,70 +103,60 @@
          "time" : "54:14",
          "name" : "Jeff Griffin",
          "place" : 9,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "54:14",
          "name" : "Ed Grystar",
-         "place" : 10,
-         "team_points" : 0
+         "place" : 10
       },
       {
          "time" : "54:14",
          "name" : "Jack Neyer",
          "place" : 11,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "54:14",
          "name" : "Jon Williams",
          "place" : 12,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "54:14",
          "name" : "Jim Mock",
          "place" : 13,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "54:14",
          "name" : "Fred Gohh",
          "place" : 14,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "54:14",
          "name" : "Chris Helbling",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "54:14",
          "name" : "Skip Rogers",
          "place" : 16,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "54:14",
          "name" : "EJ Hubstenberger",
          "place" : 17,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "54:14",
          "name" : "Mark Bedel",
          "place" : 18,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "women_place" : 1,
@@ -180,22 +170,19 @@
          "time" : "54:14",
          "name" : "Bill Ehler",
          "place" : 20,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "54:14",
          "name" : "Bryan Routledge",
          "place" : 21,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "54:14",
          "name" : "Jeff Gernert",
          "place" : 22,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 2,
@@ -232,8 +219,7 @@
          "women_place" : 6,
          "time" : "54:14",
          "name" : "Anna-Lena Kemper",
-         "place" : 27,
-         "team_points" : 0
+         "place" : 27
       },
       {
          "women_place" : 7,

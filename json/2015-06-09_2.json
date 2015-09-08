@@ -39,8 +39,7 @@
          "time" : "",
          "name" : "Jay Downs",
          "place" : 1,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "",
@@ -102,30 +101,26 @@
          "time" : "at 1 lap",
          "name" : "Frankie Ross",
          "place" : 9,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "at 1 lap",
          "name" : "JR Petsko",
          "place" : 10,
          "points" : 1,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "at 1 lap",
          "name" : "Florian Lungu",
          "place" : 11,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jack Neyer",
          "place" : 12,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "women_place" : 1,
@@ -147,36 +142,31 @@
          "time" : "at 1 lap",
          "name" : "Mark Bedel",
          "place" : 15,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "at 1 lap",
          "name" : "Ken Mowry",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "at 1 lap",
          "name" : "Jeff Paul",
          "place" : 17,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "at 1 lap",
          "name" : "Ted McPherson",
          "place" : 18,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "women_place" : 3,
          "time" : "at 1 lap",
          "name" : "Anna-Lena Kemper",
-         "place" : 19,
-         "team_points" : 0
+         "place" : 19
       }
    ],
    "usac_permit" : "2015-617",

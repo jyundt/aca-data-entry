@@ -107,56 +107,48 @@
          "time" : "43:12",
          "name" : "Caleb Wakely",
          "place" : 9,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "43:12",
          "name" : "Chris Helbling",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:12",
          "name" : "Patrick Beukema",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:12",
          "name" : "Jason Chari",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "43:12",
          "name" : "Matt Dolfi",
          "place" : 13,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "43:12",
          "name" : "Adam Cohen",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "43:12",
          "name" : "Birk McGilvrey",
          "place" : 15,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "43:12",
          "name" : "John McLaughlin",
          "place" : 16,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       }
    ],
    "usac_permit" : "2015-618",

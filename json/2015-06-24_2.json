@@ -115,64 +115,55 @@
          "time" : "52:35",
          "name" : "Carl Lovejoy",
          "place" : 9,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "52:35",
          "name" : "Josh Lewis",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "52:35",
          "name" : "Aaron Bovalino",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "52:35",
          "name" : "John McLaughlin",
          "place" : 12,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "52:35",
          "name" : "Chris Yanakos",
          "place" : 13,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "52:35",
          "name" : "Don Splitstone",
          "place" : 14,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "52:35",
          "name" : "Hassan Beydoun",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "52:35",
          "name" : "Hasan Baydoun",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "52:35",
          "name" : "Jason Bair",
          "place" : 17,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       }
    ],
    "usac_permit" : "2015-618",

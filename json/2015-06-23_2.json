@@ -96,50 +96,43 @@
          "name" : "Skip Rogers",
          "place" : 8,
          "points" : 1,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "58:52",
          "name" : "Paul Carlson",
          "place" : 9,
-         "team" : "Top Gear Racing",
-         "team_points" : 0
+         "team" : "Top Gear Racing"
       },
       {
          "time" : "58:52",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "58:52",
          "name" : "Jay Downs",
          "place" : 11,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "58:52",
          "name" : "Rachel Weaver",
          "place" : 12,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "58:52",
          "name" : "Melissa Hiller",
          "place" : 13,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "58:52",
          "name" : "Shequaya Bailey",
          "place" : 14,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       }
    ],
    "usac_permit" : "2015-617",

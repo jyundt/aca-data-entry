@@ -111,53 +111,46 @@
          "time" : "58:58",
          "name" : "Florian Lungu",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "58:58",
          "name" : "Jon Williams",
          "place" : 10,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "58:58",
          "name" : "Devon Corboy",
          "place" : 11,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 1,
          "time" : "58:58",
          "name" : "Shequaya Bailey",
          "place" : 12,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "58:58",
          "name" : "Frankie Ross",
          "place" : 13,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "women_place" : 2,
          "time" : "58:58",
          "name" : "Colleen Grygier",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "women_place" : 3,
          "time" : "58:58",
          "name" : "Megan Sybeldon",
          "place" : 15,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       }
    ],
    "usac_permit" : "2015-617",

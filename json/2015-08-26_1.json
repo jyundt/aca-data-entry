@@ -87,8 +87,7 @@
          "time" : "45:23",
          "name" : "Jake Lifson",
          "place" : 2,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "45:23",
@@ -118,8 +117,7 @@
          "time" : "45:23",
          "name" : "Stephen Smith",
          "place" : 6,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "45:23",
@@ -141,58 +139,50 @@
          "time" : "45:23",
          "name" : "Kyle Mihalik",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "45:23",
          "name" : "Steve Bedilion",
          "place" : 10,
-         "team" : "CAT Racing",
-         "team_points" : 0
+         "team" : "CAT Racing"
       },
       {
          "time" : "45:23",
          "name" : "Ken Mowry",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "45:23",
          "name" : "Bryan Routledge",
          "place" : 12,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "45:23",
          "name" : "Matt Dolfi",
          "place" : 13,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "45:23",
          "name" : "Mike Janeiro",
          "place" : 14,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "45:23",
          "name" : "Josh Friedman",
          "place" : 15,
-         "team" : "Greenline Velo d/b/ Zipcar",
-         "team_points" : 0
+         "team" : "Greenline Velo d/b/ Zipcar"
       },
       {
          "time" : "45:23",
          "name" : "Morgan Baker",
          "place" : 16,
          "points" : 1,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       }
    ],
    "usac_permit" : "2015-618",

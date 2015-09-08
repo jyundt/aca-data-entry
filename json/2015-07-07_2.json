@@ -111,42 +111,36 @@
          "time" : "54:00",
          "name" : "Bryan Routledge",
          "place" : 9,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "54:00",
          "name" : "Florian Lungu",
          "place" : 10,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "54:00",
          "name" : "EJ Hubstenberger",
          "place" : 11,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "54:00",
          "name" : "Ed Grystar",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "54:00",
          "name" : "Frankie Ross",
          "place" : 13,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "time" : "54:00",
          "name" : "Gunnar Shogren",
          "place" : 14,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 1,

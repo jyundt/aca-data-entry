@@ -115,114 +115,98 @@
          "time" : "47:25",
          "name" : "Jason Hochreiter",
          "place" : 9,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "47:25",
          "name" : "Christian Korey",
          "place" : 10,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "47:25",
          "name" : "Josh Lewis",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Chris Yanakos",
          "place" : 12,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:25",
          "name" : "Carl Lovejoy",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Jack Neyer",
          "place" : 14,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "47:25",
          "name" : "Drew Dorko",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Hassan Beydoun",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Patrick Beukema",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Adam Cohen",
          "place" : 18,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Elise Rowe",
          "place" : 19,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:25",
          "name" : "Rick Holzworth",
          "place" : 20,
          "points" : 1,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:25",
          "name" : "Aaron Bovalino",
          "place" : 21,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:25",
          "name" : "Jason Bair",
          "place" : 22,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "47:25",
          "name" : "Hy Simhan",
          "place" : 23,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:25",
          "name" : "Hasan Baydoun",
          "place" : 24,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-618",

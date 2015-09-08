@@ -104,84 +104,72 @@
          "time" : "28:19",
          "name" : "Matt Dolfi",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "28:19",
          "name" : "Ed Grystar",
-         "place" : 10,
-         "team_points" : 0
+         "place" : 10
       },
       {
          "time" : "28:19",
          "name" : "Rick Holzworth",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "28:19",
          "name" : "Nathan Clair",
          "place" : 12,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "28:19",
          "name" : "Birk McGilvrey",
          "place" : 13,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "28:19",
          "name" : "Ian Baun",
          "place" : 14,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "28:19",
          "name" : "Jason Hochreiter",
          "place" : 15,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "28:19",
          "name" : "Jack Neyer",
          "place" : 16,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "28:19",
          "name" : "Matt Serechin",
          "place" : 17,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "28:19",
          "name" : "Jeff Grimm",
          "place" : 18,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "28:19",
          "name" : "Chris Yanakos",
          "place" : 19,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "28:19",
          "name" : "Tim Daigle",
          "place" : 20,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       }
    ],
    "usac_permit" : "2015-618",

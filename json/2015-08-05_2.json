@@ -114,84 +114,72 @@
       {
          "time" : "47:02",
          "name" : "Todd Schoeni",
-         "place" : 9,
-         "team_points" : 0
+         "place" : 9
       },
       {
          "time" : "47:02",
          "name" : "Chris Yanakos",
          "place" : 10,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:02",
          "name" : "Birk McGilvrey",
          "place" : 11,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:02",
          "name" : "Ed Grystar",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "47:02",
          "name" : "Adam Cohen",
          "place" : 13,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:02",
          "name" : "Dan Rabe",
          "place" : 14,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "47:02",
          "name" : "Austin Bradley",
          "place" : 15,
-         "team" : "Pitt",
-         "team_points" : 0
+         "team" : "Pitt"
       },
       {
          "time" : "47:02",
          "name" : "Hassan Beydoun",
          "place" : 16,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:02",
          "name" : "John McLaughlin",
          "place" : 17,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "47:02",
          "name" : "Elise Rowe",
          "place" : 18,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "47:02",
          "name" : "Russell Boyd",
          "place" : 19,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "47:02",
          "name" : "Caleb Smith",
          "place" : 20,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       }
    ],
    "usac_permit" : "2015-618",

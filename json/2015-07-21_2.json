@@ -111,95 +111,82 @@
          "time" : "52:00",
          "name" : "Mark Nicoll",
          "place" : 9,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "52:00",
          "name" : "EJ Hubstenberger",
          "place" : 10,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "52:00",
          "name" : "Skip Rogers",
          "place" : 11,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "52:00",
          "name" : "Jon Williams",
          "place" : 12,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "52:00",
          "name" : "Devon Corboy",
          "place" : 13,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "time" : "52:00",
          "name" : "Frankie Ross",
          "place" : 14,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "women_place" : 1,
          "time" : "52:00",
          "name" : "Megan Sybeldon",
          "place" : 15,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "women_place" : 2,
          "time" : "52:00",
          "name" : "Shequaya Bailey",
          "place" : 16,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "52:00",
          "name" : "Maarten deBoer",
          "place" : 17,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "52:00",
          "name" : "Florian Lungu",
          "place" : 18,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "women_place" : 3,
          "time" : "52:00",
          "name" : "Melissa Hiller",
          "place" : 19,
-         "team" : "QCW Breakaway Bikes",
-         "team_points" : 0
+         "team" : "QCW Breakaway Bikes"
       },
       {
          "time" : "52:00",
          "name" : "Jeff Paul",
          "place" : 20,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "52:00",
          "name" : "Mike Quigley",
          "place" : 21,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       }
    ],
    "usac_permit" : "2015-617",

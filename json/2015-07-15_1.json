@@ -84,8 +84,7 @@
          "name" : "Jordan Villella",
          "place" : 6,
          "points" : 3,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "55:02",
@@ -99,29 +98,25 @@
          "time" : "55:02",
          "name" : "Eric Lundgren",
          "place" : 8,
-         "team" : "JBV Coaching",
-         "team_points" : 0
+         "team" : "JBV Coaching"
       },
       {
          "time" : "55:02",
          "name" : "Jacob Yundt",
          "place" : 9,
-         "team" : "CAT Racing",
-         "team_points" : 0
+         "team" : "CAT Racing"
       },
       {
          "time" : "55:02",
          "name" : "Ed Krall",
          "place" : 10,
-         "team" : "GPOA",
-         "team_points" : 0
+         "team" : "GPOA"
       },
       {
          "time" : "55:02",
          "name" : "Jeff Koontz",
          "place" : 11,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       }
    ],
    "usac_permit" : "2015-618",

@@ -62,8 +62,7 @@
          "time" : "44:48",
          "name" : "Tom Borner",
          "place" : 2,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "44:48",
@@ -101,8 +100,7 @@
          "time" : "44:48",
          "name" : "Matt Williams",
          "place" : 7,
-         "points" : 2,
-         "team_points" : 0
+         "points" : 2
       },
       {
          "time" : "44:48",
@@ -116,71 +114,61 @@
          "time" : "44:48",
          "name" : "Matt Brady",
          "place" : 9,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "44:48",
          "name" : "Caleb Smith",
          "place" : 10,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "44:48",
          "name" : "Jack Neyer",
          "place" : 11,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "44:48",
          "name" : "Aaron Bovalino",
          "place" : 12,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "44:48",
          "name" : "Chris Yanakos",
          "place" : 13,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "44:48",
          "name" : "Hasan Baydoun",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "44:48",
          "name" : "Andrew Reay",
          "place" : 15,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "44:48",
          "name" : "Dan Rabe",
          "place" : 16,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "44:48",
          "name" : "Jason Hochreiter",
          "place" : 17,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       },
       {
          "time" : "44:48",
          "name" : "Jason Bair",
          "place" : 18,
-         "team" : "Truefit Racing",
-         "team_points" : 0
+         "team" : "Truefit Racing"
       }
    ],
    "usac_permit" : "2015-618",

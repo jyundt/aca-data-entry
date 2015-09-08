@@ -122,36 +122,31 @@
       {
          "time" : "47:43",
          "name" : "Bob Gottlieb",
-         "place" : 8,
-         "team_points" : 0
+         "place" : 8
       },
       {
          "time" : "47:43",
          "name" : "Skip Rogers",
          "place" : 9,
-         "team" : "UPMC Cycling Performance",
-         "team_points" : 0
+         "team" : "UPMC Cycling Performance"
       },
       {
          "time" : "47:43",
          "name" : "Jeff Paul",
          "place" : 10,
-         "team" : "Rare Diseases",
-         "team_points" : 0
+         "team" : "Rare Diseases"
       },
       {
          "time" : "47:43",
          "name" : "Ken Mowry",
          "place" : 11,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "47:43",
          "name" : "Florian Lungu",
          "place" : 12,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "women_place" : 1,
@@ -164,15 +159,13 @@
       {
          "time" : "47:43",
          "name" : "Zack Wills",
-         "place" : 14,
-         "team_points" : 0
+         "place" : 14
       },
       {
          "time" : "47:43",
          "name" : "Devon Corboy",
          "place" : 15,
-         "team" : "Dynamic Physical Therapy",
-         "team_points" : 0
+         "team" : "Dynamic Physical Therapy"
       },
       {
          "women_place" : 2,
@@ -186,15 +179,13 @@
          "time" : "47:43",
          "name" : "Jon Williams",
          "place" : 17,
-         "team" : "Freddie Fu Cycling",
-         "team_points" : 0
+         "team" : "Freddie Fu Cycling"
       },
       {
          "time" : "47:43",
          "name" : "Bryan Routledge",
          "place" : 18,
-         "team" : "Sette Nove",
-         "team_points" : 0
+         "team" : "Sette Nove"
       },
       {
          "women_place" : 3,

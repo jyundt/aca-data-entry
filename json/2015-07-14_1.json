@@ -75,42 +75,36 @@
          "time" : "36:36",
          "name" : "Walt Impellicceiri",
          "place" : 5,
-         "points" : 4,
-         "team_points" : 0
+         "points" : 4
       },
       {
          "time" : "36:36",
          "name" : "Dan Pellechio",
-         "place" : 6,
-         "team_points" : 0
+         "place" : 6
       },
       {
          "time" : "36:36",
          "name" : "Matt Morehead",
          "place" : 7,
-         "points" : 2,
-         "team_points" : 0
+         "points" : 2
       },
       {
          "time" : "36:36",
          "name" : "James Knox",
          "place" : 8,
-         "points" : 1,
-         "team_points" : 0
+         "points" : 1
       },
       {
          "time" : "36:36",
          "name" : "Carl Hubel",
          "place" : 9,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "36:36",
          "name" : "Rich Shutte",
          "place" : 10,
-         "points" : 1,
-         "team_points" : 0
+         "points" : 1
       }
    ],
    "usac_permit" : "2015-617",

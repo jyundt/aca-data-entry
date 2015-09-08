@@ -72,97 +72,83 @@
          "name" : "Matt Guillon",
          "place" : 5,
          "points" : 4,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "38:25",
          "name" : "Roy Leonard",
          "place" : 6,
-         "points" : 3,
-         "team_points" : 0
+         "points" : 3
       },
       {
          "time" : "38:25",
          "name" : "Isaac Samay",
-         "place" : 7,
-         "team_points" : 0
+         "place" : 7
       },
       {
          "time" : "38:25",
          "name" : "Drew Dorko",
          "place" : 8,
          "points" : 1,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "38:25",
          "name" : "Fred Gohh",
          "place" : 9,
-         "team" : "Team Citius",
-         "team_points" : 0
+         "team" : "Team Citius"
       },
       {
          "time" : "38:25",
          "name" : "Dave Roney",
          "place" : 10,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "38:25",
          "name" : "Walt Impellicceiri",
-         "place" : 11,
-         "team_points" : 0
+         "place" : 11
       },
       {
          "time" : "38:25",
          "name" : "Vince Pantloni",
-         "place" : 12,
-         "team_points" : 0
+         "place" : 12
       },
       {
          "time" : "38:25",
          "name" : "Austin Bradley",
          "place" : 13,
-         "team" : "Pitt",
-         "team_points" : 0
+         "team" : "Pitt"
       },
       {
          "time" : "38:25",
          "name" : "Jon Shepard",
          "place" : 14,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "38:25",
          "name" : "Hy Simhan",
          "place" : 15,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       },
       {
          "time" : "38:25",
          "name" : "Chris Yanakos",
          "place" : 16,
-         "team" : "LaPrima Espresso",
-         "team_points" : 0
+         "team" : "LaPrima Espresso"
       },
       {
          "time" : "38:25",
          "name" : "Russell Boyd",
          "place" : 17,
-         "team" : "NovaCare",
-         "team_points" : 0
+         "team" : "NovaCare"
       },
       {
          "time" : "38:25",
          "name" : "Paul Carberry",
          "place" : 18,
-         "team" : "East End Cycling Club",
-         "team_points" : 0
+         "team" : "East End Cycling Club"
       }
    ],
    "usac_permit" : "2015-617",
