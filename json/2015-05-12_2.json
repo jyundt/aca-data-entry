@@ -133,21 +133,18 @@
          "women_place" : 2,
          "time" : "at 1 lap",
          "name" : "Melissa Hiller",
-         "place" : 19,
          "team" : "QCW Breakaway Bikes"
       },
       {
          "women_place" : 3,
          "time" : "at 1 lap",
          "name" : "Shequaya Bailey",
-         "place" : 20,
          "team" : "Rare Diseases"
       },
       {
          "women_place" : 4,
          "time" : "at 1 lap",
          "name" : "Kelly Haderlie",
-         "place" : 21
       }
    ],
    "usac_permit" : "2015-617",

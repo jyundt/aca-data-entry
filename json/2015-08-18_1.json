@@ -135,19 +135,16 @@
          "jr_place" : "1",
          "time" : "38:02",
          "name" : "Sam Hersick",
-         "place" : 15
       },
       {
          "jr_place" : "2",
          "time" : "38:02",
          "name" : "Creed Erdos",
-         "place" : 16
       },
       {
          "jr_place" : "3",
          "time" : "38:02",
          "name" : "Ben Keefer",
-         "place" : 17
       }
    ],
    "usac_permit" : "2015-617",
