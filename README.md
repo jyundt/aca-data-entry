@@ -1,5 +1,11 @@
-# aca-data-entry
-A (terrible) perl script to assist with data entry of old ACA (cycling) race results
+# oval-db
+## A collection of json files and scripts used to create data for ACA results
+
+One json document per race. 
+
+### scripts/aca_data_entry.pl
+
+Perl script used to help with data entry
 
 Run the script, enter in the data. Sigh...
 
