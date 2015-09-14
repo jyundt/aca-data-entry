@@ -1,0 +1,168 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Scott Diemert"
+      },
+      {
+         "prime" : "$5 from Mark Powder",
+         "name" : "Dave Galati"
+      },
+      {
+         "prime" : "$5 from Mark Powder",
+         "name" : "Adam Cohen"
+      },
+      {
+         "prime" : "2 x $5 from ?",
+         "name" : "Jason Miller"
+      },
+      {
+         "prime" : "5 hr energy from Jack Neyer",
+         "name" : "Scott Diemert"
+      },
+      {
+         "prime" : "5 hr energy from Jack Neyer",
+         "name" : "Florian Lungu"
+      },
+      {
+         "prime" : "muffins from Lisa",
+         "name" : "Jason Miller"
+      }
+   ],
+   "laps" : 36,
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Matt Williams",
+         "team" : "Pro Mountain Outfitters"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Adam Cohen",
+         "team" : "East End Cycling Club",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Jason Miller"
+      }
+   ],
+   "date" : "2014-08-26",
+   "fast_lap" : "1:03",
+   "avg_lap" : "",
+   "riders" : [
+      {
+         "time" : "41:27",
+         "name" : "Brandon Manns",
+         "place" : 1,
+         "points" : "10",
+         "team" : "NovaCare",
+         "team_points" : "10"
+      },
+      {
+         "time" : "41:27",
+         "name" : "John McLaughlin",
+         "place" : 2,
+         "points" : "8",
+         "team" : "NovaCare",
+         "team_points" : "8"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Scott Diemert",
+         "place" : 3,
+         "points" : "7",
+         "team" : "East End Cycling Club",
+         "team_points" : "6"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Chris Helbling",
+         "place" : 4,
+         "points" : "5",
+         "team" : "East End Cycling Club",
+         "team_points" : "5"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Tim Daigle",
+         "place" : 5,
+         "points" : "4",
+         "team" : "Team Citius",
+         "team_points" : "4"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Matt Williams",
+         "place" : 6,
+         "team" : "Pro Mountain Outfitters"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Matt Dolfi",
+         "place" : 7,
+         "points" : "2",
+         "team" : "NovaCare",
+         "team_points" : "2"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Matt Serechin",
+         "place" : 8,
+         "points" : "1",
+         "team" : "East End Cycling Club",
+         "team_points" : "1"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Andreas Olshausen",
+         "place" : 9,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Ken Mowry",
+         "place" : 10,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Matt Braun",
+         "place" : 11
+      },
+      {
+         "time" : "41:27",
+         "name" : "Sean Jackson",
+         "place" : 12
+      },
+      {
+         "time" : "41:27",
+         "name" : "Patrick Beukema",
+         "place" : 13,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Adam Cohen",
+         "place" : 14,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "41:27",
+         "name" : "Greg Akina",
+         "place" : 15,
+         "team" : "CMU"
+      }
+   ],
+   "usac_permit" : "2014-1359",
+   "p_course" : false,
+   "weather" : "80 °F, hot",
+   "starters" : 33,
+   "slow_lap" : "1:14",
+   "category" : "C"
+}

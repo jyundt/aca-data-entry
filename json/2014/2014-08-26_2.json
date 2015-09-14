@@ -1,0 +1,166 @@
+{
+   "officials" : [
+      "Doug Riegner",
+      "John Cotter"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Ken Mowry"
+      },
+      {
+         "prime" : "$5 from ?",
+         "name" : "Frankie Ross"
+      },
+      {
+         "prime" : "$5 from ?",
+         "name" : "Ken Mowry"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Jason Zimmerman"
+      },
+      {
+         "prime" : "$5 from Tim Daigle",
+         "name" : "Jim Doan"
+      }
+   ],
+   "laps" : 40,
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Bryan Routledge",
+         "team" : "Sette Nove",
+         "mar_points" : "3"
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Eric Hodos",
+         "team" : "UPMC Cycling Performance",
+         "mar_points" : "2"
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Ken Mowry",
+         "team" : "East End Cycling Club",
+         "mar_points" : "1"
+      }
+   ],
+   "date" : "2014-08-26",
+   "fast_lap" : "1:03",
+   "avg_lap" : "1:14",
+   "riders" : [
+      {
+         "time" : "49:47",
+         "name" : "Mark Nicoll",
+         "place" : 1,
+         "points" : "10",
+         "team" : "GPOA",
+         "team_points" : "10"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Ken Mowry",
+         "place" : 2,
+         "points" : "9",
+         "team" : "East End Cycling Club",
+         "team_points" : "8"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Bob Gottlieb",
+         "place" : 3
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jeff Koontz",
+         "place" : 4,
+         "points" : "5",
+         "team" : "UPMC Cycling Performance",
+         "team_points" : "5"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Frankie Ross",
+         "place" : 5,
+         "points" : "4",
+         "team" : "Sette Nove",
+         "team_points" : "4"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Bryan Routledge",
+         "place" : 6,
+         "points" : "3",
+         "team" : "Sette Nove",
+         "team_points" : "3"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jason Zimmerman",
+         "place" : 7,
+         "points" : "2",
+         "team" : "Freddie Fu Cycling",
+         "team_points" : "2"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jim Mock",
+         "place" : 8,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Skip Rogers",
+         "place" : 9,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Chris Helbling",
+         "place" : 10,
+         "team" : "East End Cycling Club"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Eric Hodos",
+         "place" : 11,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jack Neyer",
+         "place" : 12,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jim Doan",
+         "place" : 13
+      },
+      {
+         "time" : "49:47",
+         "name" : "Rachel Weaver",
+         "place" : 14,
+         "team" : "NuGo/Koeles"
+      },
+      {
+         "time" : "49:47",
+         "name" : "Jay Williams",
+         "place" : 15
+      },
+      {
+         "time" : "49:47",
+         "name" : "Bill Ehler",
+         "place" : 16,
+         "team" : "UPMC Cycling Performance"
+      }
+   ],
+   "usac_permit" : "2014-1359",
+   "p_course" : false,
+   "weather" : "80 °F, hot",
+   "starters" : 19,
+   "slow_lap" : "1:25",
+   "category" : "Masters 40+/Women"
+}
