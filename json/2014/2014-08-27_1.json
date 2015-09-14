@@ -1,0 +1,176 @@
+{
+   "officials" : [
+      "Kurt Kearcher",
+      "Niki Berrian"
+   ],
+   "primes" : [
+      {
+         "prime" : "Point Prime",
+         "name" : "Vinnie DePalma"
+      },
+      {
+         "prime" : "$5 from Official Kurt",
+         "name" : "Zachery Kovalcik"
+      },
+      {
+         "prime" : "$5 from Official Kurt",
+         "name" : "Josh Friedman"
+      },
+      {
+         "prime" : "3 x $5 from Official Kurt",
+         "name" : "Frankie Ross"
+      },
+      {
+         "prime" : "$5 from Official Kurt",
+         "name" : "Mike Appel"
+      },
+      {
+         "prime" : "$5 from Official Kurt",
+         "name" : "Shawn Litster"
+      },
+      {
+         "prime" : "2 x $5 from John McLaughlin",
+         "name" : "Justin Kanter"
+      }
+   ],
+   "laps" : "45",
+   "location" : "Bud Harris Bike Park",
+   "mar" : [
+      {
+         "mar_place" : "1",
+         "name" : "Frankie Ross",
+         "team" : "Sette Nove",
+         "mar_points" : 3
+      },
+      {
+         "mar_place" : "2",
+         "name" : "Josh Friedman",
+         "team" : "GPOA",
+         "mar_points" : 2
+      },
+      {
+         "mar_place" : "3",
+         "name" : "Justin Kanter",
+         "team" : "CAT Racing",
+         "mar_points" : 1
+      }
+   ],
+   "date" : "2014-08-27",
+   "fast_lap" : "1:00",
+   "avg_lap" : "1:07",
+   "riders" : [
+      {
+         "time" : "49:07",
+         "name" : "Dan Greene",
+         "place" : 1,
+         "points" : 10,
+         "team" : "Iron City Bikes",
+         "team_points" : 10
+      },
+      {
+         "time" : "49:07",
+         "name" : "John Cotter",
+         "place" : 2,
+         "points" : 8,
+         "team" : "NovaCare",
+         "team_points" : 8
+      },
+      {
+         "time" : "49:07",
+         "name" : "Zachery Kovalcik",
+         "place" : 3
+      },
+      {
+         "time" : "49:07",
+         "name" : "Vinnie DePalma",
+         "place" : 4,
+         "points" : 6,
+         "team" : "CAT Racing",
+         "team_points" : 5
+      },
+      {
+         "time" : "49:07",
+         "name" : "Steve Bedilion",
+         "place" : 5,
+         "points" : 4,
+         "team" : "CAT Racing",
+         "team_points" : 4
+      },
+      {
+         "time" : "49:07",
+         "name" : "Stephen Smith",
+         "place" : 6,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Steve Kurpiewski",
+         "place" : 7,
+         "points" : 2,
+         "team" : "GPOA",
+         "team_points" : 2
+      },
+      {
+         "time" : "49:07",
+         "name" : "Kyle Mihalik",
+         "place" : 8,
+         "points" : 1,
+         "team" : "Freddie Fu Cycling",
+         "team_points" : 1
+      },
+      {
+         "time" : "49:07",
+         "name" : "Shawn Litster",
+         "place" : 9,
+         "team" : "NuGo/Koeles"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Jeff Koontz",
+         "place" : 10,
+         "team" : "UPMC Cycling Performance"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Devon Corboy",
+         "place" : 11,
+         "team" : "Dynamic Physical Therapy"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Mike Appel",
+         "place" : 12,
+         "team" : "CAT Racing"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Russ Dryer",
+         "place" : 13,
+         "team" : "Sette Nove"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Dave Short",
+         "place" : 14,
+         "team" : "Freddie Fu Cycling"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Morgan Baker",
+         "place" : 15,
+         "team" : "NovaCare"
+      },
+      {
+         "time" : "49:07",
+         "name" : "Mike Oltman",
+         "place" : 16,
+         "team" : "CAT Racing"
+      }
+   ],
+   "usac_permit" : "2014-1360",
+   "p_course" : false,
+   "weather" : "85 °F partly sunny, humid",
+   "starters" : 31,
+   "slow_lap" : "1:18",
+   "category" : "A"
+}
