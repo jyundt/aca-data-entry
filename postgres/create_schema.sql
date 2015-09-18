@@ -27,6 +27,7 @@ CREATE TABLE race (
   race_fast_lap INTERVAL,
   race_average_lap INTERVAL,
   race_weather VARCHAR(200),
+  race_usac_permit VARCHAR(200),
   race_laps INT
 );
 

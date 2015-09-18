@@ -7,6 +7,9 @@ use YAML;
 use strict;
 use warnings;
 
+binmode(STDOUT, ":utf8");
+binmode(STDIN, ":utf8");
+
 #This scipt will prompt users for data about an ACA race and convert it into 
 #a JSON document
 
