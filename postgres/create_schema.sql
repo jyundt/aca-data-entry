@@ -1,6 +1,17 @@
 CREATE DATABASE oval OWNER postgres;
 \connect oval
 
+CREATE TABLE official (
+  official_id SERIAL PRIMARY KEY,
+  official_name VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE marshal (
+  marshal_id SERIAL PRIMARY KEY,
+  marshal_name VARCHAR(200) NOT NULL
+);
+
+
 CREATE TABLE race_class (
   race_class_id SERIAL PRIMARY KEY,
   race_class_description VARCHAR(200) NOT NULL
@@ -12,6 +23,7 @@ CREATE TABLE racer (
   racer_usac_license INT,
   racer_birthdate DATE
 );
+
 
 CREATE TABLE team (
   team_id SERIAL PRIMARY KEY,
@@ -35,6 +47,18 @@ CREATE TABLE participant (
   participant_id SERIAL PRIMARY KEY,
   racer_id INT REFERENCES racer,
   team_id INT REFERENCES team,
+  race_id INT REFERENCES race
+);
+
+CREATE TABLE race_official (
+  race_official_id SERIAL PRIMARY KEY,
+  official_id INT REFERENCES official,
+  race_id INT REFERENCES race
+);
+
+CREATE TABLE race_marshal (
+  race_marshal SERIAL PRIMARY KEY,
+  marshal_id INT REFERENCES marshal ,
   race_id INT REFERENCES race
 );
 
