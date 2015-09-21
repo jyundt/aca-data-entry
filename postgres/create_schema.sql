@@ -73,6 +73,7 @@ CREATE TABLE result (
   participant_id INT REFERENCES participant,
   result_place INT,
   result_points INT,
+  result_team_points INT,
   result_mar_place INT,
   result_mar_points INT,
   result_point_prime BOOL,

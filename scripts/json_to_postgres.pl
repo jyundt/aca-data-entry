@@ -150,10 +150,11 @@ print "COMPLETE!\n";
 
 foreach my $rider_hash (@{$race_hash->{'riders'}}){
 
+
 	#Let's start by finding if we have a unique rider id for this rider
 	#if not, we'll make one
 	my $racer_name = $rider_hash->{'name'};
-    my $racer_id;
+	my $racer_id;
 	$query = $dbh->prepare("SELECT * FROM racer WHERE racer_name='$racer_name'");
 	if ($query->execute < 1){
 		#It looks like we don't have a rider ID, let's update the "racer" table and grab one
@@ -165,7 +166,7 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 
 	#Do the same for team id
 	my $team_name;
-    my $team_id;
+	my $team_id;
 	my $participant_id;
 
 	if (exists $rider_hash->{'team'}){
@@ -192,9 +193,19 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 		VALUES ('$racer_id', '$race_id') RETURNING participant_id"));	
 	}
 
+
+	#Once we have our participant_id, we can start to build our
+	#result insert statement.
+	#To make this easier, I'm going to use a hash
+	
+	my %result_hash;
+	$result_hash{'participant_id'} = $participant_id;
 	#Now we have to unwind the primes and see if this racer/rider won anything
 	foreach my $prime_hash (@{$race_hash->{'primes'}}){
 		if ($prime_hash->{'name'} eq $racer_name){
+			if ($prime_hash->{'prime'} eq "Point Prime"){
+				$result_hash{'result_point_prime'} = "True";
+			}
 			my $prime_description= $prime_hash->{'prime'};
 			$dbh->do("INSERT into prime(participant_id, prime_description) VALUES ('$participant_id', '$prime_description')");
 		}
@@ -202,8 +213,50 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 
 
 	#Start updating result table with actual point/team/mar information
-	#Unfortunately I'm still not sure how to handle things like 
 	
+	foreach my $mar_hash (@{$race_hash->{'mar'}}){
+		if ($mar_hash->{'name'} eq $racer_name){
+			$result_hash{'result_mar_place'} = $mar_hash->{'mar_place'};
+			#There is a possibility that we didn't get MAR points
+			if (exists $mar_hash->{'mar_points'}){
+				$result_hash{'result_mar_points'}= $mar_hash->{'mar_points'};
+			}
+		}
+	}
 
+
+	foreach my $key (keys %$rider_hash){
+		if (($key eq "time") or ($key eq "name") or ($key eq "team")){
+			#We don't need this data
+			next;
+		}elsif ($key eq "place"){
+			$result_hash{'result_place'} = $rider_hash->{$key};
+		}elsif ($key eq "points"){
+			$result_hash{'result_points'} = $rider_hash->{$key};
+		}elsif ($key eq "team_points"){
+			$result_hash{'result_team_points'} = $rider_hash->{$key};
+		}
+	}
+
+	my @result_insert_keys;
+	my @result_insert_values;
+	foreach my $key (keys %result_hash){
+		#print "$key: $result_hash{$key}\n";
+		@result_insert_keys = (keys %result_hash);
+		@result_insert_values = (values %result_hash);
+	}
+
+	#Try our insert?
+	my $result_columns = join("," , @result_insert_keys);
+	my $result_values= join("," , @result_insert_values);
+	$dbh->do("INSERT INTO result ($result_columns) VALUES ($result_values)");
+	
+	#Make sure we don't carry over things to the next loop?
+	undef %result_hash;
+	undef $participant_id;
+	undef @result_insert_keys;
+	undef @result_insert_values;
+	undef $result_columns;
+	undef $result_values;
 }
 
