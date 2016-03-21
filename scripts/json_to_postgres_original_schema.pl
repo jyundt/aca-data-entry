@@ -15,7 +15,7 @@ binmode(STDOUT, ":utf8");
 
 
 #Establish our DB connection
-my $dbh = DBI->connect("DBI:Pg:dbname=oval;host=localhost", "postgres", "", {'RaiseError' => 1});
+my $dbh = DBI->connect("DBI:Pg:dbname=oval_original_schema;host=localhost", "postgres", "", {'RaiseError' => 1});
 
 
 #Sanity check our command line arguments
@@ -44,12 +44,12 @@ my $race_hash = decode_json($json_text);
 print "Checking to see if category \"$race_hash->{'category'}\" exists...";
 #We want to start by verifying if our race category/ID exists
 
-my $query = $dbh->prepare("SELECT * FROM race_class WHERE description='$race_hash->{'category'}'");
+my $query = $dbh->prepare("SELECT * FROM race_class WHERE race_class_description='$race_hash->{'category'}'");
 if  ($query->execute <1){
 	print "COMPLETE\n";
 	print "Adding category \"$race_hash->{'category'}\" to DB...";
 	#If our ID doesn't exist, we add it to "race_class" table
-	if ($dbh->do("INSERT INTO race_class (description) VALUES ('$race_hash->{'category'}')")){
+	if ($dbh->do("INSERT INTO race_class (race_class_description) VALUES ('$race_hash->{'category'}')")){
 		print "COMPLETE\n";
 	}else{
 		print "FAILED!\n";
@@ -61,7 +61,7 @@ if  ($query->execute <1){
 }
 
 #Query our category ID (race_class_id) from the DB
-my $race_class_id = pop($dbh->selectcol_arrayref("SELECT id FROM race_class WHERE description='$race_hash->{'category'}'"));
+my $race_class_id = pop($dbh->selectcol_arrayref("SELECT race_class_id FROM race_class WHERE race_class_description='$race_hash->{'category'}'"));
 
 #Start building our insert string for adding a row to the "race" table
 my $race_date = $race_hash->{'date'};
@@ -101,9 +101,9 @@ my $race_usac_permit = $race_hash->{'usac_permit'};
 
 print "Adding row to \"race\" table...";
 #Insert our race information to "race" table
-my $race_id = pop($dbh->selectcol_arrayref("INSERT INTO race (date, slow_lap, fast_lap, average_lap, weather, laps, usac_permit, class_id)
+my $race_id = pop($dbh->selectcol_arrayref("INSERT INTO race (race_date, race_slow_lap, race_fast_lap, race_average_lap, race_weather, race_laps, race_usac_permit, race_class_id)
    VALUES ('$race_date', '$race_slow_lap', '$race_fast_lap', '$race_average_lap', '$race_weather', '$race_laps', 
-   '$race_usac_permit', '$race_class_id') RETURNING id")) or print "FAILED!\n" and exit 1;
+   '$race_usac_permit', '$race_class_id') RETURNING race_id")) or print "FAILED!\n" and exit 1;
 print "COMLETE\n";
 
 #Let's start with easy stuff and add marshals / officials (if any)
@@ -111,13 +111,13 @@ print "COMLETE\n";
 print "Adding officials to \"official\" and \"race_official\" tables...";
 foreach my $official (@{$race_hash->{'officials'}}){
 	#Have we seen this official before?
-	$query = $dbh->prepare("SELECT * FROM official where name='$official'");
+	$query = $dbh->prepare("SELECT * FROM official where official_name='$official'");
 	my $official_id;
     if ($query->execute <1){
-		$official_id = pop($dbh->selectcol_arrayref("INSERT INTO official(name) VALUES('$official') RETURNING id"))
+		$official_id = pop($dbh->selectcol_arrayref("INSERT INTO official(official_name) VALUES('$official') RETURNING official_id"))
 		or print "FAILED!\n" and exit 1;
 	}else{
-		$official_id = pop($dbh->selectcol_arrayref("SELECT id from official where name='$official'"));
+		$official_id = pop($dbh->selectcol_arrayref("SELECT official_id from official where official_name='$official'"));
 	}
 
 	#Now we create a new race_official entry
@@ -130,13 +130,13 @@ print "COMPLETE!\n";
 print "Adding marshals to \"marshals\" and \"race_marshal\" tables...";
 foreach my $marshal(@{$race_hash->{'marshals'}}){
 	#Have we seen this marshal before?
-	$query = $dbh->prepare("SELECT * FROM marshal where name='$marshal'");
+	$query = $dbh->prepare("SELECT * FROM marshal where marshal_name='$marshal'");
 	my $marshal_id;
     if ($query->execute <1){
-		$marshal_id = pop($dbh->selectcol_arrayref("INSERT INTO marshal(name) VALUES('$marshal') RETURNING id"))
+		$marshal_id = pop($dbh->selectcol_arrayref("INSERT INTO marshal(marshal_name) VALUES('$marshal') RETURNING marshal_id"))
 		or print "FAILED!\n" and exit 1;
 	}else{
-		$marshal_id = pop($dbh->selectcol_arrayref("SELECT id from marshal where name='$marshal'"));
+		$marshal_id = pop($dbh->selectcol_arrayref("SELECT marshal_id from marshal where marshal_name='$marshal'"));
 	}
 
 	#Now we create a new race_marshal entry
@@ -155,13 +155,13 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 	#if not, we'll make one
 	my $racer_name = $rider_hash->{'name'};
 	my $racer_id;
-	$query = $dbh->prepare("SELECT * FROM racer WHERE name='$racer_name'");
+	$query = $dbh->prepare("SELECT * FROM racer WHERE racer_name='$racer_name'");
 	if ($query->execute < 1){
 		#It looks like we don't have a rider ID, let's update the "racer" table and grab one
-		$racer_id = pop($dbh->selectcol_arrayref("INSERT INTO racer(name) VALUES ('$racer_name') RETURNING id"));	
+		$racer_id = pop($dbh->selectcol_arrayref("INSERT INTO racer(racer_name) VALUES ('$racer_name') RETURNING racer_id"));	
 	}else{
 		#Cool, we have a unique racer_id, let's grab it
-		$racer_id = pop($dbh->selectcol_arrayref("SELECT id from racer where name='$racer_name'"));	
+		$racer_id = pop($dbh->selectcol_arrayref("SELECT racer_id from racer where racer_name='$racer_name'"));	
 	}
 
 	#Do the same for team id
@@ -176,21 +176,21 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 	}
 	
 	if ($team_name ne ""){
-		$query = $dbh->prepare("SELECT * FROM team WHERE name='$team_name'");
+		$query = $dbh->prepare("SELECT * FROM team WHERE team_name='$team_name'");
 		if ($query->execute < 1){
 			#It looks like we don't have a team ID, let's update the "team" table and grab one
-			$team_id = pop($dbh->selectcol_arrayref("INSERT INTO team(name) VALUES ('$team_name') RETURNING id"));	
+			$team_id = pop($dbh->selectcol_arrayref("INSERT INTO team(team_name) VALUES ('$team_name') RETURNING team_id"));	
 		}else{
 			#Cool, we have a unique team_id, let's grab it
-			$team_id = pop($dbh->selectcol_arrayref("SELECT id from team where name='$team_name'"));	
+			$team_id = pop($dbh->selectcol_arrayref("SELECT team_id from team where team_name='$team_name'"));	
 		}
 	
 		#With racer_id, team_id and race_id we can now update our join table
 		$participant_id = pop($dbh->selectcol_arrayref("INSERT INTO participant (racer_id, team_id, race_id) 
-		VALUES ('$racer_id', '$team_id', '$race_id') RETURNING id"));	
+		VALUES ('$racer_id', '$team_id', '$race_id') RETURNING participant_id"));	
 	}else{
 		$participant_id = pop($dbh->selectcol_arrayref("INSERT INTO participant (racer_id, race_id) 
-		VALUES ('$racer_id', '$race_id') RETURNING id"));	
+		VALUES ('$racer_id', '$race_id') RETURNING participant_id"));	
 	}
 
 
@@ -204,10 +204,10 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 	foreach my $prime_hash (@{$race_hash->{'primes'}}){
 		if ($prime_hash->{'name'} eq $racer_name){
 			if ($prime_hash->{'prime'} eq "Point Prime"){
-				$result_hash{'point_prime'} = "True";
+				$result_hash{'result_point_prime'} = "True";
 			}
 			my $prime_description= $prime_hash->{'prime'};
-			$dbh->do("INSERT into prime(participant_id, description) VALUES ('$participant_id', '$prime_description')");
+			$dbh->do("INSERT into prime(participant_id, prime_description) VALUES ('$participant_id', '$prime_description')");
 		}
 	}
 
@@ -216,10 +216,10 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 	
 	foreach my $mar_hash (@{$race_hash->{'mar'}}){
 		if ($mar_hash->{'name'} eq $racer_name){
-			$result_hash{'mar_place'} = $mar_hash->{'mar_place'};
+			$result_hash{'result_mar_place'} = $mar_hash->{'mar_place'};
 			#There is a possibility that we didn't get MAR points
 			if (exists $mar_hash->{'mar_points'}){
-				$result_hash{'mar_points'}= $mar_hash->{'mar_points'};
+				$result_hash{'result_mar_points'}= $mar_hash->{'mar_points'};
 			}
 		}
 	}
@@ -230,11 +230,11 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 			#We don't need this data
 			next;
 		}elsif ($key eq "place"){
-			$result_hash{'place'} = $rider_hash->{$key};
+			$result_hash{'result_place'} = $rider_hash->{$key};
 		}elsif ($key eq "points"){
-			$result_hash{'points'} = $rider_hash->{$key};
+			$result_hash{'result_points'} = $rider_hash->{$key};
 		}elsif ($key eq "team_points"){
-			$result_hash{'team_points'} = $rider_hash->{$key};
+			$result_hash{'result_team_points'} = $rider_hash->{$key};
 		}
 	}
 
