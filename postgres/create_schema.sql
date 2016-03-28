@@ -14,7 +14,7 @@ CREATE TABLE marshal (
 
 CREATE TABLE race_class (
   id SERIAL PRIMARY KEY,
-  description VARCHAR(200) NOT NULL UNIQUE
+  name VARCHAR(200) NOT NULL UNIQUE
 );
 
 CREATE TABLE racer (
@@ -65,7 +65,7 @@ CREATE TABLE race_marshal (
 CREATE TABLE prime (
   id SERIAL PRIMARY KEY,
   participant_id INT REFERENCES participant,
-  description VARCHAR(200) NOT NULL
+  name VARCHAR(200) NOT NULL
 );
 
 CREATE TABLE result (

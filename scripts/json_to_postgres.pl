@@ -44,12 +44,12 @@ my $race_hash = decode_json($json_text);
 print "Checking to see if category \"$race_hash->{'category'}\" exists...";
 #We want to start by verifying if our race category/ID exists
 
-my $query = $dbh->prepare("SELECT * FROM race_class WHERE description='$race_hash->{'category'}'");
+my $query = $dbh->prepare("SELECT * FROM race_class WHERE name='$race_hash->{'category'}'");
 if  ($query->execute <1){
 	print "COMPLETE\n";
 	print "Adding category \"$race_hash->{'category'}\" to DB...";
 	#If our ID doesn't exist, we add it to "race_class" table
-	if ($dbh->do("INSERT INTO race_class (description) VALUES ('$race_hash->{'category'}')")){
+	if ($dbh->do("INSERT INTO race_class (name) VALUES ('$race_hash->{'category'}')")){
 		print "COMPLETE\n";
 	}else{
 		print "FAILED!\n";
@@ -61,7 +61,7 @@ if  ($query->execute <1){
 }
 
 #Query our category ID (race_class_id) from the DB
-my $race_class_id = pop($dbh->selectcol_arrayref("SELECT id FROM race_class WHERE description='$race_hash->{'category'}'"));
+my $race_class_id = pop($dbh->selectcol_arrayref("SELECT id FROM race_class WHERE name='$race_hash->{'category'}'"));
 
 #Start building our insert string for adding a row to the "race" table
 my $race_date = $race_hash->{'date'};
@@ -206,8 +206,8 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 			if ($prime_hash->{'prime'} eq "Point Prime"){
 				$result_hash{'point_prime'} = "True";
 			}
-			my $prime_description= $prime_hash->{'prime'};
-			$dbh->do("INSERT into prime(participant_id, description) VALUES ('$participant_id', '$prime_description')");
+			my $prime_name= $prime_hash->{'prime'};
+			$dbh->do("INSERT into prime(participant_id, name) VALUES ('$participant_id', '$prime_name')");
 		}
 	}
 
