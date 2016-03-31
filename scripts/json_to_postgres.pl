@@ -240,16 +240,21 @@ foreach my $rider_hash (@{$race_hash->{'riders'}}){
 
 	my @result_insert_keys;
 	my @result_insert_values;
+    #adding based on merged participant<->result schema change
+    delete ($result_hash{'participant_id'});
 	foreach my $key (keys %result_hash){
 		#print "$key: $result_hash{$key}\n";
 		@result_insert_keys = (keys %result_hash);
 		@result_insert_values = (values %result_hash);
+        $dbh->do("UPDATE participant SET $key = $result_hash{$key} where id = $participant_id");
 	}
 
 	#Try our insert?
 	my $result_columns = join("," , @result_insert_keys);
 	my $result_values= join("," , @result_insert_values);
-	$dbh->do("INSERT INTO result ($result_columns) VALUES ($result_values)");
+     
+	#$dbh->do("INSERT INTO result ($result_columns) VALUES ($result_values)");
+	
 	
 	#Make sure we don't carry over things to the next loop?
 	undef %result_hash;

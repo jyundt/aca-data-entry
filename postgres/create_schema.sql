@@ -47,7 +47,17 @@ CREATE TABLE participant (
   id SERIAL PRIMARY KEY,
   racer_id INT REFERENCES racer,
   team_id INT REFERENCES team,
-  race_id INT REFERENCES race
+  race_id INT REFERENCES race,
+  place INT,
+  points INT,
+  team_points INT,
+  mar_place INT,
+  mar_points INT,
+  point_prime BOOL,
+  dnf BOOL,
+  dns BOOL,
+  relegated BOOL,
+  disqualified BOOL
 );
 
 CREATE TABLE race_official (
@@ -67,19 +77,3 @@ CREATE TABLE prime (
   participant_id INT REFERENCES participant,
   name VARCHAR(200) NOT NULL
 );
-
-CREATE TABLE result (
-  id SERIAL PRIMARY KEY,
-  participant_id INT REFERENCES participant,
-  place INT,
-  points INT,
-  team_points INT,
-  mar_place INT,
-  mar_points INT,
-  point_prime BOOL,
-  dnf BOOL,
-  dns BOOL,
-  relegated BOOL,
-  disqualified BOOL
-);
-
