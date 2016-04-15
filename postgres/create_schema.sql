@@ -34,6 +34,7 @@ CREATE TABLE race (
   id SERIAL PRIMARY KEY,
   date DATE NOT NULL,
   class_id INT REFERENCES race_class,
+  starters INT,
   duration INTERVAL,
   slow_lap INTERVAL,
   fast_lap INTERVAL,
@@ -76,4 +77,13 @@ CREATE TABLE prime (
   id SERIAL PRIMARY KEY,
   participant_id INT REFERENCES participant,
   name VARCHAR(200) NOT NULL
+);
+
+CREATE TABLE admin (
+  id SERIAL PRIMARY KEY,
+  email VARCHAR(200) NOT NULL UNIQUE,
+  username VARCHAR(200) NOT NULL UNIQUE,
+  password_hash VARCHAR(128),
+  confirmed BOOL DEFAULT FALSE,
+  name VARCHAR(200)
 );
