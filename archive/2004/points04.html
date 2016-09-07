@@ -1,0 +1,596 @@
+<HTML>
+<HEAD>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=313;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<TITLE>Allegheny Cycling Association</TITLE>
+<META HTTP-EQUIV="Expires" CONTENT=0>
+<script language="javascript">
+<!--
+	var NotOldIE = true;
+
+	if((navigator.appName == "Microsoft Internet Explorer") &&
+	   (navigator.appVersion.charAt(0) == "2"))
+	{
+		NotOldIE=false;
+	}
+
+//pre-cach 'menu' button state images
+
+if(document.images)
+
+  {
+  
+     var home_off = new Image(80,25)
+     home_off.src = "acahomeoff.gif"
+     var results_off = new Image(80,25)
+     results_off.src = "acaresultsoff.gif"
+     var sched_off = new Image(80,25)
+     sched_off.src = "acaschedoff.gif"
+     var search_off = new Image(80,25)
+     search_off.src = "acasearchoff.gif"
+     var about_off = new Image(80,25)
+     about_off.src = "acaaboutoff.gif"
+     var charter_off = new Image(125,28)
+     charter_off.src = "acacharteroff.gif"
+     var joinaca_off = new Image(125,28)
+     joinaca_off.src = "acajoinacaoff.gif"
+     var joinmail_off = new Image(125,28)
+     joinmail_off.src = "acajoinmailoff.gif"
+     var links_off = new Image(125,28)
+     links_off.src = "acalinksoff.gif"
+     var ads_off = new Image(125,28)
+     ads_off.src = "acaadsoff.gif"
+     var contact_off = new Image(125,28)
+     contact_off.src = "acacontactoff.gif"
+
+     var home_on = new Image(80,25)
+     home_on.src = "acahomeon.gif"
+     var results_on = new Image(80,25)
+     results_on.src = "acaresultson.gif"
+     var sched_on = new Image(80,25)
+     sched_on.src = "acaschedon.gif"
+     var search_on = new Image(80,25)
+     search_on.src = "acasearchon.gif"
+     var about_on = new Image(80,25)
+     about_on.src = "acaabouton.gif"
+     var charter_on = new Image(125,28)
+     charter_on.src = "acacharteron.gif"
+     var joinaca_on = new Image(125,28)
+     joinaca_on.src = "acajoinacaon.gif"
+     var joinmail_on = new Image(125,28)
+     joinmail_on.src = "acajoinmailon.gif"
+     var links_on = new Image(125,28)
+     links_on.src = "acalinkson.gif"
+     var ads_on = new Image(125,28)
+     ads_on.src = "acaadson.gif"
+     var contact_on = new Image(125,28)
+     contact_on.src = "acacontacton.gif"
+  }
+
+//functions that swap images
+
+function di(id,name)
+
+  {
+
+  if(document.images)document.images[id].src=eval(name+".src");
+
+  }
+
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" link="#996666" alink="#996666" vlink="#669999" TOPMARGIN="0" LEFTMARGIN="0" RIGHTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.acaracing.com/points04.html";
+
+var firstYear = 1996;
+var displayDay = "9";
+var displayMonth = "Nov";
+var displayYear = "2005";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.acaracing.com/points04.html" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20051109113746" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20050206211651/http://acaracing.com/points04.html" title="6 Feb 2005">FEB</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 11:37:46 Nov 9, 2005">NOV</td>
+		<td class="f" nowrap="nowrap">
+		
+		    Dec
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20050206211651/http://acaracing.com/points04.html" title="21:16:51 Feb 6, 2005"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 11:37:46 Nov 9, 2005">9</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+               
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20041019044846/http://www.acaracing.com/points04.html" title="19 Oct 2004"><strong>2004</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 11:37:46 Nov 9, 2005">2005</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2006
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20051109113746*/http://www.acaracing.com/points04.html" title="See a list of every capture for this URL">7 captures</a>
+           <div class="r" title="Timespan for captures of this URL">30 Jun 04 - 9 Nov 05</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000001010101_2005:10:110000000010_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<table width="100%" height="200" cellspacing="0" cellpadding="0" border="0">
+  <tr valign="top">
+    <td bgcolor="#FFFFFF" align="left" valign="top" height="175">
+      <img src="acalogo.gif" height="175" border="0">
+      <img src="aca.jpg" width="625" height="175" border="0">
+    </td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#FFFFFF" align="left" height="25">
+
+      <img src="acaspace.gif">
+      <a href="home.html" onMouseOver="di('home','home_on');"onMouseOut="di('home','home_off');"><img name="home" src="acahomeoff.gif" width="80" height="25" border="0" alt="ACA: Home"></a><a href="results.html" onMouseOver="di('results','results_on');"onMouseOut="di('results','results_off');"><img name="results" src="acaresultsoff.gif" width="80" height="25" border="0" alt="ACA: Race Results"></a><a href="sched.html" onMouseOver="di('sched','sched_on');"onMouseOut="di('sched','sched_off');"><img name="sched" src="acaschedoff.gif" width="80" height="25" border="0" alt="ACA: Activity Schedule"></a><a href="search.html" onMouseOver="di('search','search_on');"onMouseOut="di('search','search_off');"><img name="search" src="acasearchoff.gif" width="80" height="25" border="0" alt="ACA: Search Web site"></a><a href="about.html" onMouseOver="di('about','about_on');"onMouseOut="di('about','about_off');"><img name="about" src="acaaboutoff.gif" width="80" height="25" border="0" alt="ACA:  About the ACA"></a>
+
+    </td>
+  </tr>
+  <tr valign="top" width="170" height="1">
+    <td bgcolor="#FFFFFF" align="left" colspan="3">
+      <img src="acaline.gif">
+    </td>
+  </tr>
+</table>
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="top" align="middle" width="170" height="1500" bgcolor="#FFFFFF">
+
+      <table bgcolor="#996666" width="155" cellspacing="1" cellpadding="0" border="0">
+        <tr valign="top">
+          <td bgcolor="#FFFFFF" align="middle">
+
+
+            <table bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0">
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="acacharter.html" onMouseOver="di('charter','charter_on');"onMouseOut="di('charter','charter_off');"><img name="charter" src="acacharteroff.gif" width="125" height="28" border="0" alt="ACA: Charter"></a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="member.html" onMouseOver="di('joinaca','joinaca_on');"onMouseOut="di('joinaca','joinaca_off');"><img name="joinaca" src="acajoinacaoff.gif" width="125" height="28" border="0" alt="ACA: Join the ACA"></a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="maillist.html" onMouseOver="di('joinmail','joinmail_on');"onMouseOut="di('joinmail','joinmail_off');"><img name="joinmail" src="acajoinmailoff.gif" width="125" height="28" border="0" alt="ACA: Join the ACA Mail List"></a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="coollink.html" onMouseOver="di('links','links_on');"onMouseOut="di('links','links_off');"><img name="links" src="acalinksoff.gif" width="125" height="28" border="0" alt="ACA: Cool Links"></a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="ads.html" onMouseOver="di('ads','ads_on');"onMouseOut="di('ads','ads_off');"><img name="ads" src="acaadsoff.gif" width="125" height="28" border="0" alt="ACA: Classified Ads"></a>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td bgcolor="#FFFFFF" align="middle">
+                  <a href="mailto:info@acaracing.com" onMouseOver="di('contact','contact_on');"onMouseOut="di('contact','contact_off');"><img name="contact" src="acacontactoff.gif" width="125" height="28" border="0" alt="ACA: Contact Us"></a>
+                </td>
+              </tr>
+            </table>  
+
+
+          </td>
+        </tr>
+      </table>  
+
+
+	</td>
+    <td valign="top" align="left" height="1500" width="10" bgcolor="#FFFFFF">
+	&nbsp;
+	</td>
+    <td valign="top" align="left" height="1500" bgcolor="#FFFFFF">
+<!--
+//-->
+       <font face="verdana, arial, helvetica"><b>Race Results</b></font>
+       <font face="verdana, arial, helvetica">
+       <p>
+       <B>2004 Allegheny Cycling Association Summer Crit Series</B><BR>
+       Pittsburgh Bike Oval at Washington Blvd<BR>
+       <B>*** FINAL POINTS ***</B><BR>
+<p>
+<pre>
+
+
+Tie Breakers - Most wins, Most 2nd places, etc.
+
+* Indicates Series Champion
+
+2004 Washington Blvd Crit Points - Cat A -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+--------------------+------------------------+--------------+-----------+-----------+-----
+   1  Jake Lifson *        Sci-Fit/Dirty Harrys      4     1 11 11  9  3  1  5 10 11 11 11   88
+   2  Jason Zimmerman      Freddie Fu                1  8 10  8  8 10  3     3  8  8  8  8   83
+   3  Ryan Borcz           Sette Nove                   6  8  5     2  6    10  6  6     3   51.5
+   4  Jay Downs            WVU HealthCare           10  5  5  3  5  3        8  1  4     1   45
+   5  Gunnar Shogren       ESSM/GPOA                    1  3  6  1  5  8     6  4            34
+   6  Mark Nicholl         ESSM/GPOA                 2 10     4  6  4                 6      32
+   7  Charlie Chulak       Sci-Fit/Dirty Harrys                  4           5        5  5   19
+   8  Jimmy Spaniel        Freddie Fu                8     4           5                     17
+   9  Craig Rader          Freddie Fu                         2  2  6  1        3            14
+  10  Ryan McDermitt       WVU HealthCare               1  2          10                     13
+  11  Joe Ruggery          Freddie Fu                                        2  7     4      12.5
+  12  Bob Gotlieb          Sci-Fit/Dirty Harrys                                 2  2  2  6   12
+  13  Brandon Bucinski     Sci-Fit/Dirty Harrys            6                       5         11
+  13  Doug Williamson      ESSM/GPOA                 6  3                                2   11
+  15  Dan Greene           Trizilla                           1     1        1           4    7
+  16  Bryan Routledge      Sette Nove                5                                        5
+  16  Frankie Ross         Freddie Fu                      1           4                      5
+  18  Rob Gaus             Freddie Fu                4                                        4
+  18  Brian Wieczorek      Freddie Fu                   4                                     4
+  18  Chris Rassekh        WVU HealthCare                                          1  3       4
+  21  Mike Jones           AGH/NHV                               3                            3
+  21  Jared Babik          ESSM/GPOA                                               3          3
+  21  Ray Russell          Sette Nove                   2                             1       3
+
+2004 Washington Blvd Crit Points - Cat A -- Teams FINAL
+                                                     June           July        August           
+Place Team                                           2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+---------------------------------------------+--------------+-----------+-----------+-----
+   1  Team Freddie Fu *                             12 12 15 10 10 16 11     5 17  8 12  8  135.5
+   2  Sci-Fit/Dirty Harrys                          10  3  6 10 14  8  3     9 12 17 17 21  130
+   3  ESSM/GPOA                                      2 11  3 10  7  9  8     6  4  3  6  2   71
+   4  WVU HealthCare                                10  5  7  3  5  3 11     8  1  5  3  1   62
+   5  Sette Nove                                     5  8  8  5     2  6    10  6  6  1  3   59.5
+   6  Trizilla                                                1     1        1           4    7
+   7  AGH/NHV                                                    3                            3
+
+2004 Washington Blvd Crit MAR Points - Cat A -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+--------------------+------------------------+--------------+-----------+-----------+-----
+   1  Gunnar Shogren *     ESSM/GPOA                       3        1  3     3  3  2  3  3   21
+   2  Frankie Ross         Freddie Fu                1  3     2  2              2  1  2      13
+   3  Brandon Bucinski     Sci-Fit/Dirty Harrys      2     1     3              1        2    9
+   4  John Evanko          ESSM/GPOA                    1     3     2                         6
+   4  Ryan McDermitt       WVU HealthCare                        1  3  2                      6
+   6  Doug Williamson      ESSM/GPOA                 3                                        3
+   6  Ryan Borcz           Sette Nove                      2           1                      3
+   8  Todd Courtney        AGH/NHV                      2                                     2
+   8  Charlie Chulak       Sci-Fit/Dirty Harrys                              2                2
+  10  Chris Rassekh        WVU HealthCare                     1                               1
+  10  Jay Downs            WVU HealthCare                                    1                1
+  10  Jake Lifson          Sci-Fit/Dirty Harrys                                       1       1
+
+2004 Washington Blvd Crit Points - Cat B -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+--------------------+------------------------+--------------+-----------+-----------+-----
+   1  Nick Fischer *       Freddie Fu                  10 10 10 10  8  3 11 10 10  8  4 10  104
+   2  Stephen Cummings     Kraynick's/Mezzatesta     8  8  8  8  5  5  7  6  5  8  5 10  6   89
+   3  Ted McPherson        Sci-Fit/Dirty Harrys      6  6  6  4  7  7  5  1  2  7  5  5  8   69
+   4  Kevin Peters         Trizilla                           6  8 10     8  9     3         44
+   5  Steve Bedilion       Trizilla                              3  4  8  5  6  3  2  7  5   43
+   6  Justin Kanter        AGH/NHV                  10     2  4     2 10          10         38
+   7  Jim Skirboll         Trizilla                  5     5              3           8      21
+   7  Mike Densmore        Trizilla                  3           2        4  4  4  1  3      21
+   9  Doug Reigner         Trizilla                                 3  4     3           5   15
+  10  Jason Bierly         Sci-Fit/Dirty Harrys         4  3  5                       1      13
+  11  Bill Ehler           AGH/NHV                   4  2  2  1                               9
+  12  Sean Easley          BigBang Bikes/TREK                                   2  6          8
+  13  Kirby Krieger        BigBang Bikes/TREK           5     2                               7
+  13  Skip Rogers          Hites Bikes/Fox              1  4                          2       7
+  15  Aaron Timbrook       Sci-Fit/Dirty Harrys      2                       1           3    6
+  16  Turner Johnson       ESSM/GPOA                                            5             5
+  17  Bret Rothmeyer       Kraynick's/Mezzatesta                 4                            4
+  17  John Graham          Trizilla                              1        2     1             4
+  17  Andy Gorski          AGH/NHV                                     2                 2    4
+  20  Chad Sims            Trizilla                     3                                     3
+  21  Greg Angell          Kraynick's/Mezzatesta        1                                     1
+  21  Matt Taylor          BigBang Bikes/TREK        1                                        1
+  21  Henry Wang           BigBang Bikes/TREK                       1                         1
+  21  Jonathan Montag      Trizilla                                    1                      1
+  21  Jim Muir             Sci-Fit/Dirty Harrys                                          1    1
+
+2004 Washington Blvd Crit Points - Cat B -- Teams FINAL
+                                                     June           July        August           
+Place Team                                           2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+---------------------------------------------+--------------+-----------+-----------+-----
+   1  Trizilla *                                     8  3  5  6 13 17 14 17 18  8  6 17  9  141
+   2  Team Freddie Fu                                  10 10 10 10  8  3 10 10 10  8  4 10  103
+   3  Sci-fit/Dirty Harrys                           8 10  9  9  6  6  5  6  5  6  5  6 12   93
+   4  Karynick's/Mezzatesta                          8  8  8  8  9  5  6  6  5  8  4 10  6   91
+   5  AGH/NHV                                       10     1  4     2 10          10     2   39
+   6  Big Bang Bikes/TREK                            1  5     2  1  1  1        2  6         19
+   7  Pittsburgh Masters Velo Club                   4  2  2                                  8
+   7  Hites Bikes/Fox                                   1  4                 1        2       8
+   9  ESSM/GPOA                                                                 5             5
+
+2004 Washington Blvd Crit MAR Points - Cat B -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      2  9 16 23 30  7 14 21 28  4 11 18 25 Total
+-----+--------------------+------------------------+--------------+-----------+-----------+-----
+   1  Jon Montag *         Trizilla                        2        3  2  3  2  3            15
+   2  Greg Angell          Kraynick's/Mezzatesta        3  3  3              3  2            14
+   3  Stephen Cummings     Kraynick's/Mezzatesta     1     1  2  1     1           2  3      11
+   4  Nick Fischer         Freddie Fu                   2     1  3                       2    8
+   5  Kevin Peters         Trizilla                              2  1     2           1       6
+   6  Doug Reigner         Trizilla                                    3                 1    4
+   7  Justin Kanter        AGH/NHV                                                 3          3
+   7  Sean Easley          BigBang Bikes/TREK                                            3    3
+   9  Matt Taylor          BigBang Bikes/TREK        2                                        2
+   9  Ed Johnson           Kraynick's/Mezzatesta                    2                         2
+   9  Mike Densmore        Trizilla                                                   2       2
+  12  Henry Wang           BigBang Bikes/TREK           1                                     1
+  12  John Fite            Sci-Fit/Dirty Harrys                           1                   1
+  12  Turner Johnson       ESSM/GPOA                                         1                1
+  12  Andy Gorski          AGH/NHV                                              1             1
+  12  Brett Rothmeyer      Kraynick's/Mezzatesta                                   1          1
+
+2004 Washington Blvd Crit Points - Cat C -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      1  8 15 22 29  6 13 20 27  3 10 17 24 31 Total
+-----+--------------------+------------------------+--------------+-----------+--------------+-----
+   1  Patrick Conneely *                                   2    10  6  8  4  4  8  7  5  8  8   70
+   2  Donnie Panizales     Hites Bikes/Fox              5  5  8  8  1 10 10  8  3  5     1  4   68
+   3  Sinead Miller        AGH/NHV                         8     5 10       10  6 10     5 10   64
+   4  Dale Christopher     Kraynick's/Mezzatesta     2  5     5  3  5  3  8  3  5  3 10  6  5   63
+   5  Chris Hoffman                                  3  2  1     4  2  2  5  6  2  2  8  3      40
+   6  Xavier Szigethy      Panther Phys Therapy                  6  8  4     2 10  1     2  6   39
+   7  Doug Riegner         Trizilla                 10 10    10                                 30
+   8  Jeff Grimm                                                             2  4  8    10  3   27
+   9  Steve Bedilion       Trizilla                  8  8 10                                    26
+  10  Rich Sanzi                                        3     6        6                 4      19
+  11  Don Rudberg                                          3        4  1  6                     14
+  12  Keith Lehman         Volpatti Cycles              6  6                                    12
+  13  Bryan Brenneman                                6     4                                    10
+  13  Marshal Hartley      AGH/NHV                   4                       5  1               10
+  15  Jim Andreyo          Trizilla                           4                       4     1    9
+  16  Matt Riva                                                     3  5                         8
+  16  Scott Keddal                                               2                    6          8
+  18  Brian DiSalle                                  5  1                                        6
+  19  Paul Ricci           Sci-Fit/Dirty Harrys                           4                      4
+  19  Todd Dowling                                                                 4             4
+  21  Dave Hickey          Hites Bikes/Fox                                                  2    2
+  22  Paul Sanford         BigBang Bikes/TREK                    1                               1
+
+2004 Washington Blvd Crit MAR Points - Cat C -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      1  8 15 22 29  6 13 20 27  3 10 17 24 31 Total
+-----+--------------------+------------------------+--------------+-----------+--------------+-----
+   1  Dale Christopher *   Kraynick's/Mezzatesta                       1     2     3  3     1   10
+   2  Doug Riegner         Trizilla                  2  3     3                                  8
+   3  Chris Hoffman                                                             1     1  3       5
+   4  Sinead Miller        AGH/NHV                                  1        1  2                4
+   5  Todd Dowling                                                              1  2             3
+   6  Bryan Brenneman                                   2                                        2
+
+2004 Washington Blvd Crit Points - Women -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      1  8 15 22 29  6 13 20 27  3 10 17 24 31 Total
+-----+--------------------+------------------------+--------------+-----------+--------------+-----
+   1  Dee Frazzini *       PCC/UPMC                 11  8 11  8 11     5 10 11     9 10 10     104
+   2  Signe O'Brien Rudber PCC/UPMC                  6     8  6  2  8 11  7  6 10  5  7  9      85
+   3  Donna DeBartolomeo   BigBang Bikes/TREK        1  4  5 10     6  8  5  3  3  4  8  5 11   73
+   4  Amy Garbark          PCC/UPMC                  4  2  6  6  5  3  6  4  2  5 10  4  6      63
+   5  Claire Palmgren      PCC/UPMC                  5  3     3  4  5  4  3  4  4  6  3  3      47
+   6  Chrissie Buerkle     Rocket/Gary Fisher                 4  6 11     8  8  8               45
+   7  Michele Johnson      BigBang Bikes/TREK        8  6        8  4  3     5  6               40
+   8  Jamie Sloan          Kraynick's/Mezzatesta     3        1  1                 3  5  4  8   25
+   9  Christa Ross         BigBang Bikes/TREK           5     2  3     2  2     2     2  1      19
+  10  Tammy Collins                                  2     4        1        1  1     1  2      12
+  11  Sinead Miller        NHV/AGH                     10                                       10
+  12  Carol Franko                                         3           1                         4
+  13  Robin DeGregory      BigBang Bikes/TREK                       2                            2
+  14  Anna Noller          ESSM/GPOA                    1                                        1
+
+2004 Washington Blvd Crit Points - Women -- Teams FINAL
+                                                     June           July        August          
+Place Team                                           1  8 15 22 29  6 13 20 27  3 10 17 24 31 Total
+-----+---------------------------------------------+--------------+-----------+--------------+-----
+   1  PCC/UPMC *                                    21 15 24 24 19 19 24 21 20 19 24 20 24     274
+   2  BigBang Bikes/TREK                            13 12     4 12  9  9  4  8 11  5 11  8 10  116
+   3  Rocket/Gary Fisher                                      5  6 10     8  8  8               45
+   4  Kraynick's/Mezzatesta                          4        3  2                 4  5  4  8   30
+   5  AGH/NHV                                          10                                       10
+   6  ESSM/GPOA                                         2                                        2
+
+2004 Washington Blvd Crit MAR Points - Women -- FINAL
+                                                     June           July        August          
+Place Name                 Team                      1  8 15 22 29  6 13 20 27  3 10 17 24 31 Total
+-----+--------------------+------------------------+--------------+-----------+--------------+-----
+   1  Amy Garbark *        PCC/UPMC                     3  2  3        3  1  3  3  3  2         23
+   2  Signe Rudberg        PCC/UPMC                        3  1  1     2  2  3           2      14
+   3  Chrissie Buerkle     Rocket/Gary Fisher                    3  3     3  1  2               12
+   4  Dee Frazini          PCC/UPMC                  2                             2  3  3      10
+   5  Donna DeBartolomeo   PCC/UPMC                        1  2        1           1  1          6
+   6  Michelle Johnson     BigBang Bikes/TREK        1                                           1
+
+</pre>
+</p>
+      </font>
+<!--
+//-->
+	  <font face="verdana, arial, helvetica" size="-2" color="#996666">
+	  <p>
+	  &nbsp;
+	  <p>
+	  Web Design by <a href="/web/20051109113746/http://www.gopolar.com/">PolarSoft&reg; Inc.</a><br>
+	  Photo by Jorge Valdes<br>
+	  ACA Logo Design by Jody Lobert
+	  </font>
+    </td>
+  </tr>
+</table>  
+</BODY>
+</HTML>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 11:37:46 Nov 9, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:46:57 Sep 7, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
